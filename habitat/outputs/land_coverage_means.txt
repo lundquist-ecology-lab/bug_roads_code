@@ -1,0 +1,15 @@
+Land Coverage Statistics in New York City
+
+Statistics by Cover Type:
+                   Count  Mean Area (m²)  Total Area (km²)
+cover_type                                                
+Building            4640           42.44          0.196924
+Ground              5000          650.18          3.250921
+High vegetation     5000          219.38          1.096901
+Low vegetation      5000           52.82          0.264097
+Medium vegetation   5000           98.68          0.493391
+
+Notes:
+- Mean Area shows the average size of individual features
+- Total Area is converted to square kilometers
+- Count shows number of individual features

@@ -1,0 +1,9 @@
+Citywide Park and Building Statistics
+=====================================
+
+       Number of Buildings  Average Building Height (m)  Maximum Building Height (m)  Buildings Under 24m (%)
+count              4355.00                          NaN                          NaN                      NaN
+mean               4439.19                        10.97                        81.36                    96.08
+std                2671.68                         6.06                        75.77                     7.78
+min                  28.00                         4.37                        12.16                    36.49
+max               17930.00                        67.13                       472.44                   100.00

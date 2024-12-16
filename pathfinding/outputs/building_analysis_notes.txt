@@ -1,0 +1,24 @@
+geopandas version: 1.0.0
+pandas version: 2.2.2
+numpy version: 1.26.4
+Processing intersection data...
+Adding borough information...
+Available borough columns: ['boro_code', 'boro_name', 'shape_area', 'shape_leng', 'geometry']
+Borough values: ['Staten Island' 'Manhattan' 'Bronx' 'Brooklyn' 'Queens']
+
+Using column 'borough' for borough names
+
+Before processing:
+Paths with no buildings (Count column): 28607
+Paths with empty height lists: 29047
+
+Found 440 paths with Count > 0 but no height data
+
+After processing:
+Paths with no buildings: 29117
+
+City-wide Stats:
+Maximum building height: 429.27 m
+Minimum building height: 0.00 m
+Mean building height: 14.49 m
+Standard error: 0.02 m

@@ -1,0 +1,10 @@
+Total number of rows in park data: 4329
+Number of rows not matching any borough: 1
+
+Number of rows in each borough:
+boro_name
+Queens           1204
+Brooklyn         1069
+Bronx             824
+Manhattan         715
+Staten Island     516

@@ -1,0 +1,30 @@
+Borough: Bronx
+  Mean Pixel Count: 148345170.00
+  SE Pixel Count: 63725848.81
+  Mean Area (m^2): 1029350.82
+  SE Area (m^2): 442186.66
+
+Borough: Brooklyn
+  Mean Pixel Count: 181468117.33
+  SE Pixel Count: 63986372.69
+  Mean Area (m^2): 1259187.30
+  SE Area (m^2): 443994.40
+
+Borough: Manhattan
+  Mean Pixel Count: 66152837.67
+  SE Pixel Count: 31882779.99
+  Mean Area (m^2): 459027.26
+  SE Area (m^2): 221231.10
+
+Borough: Queens
+  Mean Pixel Count: 291195284.00
+  SE Pixel Count: 100659881.57
+  Mean Area (m^2): 2020572.04
+  SE Area (m^2): 698467.85
+
+Borough: Staten Island
+  Mean Pixel Count: 252324254.00
+  SE Pixel Count: 102755397.36
+  Mean Area (m^2): 1750850.24
+  SE Area (m^2): 713008.40
+

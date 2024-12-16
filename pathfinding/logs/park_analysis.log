@@ -1,0 +1,21 @@
+2024-12-10 13:54:17,669 - INFO - Processing completed in 516.28 seconds
+2024-12-10 13:54:17,670 - INFO - Results saved to ..\output\intersected_buildings.csv
+2024-12-10 19:09:28,000 - INFO - Created 75,998 records
+2024-12-10 19:09:35,100 - INFO - Created 1,231,624 records
+2024-12-10 19:10:16,122 - INFO - Created 1,083,725 records
+2024-12-10 19:10:23,260 - ERROR - An error occurred: Error adding field 'fid' to layer
+Traceback (most recent call last):
+  File "Z:\research\shared\bug_roads\new_york_city\revision\pathfinding\scripts\building_count.py", line 178, in main
+    parks_gdf.to_file(output_gpkg, layer='parks', driver='GPKG')
+  File "C:\Users\mlundquist\AppData\Local\Programs\Python\Python312\Lib\site-packages\geopandas\geodataframe.py", line 1536, in to_file
+    _to_file(self, filename, driver, schema, index, **kwargs)
+  File "C:\Users\mlundquist\AppData\Local\Programs\Python\Python312\Lib\site-packages\geopandas\io\file.py", line 686, in _to_file
+    _to_file_pyogrio(df, filename, driver, schema, crs, mode, metadata, **kwargs)
+  File "C:\Users\mlundquist\AppData\Local\Programs\Python\Python312\Lib\site-packages\geopandas\io\file.py", line 748, in _to_file_pyogrio
+    pyogrio.write_dataframe(df, filename, driver=driver, metadata=metadata, **kwargs)
+  File "C:\Users\mlundquist\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyogrio\geopandas.py", line 654, in write_dataframe
+    write(
+  File "C:\Users\mlundquist\AppData\Local\Programs\Python\Python312\Lib\site-packages\pyogrio\raw.py", line 709, in write
+    ogr_write(
+  File "pyogrio\\_io.pyx", line 2342, in pyogrio._io.ogr_write
+pyogrio.errors.FieldError: Error adding field 'fid' to layer

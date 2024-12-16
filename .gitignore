@@ -1,0 +1,6 @@
+/manuscript/
+*.gpkg
+*.npy
+*.pkl
+*.DS_Store
+*.csv

@@ -1,0 +1,39 @@
+OVERALL STATISTICS
+==================
+Zero Building Paths: 28607 out of 75998
+Unique Paths Crossing Parks: 28153
+Parks Crossed per Path: min=1, max=20, mean=3.8
+Crossing Lengths (m): min=0.0, max=980.7, mean=39.0
+
+BOROUGH STATISTICS
+==================
+
+Queens
+Zero Building Paths: 9129 out of 17088
+Unique Paths Crossing Parks: 9129
+Parks Crossed per Path: min=1, max=20, mean=4.3
+Crossing Lengths (m): min=0.0, max=980.7, mean=40.8
+
+Brooklyn
+Zero Building Paths: 5911 out of 18330
+Unique Paths Crossing Parks: 5911
+Parks Crossed per Path: min=1, max=12, mean=3.0
+Crossing Lengths (m): min=0.0, max=931.2, mean=31.4
+
+Bronx
+Zero Building Paths: 5961 out of 16491
+Unique Paths Crossing Parks: 5961
+Parks Crossed per Path: min=1, max=15, mean=3.7
+Crossing Lengths (m): min=0.0, max=912.9, mean=40.2
+
+Staten Island
+Zero Building Paths: 3119 out of 5867
+Unique Paths Crossing Parks: 3119
+Parks Crossed per Path: min=1, max=10, mean=3.0
+Crossing Lengths (m): min=0.0, max=914.4, mean=45.7
+
+Manhattan
+Zero Building Paths: 3812 out of 17547
+Unique Paths Crossing Parks: 3812
+Parks Crossed per Path: min=1, max=14, mean=4.4
+Crossing Lengths (m): min=0.0, max=840.5, mean=37.9

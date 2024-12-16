@@ -1,0 +1,639 @@
+Path Complexity Analysis Results (Paths <= 1000m)
+Generated on: 2024-12-11 22:27:18
+==================================================
+
+CITYWIDE STATISTICS
+==================
+
+Number of Segments
+==================
+Number of Paths: 51,294
+Mean: 17.4209
+Standard Error: 0.039203
+Median: 18.0000
+Standard Deviation: 8.8787
+Minimum: 1.0000
+Maximum: 49.0000
+25th Percentile: 10.0000
+75th Percentile: 24.0000
+
+Average Segment Length (m)
+==========================
+Number of Paths: 51,294
+Mean: 36.6963
+Standard Error: 0.035739
+Median: 35.0793
+Standard Deviation: 8.0942
+Minimum: 0.1819
+Maximum: 50.0000
+25th Percentile: 30.4422
+75th Percentile: 43.0690
+
+Number of Turns
+===============
+Number of Paths: 51,294
+Mean: 5.2894
+Standard Error: 0.017347
+Median: 5.0000
+Standard Deviation: 3.9288
+Minimum: 0.0000
+Maximum: 27.0000
+25th Percentile: 2.0000
+75th Percentile: 8.0000
+
+Path Sinuosity
+==============
+Number of Paths: 51,294
+Mean: 1.1499
+Standard Error: 0.000556
+Median: 1.1253
+Standard Deviation: 0.1259
+Minimum: 1.0000
+Maximum: 6.8830
+25th Percentile: 1.0746
+75th Percentile: 1.1971
+
+Segment Length Coefficient of Variation
+=======================================
+Number of Paths: 51,294
+Mean: 0.3538
+Standard Error: 0.000881
+Median: 0.3954
+Standard Deviation: 0.1995
+Minimum: 0.0000
+Maximum: 1.3942
+25th Percentile: 0.2322
+75th Percentile: 0.4991
+
+WITHIN-BOROUGH STATISTICS
+========================
+
+Bronx
+-----
+
+Number of Segments
+==================
+Number of Paths: 10,852
+Mean: 17.1271
+Standard Error: 0.083315
+Median: 17.0000
+Standard Deviation: 8.6791
+Minimum: 1.0000
+Maximum: 43.0000
+25th Percentile: 10.0000
+75th Percentile: 24.0000
+
+Average Segment Length (m)
+==========================
+Number of Paths: 10,852
+Mean: 38.0029
+Standard Error: 0.080959
+Median: 36.3876
+Standard Deviation: 8.4338
+Minimum: 11.6586
+Maximum: 50.0000
+25th Percentile: 31.1914
+75th Percentile: 46.8688
+
+Number of Turns
+===============
+Number of Paths: 10,852
+Mean: 5.2607
+Standard Error: 0.037238
+Median: 5.0000
+Standard Deviation: 3.8792
+Minimum: 0.0000
+Maximum: 23.0000
+25th Percentile: 2.0000
+75th Percentile: 8.0000
+
+Path Sinuosity
+==============
+Number of Paths: 10,852
+Mean: 1.1533
+Standard Error: 0.001251
+Median: 1.1246
+Standard Deviation: 0.1304
+Minimum: 1.0000
+Maximum: 5.7216
+25th Percentile: 1.0781
+75th Percentile: 1.2047
+
+Segment Length Coefficient of Variation
+=======================================
+Number of Paths: 10,852
+Mean: 0.3252
+Standard Error: 0.002025
+Median: 0.3758
+Standard Deviation: 0.2110
+Minimum: 0.0000
+Maximum: 1.3942
+25th Percentile: 0.1349
+75th Percentile: 0.4871
+
+Brooklyn
+--------
+
+Number of Segments
+==================
+Number of Paths: 11,347
+Mean: 18.5894
+Standard Error: 0.085662
+Median: 19.0000
+Standard Deviation: 9.1249
+Minimum: 1.0000
+Maximum: 48.0000
+25th Percentile: 11.0000
+75th Percentile: 26.0000
+
+Average Segment Length (m)
+==========================
+Number of Paths: 11,347
+Mean: 34.5768
+Standard Error: 0.069087
+Median: 33.3734
+Standard Deviation: 7.3593
+Minimum: 10.0229
+Maximum: 50.0000
+25th Percentile: 29.0291
+75th Percentile: 39.3879
+
+Number of Turns
+===============
+Number of Paths: 11,347
+Mean: 5.9012
+Standard Error: 0.040780
+Median: 5.0000
+Standard Deviation: 4.3440
+Minimum: 0.0000
+Maximum: 27.0000
+25th Percentile: 2.0000
+75th Percentile: 8.0000
+
+Path Sinuosity
+==============
+Number of Paths: 11,347
+Mean: 1.1307
+Standard Error: 0.001140
+Median: 1.1113
+Standard Deviation: 0.1214
+Minimum: 1.0000
+Maximum: 5.8269
+25th Percentile: 1.0681
+75th Percentile: 1.1657
+
+Segment Length Coefficient of Variation
+=======================================
+Number of Paths: 11,347
+Mean: 0.4025
+Standard Error: 0.001639
+Median: 0.4311
+Standard Deviation: 0.1746
+Minimum: 0.0000
+Maximum: 1.1349
+25th Percentile: 0.3070
+75th Percentile: 0.5231
+
+Manhattan
+---------
+
+Number of Segments
+==================
+Number of Paths: 11,831
+Mean: 19.1364
+Standard Error: 0.077052
+Median: 20.0000
+Standard Deviation: 8.3810
+Minimum: 1.0000
+Maximum: 42.0000
+25th Percentile: 13.0000
+75th Percentile: 26.0000
+
+Average Segment Length (m)
+==========================
+Number of Paths: 11,831
+Mean: 32.9734
+Standard Error: 0.051140
+Median: 32.3141
+Standard Deviation: 5.5625
+Minimum: 2.9176
+Maximum: 50.0000
+25th Percentile: 29.4108
+75th Percentile: 35.7110
+
+Number of Turns
+===============
+Number of Paths: 11,831
+Mean: 5.7195
+Standard Error: 0.034770
+Median: 5.0000
+Standard Deviation: 3.7819
+Minimum: 0.0000
+Maximum: 22.0000
+25th Percentile: 3.0000
+75th Percentile: 8.0000
+
+Path Sinuosity
+==============
+Number of Paths: 11,831
+Mean: 1.1391
+Standard Error: 0.001161
+Median: 1.1220
+Standard Deviation: 0.1263
+Minimum: 1.0000
+Maximum: 6.8830
+25th Percentile: 1.0776
+75th Percentile: 1.1720
+
+Segment Length Coefficient of Variation
+=======================================
+Number of Paths: 11,831
+Mean: 0.4137
+Standard Error: 0.001272
+Median: 0.4256
+Standard Deviation: 0.1384
+Minimum: 0.0000
+Maximum: 1.1754
+25th Percentile: 0.3387
+75th Percentile: 0.5038
+
+Queens
+------
+
+Number of Segments
+==================
+Number of Paths: 11,564
+Mean: 15.6592
+Standard Error: 0.085557
+Median: 15.0000
+Standard Deviation: 9.2005
+Minimum: 1.0000
+Maximum: 49.0000
+25th Percentile: 8.0000
+75th Percentile: 23.0000
+
+Average Segment Length (m)
+==========================
+Number of Paths: 11,564
+Mean: 39.2170
+Standard Error: 0.080599
+Median: 38.9893
+Standard Deviation: 8.6673
+Minimum: 0.1819
+Maximum: 50.0000
+25th Percentile: 31.8687
+75th Percentile: 48.8385
+
+Number of Turns
+===============
+Number of Paths: 11,564
+Mean: 4.6805
+Standard Error: 0.035388
+Median: 4.0000
+Standard Deviation: 3.8055
+Minimum: 0.0000
+Maximum: 26.0000
+25th Percentile: 2.0000
+75th Percentile: 7.0000
+
+Path Sinuosity
+==============
+Number of Paths: 11,564
+Mean: 1.1639
+Standard Error: 0.001118
+Median: 1.1378
+Standard Deviation: 0.1203
+Minimum: 1.0000
+Maximum: 2.3155
+25th Percentile: 1.0729
+75th Percentile: 1.2374
+
+Segment Length Coefficient of Variation
+=======================================
+Number of Paths: 11,564
+Mean: 0.3094
+Standard Error: 0.002123
+Median: 0.3494
+Standard Deviation: 0.2283
+Minimum: 0.0000
+Maximum: 1.2647
+25th Percentile: 0.0488
+75th Percentile: 0.4969
+
+Staten Island
+-------------
+
+Number of Segments
+==================
+Number of Paths: 3,783
+Mean: 14.3859
+Standard Error: 0.127728
+Median: 14.0000
+Standard Deviation: 7.8561
+Minimum: 1.0000
+Maximum: 40.0000
+25th Percentile: 8.0000
+75th Percentile: 20.0000
+
+Average Segment Length (m)
+==========================
+Number of Paths: 3,783
+Mean: 41.4763
+Standard Error: 0.125747
+Median: 42.4761
+Standard Deviation: 7.7342
+Minimum: 4.3046
+Maximum: 50.0000
+25th Percentile: 35.1136
+75th Percentile: 50.0000
+
+Number of Turns
+===============
+Number of Paths: 3,783
+Mean: 4.0085
+Standard Error: 0.050621
+Median: 3.0000
+Standard Deviation: 3.1135
+Minimum: 0.0000
+Maximum: 21.0000
+25th Percentile: 2.0000
+75th Percentile: 6.0000
+
+Path Sinuosity
+==============
+Number of Paths: 3,783
+Mean: 1.1831
+Standard Error: 0.002253
+Median: 1.1641
+Standard Deviation: 0.1386
+Minimum: 1.0000
+Maximum: 3.6263
+25th Percentile: 1.0814
+75th Percentile: 1.2714
+
+Segment Length Coefficient of Variation
+=======================================
+Number of Paths: 3,783
+Mean: 0.2665
+Standard Error: 0.003552
+Median: 0.2910
+Standard Deviation: 0.2185
+Minimum: 0.0000
+Maximum: 1.2109
+25th Percentile: 0.0000
+75th Percentile: 0.4472
+
+BETWEEN-BOROUGH STATISTICS
+=========================
+
+Bronx <-> Manhattan
+-------------------
+
+Number of Segments
+==================
+Number of Paths: 379
+Mean: 20.4037
+Standard Error: 0.256006
+Median: 21.0000
+Standard Deviation: 4.9839
+Minimum: 3.0000
+Maximum: 37.0000
+25th Percentile: 17.0000
+75th Percentile: 24.0000
+
+Average Segment Length (m)
+==========================
+Number of Paths: 379
+Mean: 41.0700
+Standard Error: 0.255599
+Median: 41.1077
+Standard Deviation: 4.9760
+Minimum: 26.6259
+Maximum: 50.0000
+25th Percentile: 37.6319
+75th Percentile: 44.4957
+
+Number of Turns
+===============
+Number of Paths: 379
+Mean: 5.6781
+Standard Error: 0.145640
+Median: 6.0000
+Standard Deviation: 2.8353
+Minimum: 0.0000
+Maximum: 15.0000
+25th Percentile: 3.5000
+75th Percentile: 8.0000
+
+Path Sinuosity
+==============
+Number of Paths: 379
+Mean: 1.1795
+Standard Error: 0.005216
+Median: 1.1576
+Standard Deviation: 0.1016
+Minimum: 1.0000
+Maximum: 1.4857
+25th Percentile: 1.1032
+75th Percentile: 1.2566
+
+Segment Length Coefficient of Variation
+=======================================
+Number of Paths: 379
+Mean: 0.2960
+Standard Error: 0.006945
+Median: 0.3039
+Standard Deviation: 0.1352
+Minimum: 0.0000
+Maximum: 0.6604
+25th Percentile: 0.2138
+75th Percentile: 0.3910
+
+Brooklyn <-> Manhattan
+----------------------
+
+Number of Segments
+==================
+Number of Paths: 26
+Mean: 21.5769
+Standard Error: 0.944902
+Median: 22.0000
+Standard Deviation: 4.8181
+Minimum: 8.0000
+Maximum: 34.0000
+25th Percentile: 19.0000
+75th Percentile: 24.7500
+
+Average Segment Length (m)
+==========================
+Number of Paths: 26
+Mean: 41.7424
+Standard Error: 1.074740
+Median: 43.0373
+Standard Deviation: 5.4801
+Minimum: 28.3156
+Maximum: 48.7827
+25th Percentile: 39.7795
+75th Percentile: 45.2611
+
+Number of Turns
+===============
+Number of Paths: 26
+Mean: 6.0000
+Standard Error: 0.587040
+Median: 5.5000
+Standard Deviation: 2.9933
+Minimum: 1.0000
+Maximum: 14.0000
+25th Percentile: 3.5000
+75th Percentile: 8.0000
+
+Path Sinuosity
+==============
+Number of Paths: 26
+Mean: 1.1712
+Standard Error: 0.017970
+Median: 1.1443
+Standard Deviation: 0.0916
+Minimum: 1.0403
+Maximum: 1.3672
+25th Percentile: 1.1159
+75th Percentile: 1.2253
+
+Segment Length Coefficient of Variation
+=======================================
+Number of Paths: 26
+Mean: 0.2879
+Standard Error: 0.023657
+Median: 0.3014
+Standard Deviation: 0.1206
+Minimum: 0.0813
+Maximum: 0.4993
+25th Percentile: 0.1933
+75th Percentile: 0.3860
+
+Brooklyn <-> Queens
+-------------------
+
+Number of Segments
+==================
+Number of Paths: 1,083
+Mean: 17.7396
+Standard Error: 0.256747
+Median: 18.0000
+Standard Deviation: 8.4493
+Minimum: 1.0000
+Maximum: 41.0000
+25th Percentile: 11.0000
+75th Percentile: 24.0000
+
+Average Segment Length (m)
+==========================
+Number of Paths: 1,083
+Mean: 39.8300
+Standard Error: 0.229351
+Median: 38.8143
+Standard Deviation: 7.5477
+Minimum: 17.1681
+Maximum: 50.0000
+25th Percentile: 34.1154
+75th Percentile: 47.3167
+
+Number of Turns
+===============
+Number of Paths: 1,083
+Mean: 5.4220
+Standard Error: 0.117129
+Median: 5.0000
+Standard Deviation: 3.8546
+Minimum: 0.0000
+Maximum: 22.0000
+25th Percentile: 2.0000
+75th Percentile: 8.0000
+
+Path Sinuosity
+==============
+Number of Paths: 1,083
+Mean: 1.1580
+Standard Error: 0.003071
+Median: 1.1397
+Standard Deviation: 0.1011
+Minimum: 1.0000
+Maximum: 1.6325
+25th Percentile: 1.0873
+75th Percentile: 1.2085
+
+Segment Length Coefficient of Variation
+=======================================
+Number of Paths: 1,083
+Mean: 0.3006
+Standard Error: 0.005960
+Median: 0.3464
+Standard Deviation: 0.1962
+Minimum: 0.0000
+Maximum: 0.8469
+25th Percentile: 0.1340
+75th Percentile: 0.4484
+
+Manhattan <-> Queens
+--------------------
+
+Number of Segments
+==================
+Number of Paths: 15
+Mean: 19.4000
+Standard Error: 0.785584
+Median: 21.0000
+Standard Deviation: 3.0426
+Minimum: 13.0000
+Maximum: 23.0000
+25th Percentile: 18.0000
+75th Percentile: 22.0000
+
+Average Segment Length (m)
+==========================
+Number of Paths: 15
+Mean: 45.8345
+Standard Error: 0.680931
+Median: 45.2567
+Standard Deviation: 2.6372
+Minimum: 41.0313
+Maximum: 50.0000
+25th Percentile: 44.1337
+75th Percentile: 47.7844
+
+Number of Turns
+===============
+Number of Paths: 15
+Mean: 4.6667
+Standard Error: 0.503953
+Median: 4.0000
+Standard Deviation: 1.9518
+Minimum: 2.0000
+Maximum: 9.0000
+25th Percentile: 3.0000
+75th Percentile: 6.0000
+
+Path Sinuosity
+==============
+Number of Paths: 15
+Mean: 1.1769
+Standard Error: 0.028185
+Median: 1.1700
+Standard Deviation: 0.1092
+Minimum: 1.0345
+Maximum: 1.4100
+25th Percentile: 1.0799
+75th Percentile: 1.2296
+
+Segment Length Coefficient of Variation
+=======================================
+Number of Paths: 15
+Mean: 0.1886
+Standard Error: 0.026109
+Median: 0.2128
+Standard Deviation: 0.1011
+Minimum: 0.0000
+Maximum: 0.3142
+25th Percentile: 0.1305
+75th Percentile: 0.2635

@@ -1,0 +1,45 @@
+Borough: Bronx
+  Mean Pixel Count: 84047.20
+  SE Pixel Count: 12050.56
+  Mean Area (m^2): 6277.45
+  SE Area (m^2): 900.05
+  Min Area (m^2): 0.07
+  Max Area (m^2): 1252615.69
+
+Borough: Brooklyn
+  Mean Pixel Count: 35564.04
+  SE Pixel Count: 5543.02
+  Mean Area (m^2): 2656.26
+  SE Area (m^2): 414.01
+  Min Area (m^2): 0.07
+  Max Area (m^2): 926598.89
+
+Borough: Manhattan
+  Mean Pixel Count: 38287.50
+  SE Pixel Count: 9519.46
+  Mean Area (m^2): 2859.68
+  SE Area (m^2): 711.00
+  Min Area (m^2): 0.07
+  Max Area (m^2): 1326452.48
+
+Borough: Queens
+  Mean Pixel Count: 60993.74
+  SE Pixel Count: 5065.13
+  Mean Area (m^2): 4555.60
+  SE Area (m^2): 378.31
+  Min Area (m^2): 0.07
+  Max Area (m^2): 683388.58
+
+Borough: Staten Island
+  Mean Pixel Count: 152863.01
+  SE Pixel Count: 16845.93
+  Mean Area (m^2): 11417.28
+  SE Area (m^2): 1258.22
+  Min Area (m^2): 0.07
+  Max Area (m^2): 1052486.86
+
+Percentage of properties with sufficient vegetation:
+  Radius 100 m: 26.25%
+  Radius 250 m: 10.53%
+  Radius 500 m: 5.33%
+  Radius 1000 m: 1.67%

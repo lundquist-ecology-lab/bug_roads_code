@@ -1,0 +1,4 @@
+# Ensure all files use LF in the repository
+* text=auto
+*.sh text eol=lf
+*.py text eol=lf

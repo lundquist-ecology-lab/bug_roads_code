@@ -1,0 +1,2 @@
+Minimum park area (m²): 0.0001307767451112773
+Maximum park area (m²): 4685074.578165794

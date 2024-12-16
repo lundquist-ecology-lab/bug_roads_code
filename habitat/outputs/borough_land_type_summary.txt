@@ -1,0 +1,68 @@
+Total Area by Borough and Land Type (in km²):
+
+Borough: Bronx
+  Land Type: building, Total Area: 22.54 km²
+  Land Type: ground, Total Area: 64.82 km²
+  Land Type: high_vegetation, Total Area: 22.52 km²
+  Land Type: low_vegetation, Total Area: 4.59 km²
+  Land Type: medium_vegetation, Total Area: 9.99 km²
+
+Borough: Brooklyn
+  Land Type: building, Total Area: 50.24 km²
+  Land Type: ground, Total Area: 97.27 km²
+  Land Type: high_vegetation, Total Area: 25.07 km²
+  Land Type: low_vegetation, Total Area: 6.82 km²
+  Land Type: medium_vegetation, Total Area: 13.47 km²
+
+Borough: Manhattan
+  Land Type: building, Total Area: 19.18 km²
+  Land Type: ground, Total Area: 27.64 km²
+  Land Type: high_vegetation, Total Area: 10.62 km²
+  Land Type: low_vegetation, Total Area: 1.69 km²
+  Land Type: medium_vegetation, Total Area: 4.23 km²
+
+Borough: Queens
+  Land Type: building, Total Area: 57.58 km²
+  Land Type: ground, Total Area: 176.33 km²
+  Land Type: high_vegetation, Total Area: 39.93 km²
+  Land Type: low_vegetation, Total Area: 11.23 km²
+  Land Type: medium_vegetation, Total Area: 21.64 km²
+
+Borough: Staten Island
+  Land Type: building, Total Area: 18.84 km²
+  Land Type: ground, Total Area: 96.19 km²
+  Land Type: high_vegetation, Total Area: 37.49 km²
+  Land Type: low_vegetation, Total Area: 8.71 km²
+  Land Type: medium_vegetation, Total Area: 16.88 km²
+
+Borough-Level Vegetation Analysis:
+
+Borough: Bronx
+  Mean Pixel Count: 148345170.00
+  SE Pixel Count: 63725848.81
+  Mean Area (km²): 12.3621
+  SE Area (km²): 5.3105
+
+Borough: Brooklyn
+  Mean Pixel Count: 181468117.33
+  SE Pixel Count: 63986372.69
+  Mean Area (km²): 15.1223
+  SE Area (km²): 5.3322
+
+Borough: Manhattan
+  Mean Pixel Count: 66152837.67
+  SE Pixel Count: 31882779.99
+  Mean Area (km²): 5.5127
+  SE Area (km²): 2.6569
+
+Borough: Queens
+  Mean Pixel Count: 291195284.00
+  SE Pixel Count: 100659881.57
+  Mean Area (km²): 24.2663
+  SE Area (km²): 8.3883
+
+Borough: Staten Island
+  Mean Pixel Count: 252324254.00
+  SE Pixel Count: 102755397.36
+  Mean Area (km²): 21.0270
+  SE Area (km²): 8.5629

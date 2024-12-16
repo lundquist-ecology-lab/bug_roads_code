@@ -1,0 +1,130 @@
+Path Distance Analysis Results (Paths <= 1000m)
+Generated on: 2024-12-11 22:17:59
+==================================================
+
+
+Citywide Statistics
+===================
+Number of Paths: 51,294
+Mean Distance: 596.92 meters
+Standard Error: 1.16 meters
+Median Distance: 622.54 meters
+Standard Deviation: 263.23 meters
+Minimum Distance: 0.18 meters
+Maximum Distance: 1,000.00 meters
+25th Percentile: 387.01 meters
+75th Percentile: 826.19 meters
+
+Within-Borough Statistics
+=======================
+
+Bronx
+=====
+Number of Paths: 10,852
+Mean Distance: 604.96 meters
+Standard Error: 2.51 meters
+Median Distance: 635.25 meters
+Standard Deviation: 261.22 meters
+Minimum Distance: 43.82 meters
+Maximum Distance: 1,000.00 meters
+25th Percentile: 400.00 meters
+75th Percentile: 833.55 meters
+
+Brooklyn
+========
+Number of Paths: 11,347
+Mean Distance: 604.80 meters
+Standard Error: 2.44 meters
+Median Distance: 631.50 meters
+Standard Deviation: 260.08 meters
+Minimum Distance: 13.73 meters
+Maximum Distance: 1,000.00 meters
+25th Percentile: 400.00 meters
+75th Percentile: 829.03 meters
+
+Manhattan
+=========
+Number of Paths: 11,831
+Mean Distance: 612.92 meters
+Standard Error: 2.33 meters
+Median Distance: 642.59 meters
+Standard Deviation: 253.30 meters
+Minimum Distance: 10.16 meters
+Maximum Distance: 999.99 meters
+25th Percentile: 423.07 meters
+75th Percentile: 828.74 meters
+
+Queens
+======
+Number of Paths: 11,564
+Mean Distance: 560.88 meters
+Standard Error: 2.55 meters
+Median Distance: 572.33 meters
+Standard Deviation: 274.06 meters
+Minimum Distance: 0.18 meters
+Maximum Distance: 1,000.00 meters
+25th Percentile: 323.78 meters
+75th Percentile: 805.54 meters
+
+Staten Island
+=============
+Number of Paths: 3,783
+Mean Distance: 561.06 meters
+Standard Error: 4.27 meters
+Median Distance: 569.92 meters
+Standard Deviation: 262.61 meters
+Minimum Distance: 4.30 meters
+Maximum Distance: 1,000.00 meters
+25th Percentile: 350.00 meters
+75th Percentile: 780.70 meters
+
+Between-Borough Statistics
+=========================
+
+Bronx <-> Manhattan
+===================
+Number of Paths: 379
+Mean Distance: 819.73 meters
+Standard Error: 7.66 meters
+Median Distance: 859.70 meters
+Standard Deviation: 149.19 meters
+Minimum Distance: 150.00 meters
+Maximum Distance: 999.86 meters
+25th Percentile: 739.52 meters
+75th Percentile: 940.39 meters
+
+Brooklyn <-> Manhattan
+======================
+Number of Paths: 26
+Mean Distance: 882.02 meters
+Standard Error: 28.05 meters
+Median Distance: 951.57 meters
+Standard Deviation: 143.01 meters
+Minimum Distance: 370.79 meters
+Maximum Distance: 996.00 meters
+25th Percentile: 827.48 meters
+75th Percentile: 980.85 meters
+
+Brooklyn <-> Queens
+===================
+Number of Paths: 1,083
+Mean Distance: 662.36 meters
+Standard Error: 7.89 meters
+Median Distance: 728.74 meters
+Standard Deviation: 259.49 meters
+Minimum Distance: 50.00 meters
+Maximum Distance: 1,000.00 meters
+25th Percentile: 478.02 meters
+75th Percentile: 887.01 meters
+
+Manhattan <-> Queens
+====================
+Number of Paths: 15
+Mean Distance: 883.89 meters
+Standard Error: 29.27 meters
+Median Distance: 900.00 meters
+Standard Deviation: 113.34 meters
+Minimum Distance: 650.00 meters
+Maximum Distance: 997.99 meters
+25th Percentile: 824.72 meters
+75th Percentile: 980.28 meters

@@ -1,0 +1,57 @@
+OVERALL STATISTICS
+==================
+Building-Intersecting Paths: 47391 out of 75998
+Paths Crossing Parks: 47391
+Parks Crossed per Path: min=1, max=23, mean=3.1
+Crossing Lengths (m): min=0.0, max=977.4, mean=20.8
+Portion of Path in Parks: min=0.00%, max=100.00%, mean=3.15%
+
+Most Frequently Crossed Parks (by ID):
+Park ID 1101: 410 crossings
+Park ID 3562: 383 crossings
+Park ID 2294: 334 crossings
+Park ID 397: 309 crossings
+Park ID 834: 279 crossings
+Park ID 451: 277 crossings
+Park ID 2674: 236 crossings
+Park ID 1137: 234 crossings
+Park ID 1409: 229 crossings
+Park ID 1125: 221 crossings
+
+BOROUGH STATISTICS
+==================
+
+Queens
+Building-Intersecting Paths: 7959 out of 17088
+Paths Crossing Parks: 7959
+Parks Crossed per Path: min=1, max=23, mean=3.7
+Crossing Lengths (m): min=0.0, max=936.7, mean=28.9
+Portion of Path in Parks: min=0.00%, max=99.97%, mean=4.61%
+
+Brooklyn
+Building-Intersecting Paths: 12419 out of 18330
+Paths Crossing Parks: 12419
+Parks Crossed per Path: min=1, max=14, mean=3.0
+Crossing Lengths (m): min=0.0, max=977.4, mean=14.5
+Portion of Path in Parks: min=0.00%, max=100.00%, mean=2.21%
+
+Bronx
+Building-Intersecting Paths: 10530 out of 16491
+Paths Crossing Parks: 10530
+Parks Crossed per Path: min=1, max=12, mean=3.1
+Crossing Lengths (m): min=0.0, max=927.1, mean=23.1
+Portion of Path in Parks: min=0.00%, max=97.39%, mean=3.32%
+
+Staten Island
+Building-Intersecting Paths: 2748 out of 5867
+Paths Crossing Parks: 2748
+Parks Crossed per Path: min=1, max=10, mean=3.3
+Crossing Lengths (m): min=0.0, max=846.4, mean=36.2
+Portion of Path in Parks: min=0.00%, max=95.35%, mean=5.43%
+
+Manhattan
+Building-Intersecting Paths: 13735 out of 17547
+Paths Crossing Parks: 13735
+Parks Crossed per Path: min=1, max=15, mean=2.9
+Crossing Lengths (m): min=0.0, max=919.8, mean=15.2
+Portion of Path in Parks: min=0.00%, max=92.61%, mean=2.27%

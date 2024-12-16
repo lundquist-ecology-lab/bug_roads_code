@@ -1,0 +1,72 @@
+Results for park_clusters_100m.csv:
+Total clusters citywide (including multi-borough): 169
+Mean parks per cluster citywide (including multi-borough): 2.85
+SE parks per cluster citywide (including multi-borough): 0.12
+Single-borough statistics:
+               total_clusters  mean_parks_per_cluster  se_parks_per_cluster
+boro_name                                                                  
+Bronx                    37.0                2.594595              0.195518
+Brooklyn                 46.0                2.826087              0.179383
+Manhattan                47.0                3.063830              0.290784
+Queens                   25.0                2.720000              0.380876
+Staten Island            11.0                2.909091              0.546968
+
+Multi-borough cluster statistics:
+total_clusters            3.000000
+mean_parks_per_cluster    4.000000
+se_parks_per_cluster      1.527525
+
+Results for park_clusters_250m.csv:
+Total clusters citywide (including multi-borough): 268
+Mean parks per cluster citywide (including multi-borough): 4.81
+SE parks per cluster citywide (including multi-borough): 0.37
+Single-borough statistics:
+               total_clusters  mean_parks_per_cluster  se_parks_per_cluster
+boro_name                                                                  
+Bronx                    56.0                4.160714              0.653053
+Brooklyn                 86.0                4.197674              0.488673
+Manhattan                50.0                6.160000              1.062673
+Queens                   50.0                4.080000              0.663842
+Staten Island            20.0                3.750000              0.994392
+
+Multi-borough cluster statistics:
+total_clusters             6.000000
+mean_parks_per_cluster    17.833333
+se_parks_per_cluster       5.985631
+
+Results for park_clusters_500m.csv:
+Total clusters citywide (including multi-borough): 168
+Mean parks per cluster citywide (including multi-borough): 11.09
+SE parks per cluster citywide (including multi-borough): 1.45
+Single-borough statistics:
+               total_clusters  mean_parks_per_cluster  se_parks_per_cluster
+boro_name                                                                  
+Bronx                    19.0               17.368421              5.693030
+Brooklyn                 37.0               12.648649              3.623252
+Manhattan                17.0               17.647059              5.180521
+Queens                   58.0                5.862069              1.411312
+Staten Island            30.0                4.700000              1.140831
+
+Multi-borough cluster statistics:
+total_clusters             7.000000
+mean_parks_per_cluster    40.428571
+se_parks_per_cluster      11.256442
+
+Results for park_clusters_1000m.csv:
+Total clusters citywide (including multi-borough): 49
+Mean parks per cluster citywide (including multi-borough): 43.69
+SE parks per cluster citywide (including multi-borough): 6.64
+Single-borough statistics:
+               total_clusters  mean_parks_per_cluster  se_parks_per_cluster
+boro_name                                                                  
+Bronx                     6.0               29.833333             17.567805
+Brooklyn                  4.0               22.500000              6.664583
+Manhattan                 3.0               66.333333             46.623790
+Queens                   14.0               29.000000              6.584197
+Staten Island             9.0               21.000000              8.883505
+
+Multi-borough cluster statistics:
+total_clusters            13.000000
+mean_parks_per_cluster    82.846154
+se_parks_per_cluster      15.002071
+
