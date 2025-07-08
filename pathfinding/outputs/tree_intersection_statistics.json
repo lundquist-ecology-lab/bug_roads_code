@@ -1,0 +1,53 @@
+{
+  "overall": {
+    "total_paths": 74276,
+    "total_tree_intersections": 2518487,
+    "mean_intersections_per_path": 33.90714362647423,
+    "se_intersections_per_path": 0.1330917845708399,
+    "std_intersections_per_path": 36.2723340258075,
+    "max_intersections": 438,
+    "min_intersections": 0
+  },
+  "by_borough": [
+    {
+      "borough": "Staten Island",
+      "total_intersections": "18841",
+      "mean_per_path": 0.2536620173407292,
+      "se_per_path": 0.0068223892830371075,
+      "std_per_path": 1.8593482965636794,
+      "n_paths": 74276
+    },
+    {
+      "borough": "Manhattan",
+      "total_intersections": "312953",
+      "mean_per_path": 4.213379826592709,
+      "se_per_path": 0.04453679770192072,
+      "std_per_path": 12.137891214645464,
+      "n_paths": 74276
+    },
+    {
+      "borough": "Bronx",
+      "total_intersections": "111705",
+      "mean_per_path": 1.5039178200226184,
+      "se_per_path": 0.019288606382352885,
+      "std_per_path": 5.256844183501289,
+      "n_paths": 74276
+    },
+    {
+      "borough": "Brooklyn",
+      "total_intersections": "443562",
+      "mean_per_path": 5.9718078517960045,
+      "se_per_path": 0.10085463845994168,
+      "std_per_path": 27.486543561401515,
+      "n_paths": 74276
+    },
+    {
+      "borough": "Queens",
+      "total_intersections": "110246",
+      "mean_per_path": 1.4842748667133394,
+      "se_per_path": 0.022839562789860168,
+      "std_per_path": 6.224608477439577,
+      "n_paths": 74276
+    }
+  ]
+}

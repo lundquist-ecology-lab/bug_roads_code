@@ -1,0 +1,159 @@
+New York City Summary (Euclidean Distances <= 1000m)
+=====================================================
+Total paths: 74276
+Paths with zero buildings: 10539
+Paths with buildings: 63737
+Paths with non-zero height buildings: 63733
+
+Building Intersection Statistics
+-----------------------------
+Maximum buildings intersected: 47
+Minimum buildings intersected: 0
+Mean buildings intersected: 10.17
+Standard error of intersections: 0.03
+
+Building Height Statistics (excluding zero heights)
+--------------------------------------------
+Maximum building height: 429.27 m
+Minimum building height: 0.86 m
+Mean building height: 16.32 m
+Standard error of height: 0.02 m
+
+Distance Statistics
+-----------------
+Mean distance between parks: 550.24 m
+Standard error of distance: 1.07 m
+Minimum distance: 2.88 m
+Maximum distance: 1000.00 m
+Number of paths: 74276
+
+Bronx Summary
+=============
+Total paths: 15310
+Paths with zero buildings: 2721
+Paths with buildings: 12589
+Paths with non-zero height buildings: 12589
+
+Building Intersection Statistics:
+Maximum buildings intersected: 36
+Minimum buildings intersected: 0
+Mean buildings intersected: 8.65
+Standard error of intersections: 0.06
+
+Building Height Statistics (excluding zero heights):
+Maximum building height: 137.16 m
+Minimum building height: 1.21 m
+Mean building height: 14.27 m
+Standard error of height: 0.03 m
+
+Distance Statistics:
+Mean distance between parks: 555.54 m
+Standard error of distance: 2.31 m
+Minimum distance: 2.88 m
+Maximum distance: 999.98 m
+Number of paths: 15310
+
+Manhattan Summary
+=================
+Total paths: 17261
+Paths with zero buildings: 536
+Paths with buildings: 16725
+Paths with non-zero height buildings: 16725
+
+Building Intersection Statistics:
+Maximum buildings intersected: 43
+Minimum buildings intersected: 0
+Mean buildings intersected: 12.96
+Standard error of intersections: 0.06
+
+Building Height Statistics (excluding zero heights):
+Maximum building height: 429.27 m
+Minimum building height: 2.12 m
+Mean building height: 25.63 m
+Standard error of height: 0.04 m
+
+Distance Statistics:
+Mean distance between parks: 587.78 m
+Standard error of distance: 2.07 m
+Minimum distance: 3.66 m
+Maximum distance: 999.99 m
+Number of paths: 17261
+
+Brooklyn Summary
+================
+Total paths: 18032
+Paths with zero buildings: 1800
+Paths with buildings: 16232
+Paths with non-zero height buildings: 16231
+
+Building Intersection Statistics:
+Maximum buildings intersected: 47
+Minimum buildings intersected: 0
+Mean buildings intersected: 11.70
+Standard error of intersections: 0.07
+
+Building Height Statistics (excluding zero heights):
+Maximum building height: 243.84 m
+Minimum building height: 1.12 m
+Mean building height: 13.17 m
+Standard error of height: 0.02 m
+
+Distance Statistics:
+Mean distance between parks: 560.80 m
+Standard error of distance: 2.17 m
+Minimum distance: 3.78 m
+Maximum distance: 999.87 m
+Number of paths: 18032
+
+Queens Summary
+==============
+Total paths: 15829
+Paths with zero buildings: 3712
+Paths with buildings: 12117
+Paths with non-zero height buildings: 12117
+
+Building Intersection Statistics:
+Maximum buildings intersected: 42
+Minimum buildings intersected: 0
+Mean buildings intersected: 8.06
+Standard error of intersections: 0.07
+
+Building Height Statistics (excluding zero heights):
+Maximum building height: 192.94 m
+Minimum building height: 0.95 m
+Mean building height: 9.30 m
+Standard error of height: 0.02 m
+
+Distance Statistics:
+Mean distance between parks: 505.06 m
+Standard error of distance: 2.45 m
+Minimum distance: 3.27 m
+Maximum distance: 999.96 m
+Number of paths: 15829
+
+Staten Island Summary
+=====================
+Total paths: 5372
+Paths with zero buildings: 1390
+Paths with buildings: 3982
+Paths with non-zero height buildings: 3979
+
+Building Intersection Statistics:
+Maximum buildings intersected: 43
+Minimum buildings intersected: 0
+Mean buildings intersected: 6.22
+Standard error of intersections: 0.09
+
+Building Height Statistics (excluding zero heights):
+Maximum building height: 51.91 m
+Minimum building height: 0.86 m
+Mean building height: 8.11 m
+Standard error of height: 0.01 m
+
+Distance Statistics:
+Mean distance between parks: 499.56 m
+Standard error of distance: 4.08 m
+Minimum distance: 4.94 m
+Maximum distance: 999.77 m
+Number of paths: 5372
+

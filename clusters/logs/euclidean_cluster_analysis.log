@@ -1,0 +1,435 @@
+2024-12-14 17:39:14,462 - INFO - Loading park points data...
+2024-12-14 17:39:17,732 - INFO - Loaded 75484 park points.
+2024-12-14 17:39:17,734 - INFO - Analyzing clusters for 100m threshold...
+2024-12-14 17:40:33,485 - INFO - Loading park points data...
+2024-12-14 17:40:33,679 - INFO - Loaded 4329 park points.
+2024-12-14 17:40:33,679 - INFO - Analyzing clusters for 100m threshold...
+2024-12-14 17:42:14,629 - INFO - Loading park points data...
+2024-12-14 17:42:14,823 - INFO - Loaded 4329 park points.
+2024-12-14 17:42:14,823 - INFO - Analyzing clusters for 100m threshold...
+2024-12-14 17:44:11,726 - INFO - Created graph with 4329 nodes and 9560 edges.
+2024-12-14 17:44:21,707 - INFO - Found 1208 clusters using Girvan-Newman.
+2024-12-14 17:44:21,727 - INFO - Results for 100m saved to ../output/euclidean_clusters/euclidean_clusters_100m.csv.
+2024-12-14 17:44:21,727 - INFO - Analyzing clusters for 250m threshold...
+2024-12-14 17:46:18,654 - INFO - Created graph with 4329 nodes and 17685 edges.
+2024-12-14 17:50:31,467 - INFO - Found 517 clusters using Girvan-Newman.
+2024-12-14 17:50:31,485 - INFO - Results for 250m saved to ../output/euclidean_clusters/euclidean_clusters_250m.csv.
+2024-12-14 17:50:31,485 - INFO - Analyzing clusters for 500m threshold...
+2024-12-14 17:52:27,574 - INFO - Created graph with 4329 nodes and 33769 edges.
+2024-12-14 17:53:23,510 - INFO - Found 127 clusters using Girvan-Newman.
+2024-12-14 17:53:23,526 - INFO - Results for 500m saved to ../output/euclidean_clusters/euclidean_clusters_500m.csv.
+2024-12-14 17:53:23,526 - INFO - Analyzing clusters for 1000m threshold...
+2024-12-14 17:55:22,693 - INFO - Created graph with 4329 nodes and 75998 edges.
+2025-06-25 21:19:26,057 - INFO - Loading path data...
+2025-06-25 21:19:26,309 - INFO - Loaded 74276 path records.
+2025-06-25 21:19:26,309 - INFO - Available columns: ['park1_unique_id', 'park1_point_id', 'park2_unique_id', 'park2_point_id', 'path_length', 'euclidean_distance', 'geometry']
+2025-06-25 21:19:26,309 - INFO - Extracting park points from path geometries...
+2025-06-25 21:19:28,154 - INFO - Extracted 3576 unique parks from 74276 path records
+2025-06-25 21:19:28,154 - INFO - Average paths per park: 41.5, Max: 3549
+2025-06-25 21:19:28,173 - WARNING - Found parks on borough boundaries, keeping first assignment
+2025-06-25 21:19:28,174 - INFO - Parks per borough: {'Brooklyn': 632, 'Queens': 500, 'Manhattan': 406, 'Bronx': 402, 'Staten Island': 193}
+2025-06-25 21:19:28,174 - WARNING - 21 parks could not be assigned to a borough
+2025-06-25 21:19:28,174 - INFO - 
+Analyzing clusters for 100m threshold...
+2025-06-25 21:19:51,901 - INFO - Created graph with 34882 nodes and 16069 edges for 100m threshold.
+2025-06-25 21:19:51,905 - INFO - Using connected components for large graph
+2025-06-25 21:19:51,946 - INFO - Found 18895 connected components
+2025-06-25 21:21:41,684 - INFO - Loading path data...
+2025-06-25 21:21:41,935 - INFO - Loaded 74276 path records.
+2025-06-25 21:21:41,935 - INFO - Available columns: ['park1_unique_id', 'park1_point_id', 'park2_unique_id', 'park2_point_id', 'path_length', 'euclidean_distance', 'geometry']
+2025-06-25 21:21:41,935 - INFO - Extracting park points from path geometries...
+2025-06-25 21:21:43,809 - INFO - Extracted 3576 unique parks from 74276 path records
+2025-06-25 21:21:43,809 - INFO - Average paths per park: 41.5, Max: 3549
+2025-06-25 21:21:43,830 - WARNING - Found parks on borough boundaries, keeping first assignment
+2025-06-25 21:21:43,831 - INFO - Parks per borough: {'Brooklyn': 632, 'Queens': 500, 'Manhattan': 406, 'Bronx': 402, 'Staten Island': 193}
+2025-06-25 21:21:43,831 - WARNING - 21 parks could not be assigned to a borough
+2025-06-25 21:21:43,831 - INFO - 
+Analyzing clusters for 100m threshold...
+2025-06-25 21:22:07,329 - INFO - Created graph with 34882 nodes and 16069 edges for 100m threshold.
+2025-06-25 21:22:07,333 - INFO - Using connected components for large graph
+2025-06-25 21:22:07,373 - INFO - Found 18895 connected components
+2025-06-25 21:22:07,374 - WARNING - Duplicate point_ids found, removing duplicates
+2025-06-25 21:22:07,380 - WARNING - 32729 point_ids could not be mapped to unique_ids
+2025-06-25 21:22:07,471 - INFO - Cluster assignments for 100m saved to ../outputs/euclidean_clusters/euclidean_clusters_100m.csv
+2025-06-25 21:22:07,471 - INFO - 
+Analyzing clusters for 250m threshold...
+2025-06-25 21:22:30,833 - INFO - Created graph with 52805 nodes and 26633 edges for 250m threshold.
+2025-06-25 21:22:30,838 - INFO - Using connected components for large graph
+2025-06-25 21:22:30,857 - INFO - Found 27026 connected components
+2025-06-25 21:22:30,858 - WARNING - Duplicate point_ids found, removing duplicates
+2025-06-25 21:22:30,868 - WARNING - 50652 point_ids could not be mapped to unique_ids
+2025-06-25 21:22:30,971 - INFO - Cluster assignments for 250m saved to ../outputs/euclidean_clusters/euclidean_clusters_250m.csv
+2025-06-25 21:22:30,971 - INFO - 
+Analyzing clusters for 500m threshold...
+2025-06-25 21:22:54,898 - INFO - Created graph with 72442 nodes and 41288 edges for 500m threshold.
+2025-06-25 21:22:54,906 - INFO - Using connected components for large graph
+2025-06-25 21:22:54,986 - INFO - Found 35464 connected components
+2025-06-25 21:22:54,988 - WARNING - Duplicate point_ids found, removing duplicates
+2025-06-25 21:22:55,001 - WARNING - 70289 point_ids could not be mapped to unique_ids
+2025-06-25 21:22:55,116 - INFO - Cluster assignments for 500m saved to ../outputs/euclidean_clusters/euclidean_clusters_500m.csv
+2025-06-25 21:22:55,117 - INFO - 
+Analyzing clusters for 1000m threshold...
+2025-06-25 21:23:18,397 - INFO - Created graph with 118945 nodes and 82227 edges for 1000m threshold.
+2025-06-25 21:23:18,411 - INFO - Using connected components for large graph
+2025-06-25 21:23:18,527 - INFO - Found 53803 connected components
+2025-06-25 21:23:18,530 - WARNING - Duplicate point_ids found, removing duplicates
+2025-06-25 21:23:18,551 - WARNING - 116792 point_ids could not be mapped to unique_ids
+2025-06-25 21:23:18,704 - INFO - Cluster assignments for 1000m saved to ../outputs/euclidean_clusters/euclidean_clusters_1000m.csv
+2025-06-25 21:23:18,705 - INFO - Analysis summary saved to ../outputs/euclidean_clusters/euclidean_analysis_summary.txt
+2025-06-26 17:22:19,986 - INFO - Loading path data...
+2025-06-26 17:22:20,569 - INFO - Loaded 74276 path records.
+2025-06-26 17:22:20,569 - INFO - Available columns: ['park1_unique_id', 'park1_point_id', 'park2_unique_id', 'park2_point_id', 'path_length', 'euclidean_distance', 'geometry']
+2025-06-26 17:22:20,569 - INFO - Extracting park points from path geometries...
+2025-06-26 17:22:23,748 - INFO - Extracted 3576 unique parks from 74276 path records
+2025-06-26 17:22:23,749 - INFO - Average paths per park: 41.5, Max: 3549
+2025-06-26 17:22:23,927 - WARNING - Found parks on borough boundaries, keeping first assignment
+2025-06-26 17:22:23,929 - INFO - Parks per borough: {'Brooklyn': 632, 'Queens': 500, 'Manhattan': 406, 'Bronx': 402, 'Staten Island': 193}
+2025-06-26 17:22:23,929 - WARNING - 21 parks could not be assigned to a borough
+2025-06-26 17:22:23,929 - INFO - 
+Analyzing clusters for 100m threshold...
+2025-06-26 17:23:06,219 - INFO - Created graph with 34882 nodes and 16069 edges for 100m threshold.
+2025-06-26 17:23:06,226 - INFO - Using connected components for large graph
+2025-06-26 17:23:06,247 - INFO - Found 18895 connected components
+2025-06-26 17:23:06,248 - WARNING - Duplicate point_ids found, removing duplicates
+2025-06-26 17:23:06,259 - WARNING - 32729 point_ids could not be mapped to unique_ids
+2025-06-26 17:23:06,420 - INFO - Cluster assignments for 100m saved to ../outputs/euclidean_clusters/euclidean_clusters_100m.csv
+2025-06-26 17:23:06,421 - INFO - 
+Analyzing clusters for 250m threshold...
+2025-06-26 17:23:48,029 - INFO - Created graph with 52805 nodes and 26633 edges for 250m threshold.
+2025-06-26 17:23:48,037 - INFO - Using connected components for large graph
+2025-06-26 17:23:48,069 - INFO - Found 27026 connected components
+2025-06-26 17:23:48,071 - WARNING - Duplicate point_ids found, removing duplicates
+2025-06-26 17:23:48,088 - WARNING - 50652 point_ids could not be mapped to unique_ids
+2025-06-26 17:23:48,270 - INFO - Cluster assignments for 250m saved to ../outputs/euclidean_clusters/euclidean_clusters_250m.csv
+2025-06-26 17:23:48,271 - INFO - 
+Analyzing clusters for 500m threshold...
+2025-06-26 17:24:30,837 - INFO - Created graph with 72442 nodes and 41288 edges for 500m threshold.
+2025-06-26 17:24:30,850 - INFO - Using connected components for large graph
+2025-06-26 17:24:30,965 - INFO - Found 35464 connected components
+2025-06-26 17:24:30,967 - WARNING - Duplicate point_ids found, removing duplicates
+2025-06-26 17:24:30,990 - WARNING - 70289 point_ids could not be mapped to unique_ids
+2025-06-26 17:24:31,192 - INFO - Cluster assignments for 500m saved to ../outputs/euclidean_clusters/euclidean_clusters_500m.csv
+2025-06-26 17:24:31,193 - INFO - 
+Analyzing clusters for 1000m threshold...
+2025-06-26 17:25:13,219 - INFO - Created graph with 118945 nodes and 82227 edges for 1000m threshold.
+2025-06-26 17:25:13,240 - INFO - Using connected components for large graph
+2025-06-26 17:25:13,409 - INFO - Found 53803 connected components
+2025-06-26 17:25:13,413 - WARNING - Duplicate point_ids found, removing duplicates
+2025-06-26 17:25:13,451 - WARNING - 116792 point_ids could not be mapped to unique_ids
+2025-06-26 17:25:13,719 - INFO - Cluster assignments for 1000m saved to ../outputs/euclidean_clusters/euclidean_clusters_1000m.csv
+2025-06-26 17:25:13,720 - INFO - Analysis summary saved to ../outputs/euclidean_clusters/euclidean_analysis_summary.txt
+2025-06-26 17:39:09,574 - INFO - Loading path data...
+2025-06-26 17:39:09,952 - INFO - Loaded 74276 path records.
+2025-06-26 17:39:09,952 - INFO - Available columns: ['park1_unique_id', 'park1_point_id', 'park2_unique_id', 'park2_point_id', 'path_length', 'euclidean_distance', 'geometry']
+2025-06-26 17:39:09,952 - INFO - Extracting park points from path geometries...
+2025-06-26 17:39:13,006 - INFO - Extracted 3576 unique parks from 74276 path records
+2025-06-26 17:39:13,006 - INFO - Average paths per park: 41.5, Max: 3549
+2025-06-26 17:39:13,039 - WARNING - Found parks on borough boundaries, keeping first assignment
+2025-06-26 17:39:13,040 - INFO - Parks per borough: {'Brooklyn': 632, 'Queens': 500, 'Manhattan': 406, 'Bronx': 402, 'Staten Island': 193}
+2025-06-26 17:39:13,040 - WARNING - 21 parks could not be assigned to a borough
+2025-06-26 17:39:13,040 - INFO - 
+Analyzing clusters for 100m threshold...
+2025-06-26 17:39:54,452 - INFO - Created graph with 34882 nodes and 16069 edges for 100m threshold.
+2025-06-26 17:39:54,459 - INFO - Using connected components for large graph
+2025-06-26 17:39:54,479 - INFO - Found 18895 connected components
+2025-06-26 17:39:54,629 - INFO - Cluster assignments for 100m saved to ../outputs/euclidean_clusters/euclidean_clusters_100m.csv
+2025-06-26 17:39:54,630 - INFO - 
+Analyzing clusters for 250m threshold...
+2025-06-26 17:40:36,170 - INFO - Created graph with 52805 nodes and 26633 edges for 250m threshold.
+2025-06-26 17:40:36,179 - INFO - Using connected components for large graph
+2025-06-26 17:40:36,211 - INFO - Found 27026 connected components
+2025-06-26 17:40:36,435 - INFO - Cluster assignments for 250m saved to ../outputs/euclidean_clusters/euclidean_clusters_250m.csv
+2025-06-26 17:40:36,435 - INFO - 
+Analyzing clusters for 500m threshold...
+2025-06-26 17:41:17,929 - INFO - Created graph with 72442 nodes and 41288 edges for 500m threshold.
+2025-06-26 17:41:17,942 - INFO - Using connected components for large graph
+2025-06-26 17:41:18,051 - INFO - Found 35464 connected components
+2025-06-26 17:41:18,349 - INFO - Cluster assignments for 500m saved to ../outputs/euclidean_clusters/euclidean_clusters_500m.csv
+2025-06-26 17:41:18,349 - INFO - 
+Analyzing clusters for 1000m threshold...
+2025-06-26 17:42:00,471 - INFO - Created graph with 118945 nodes and 82227 edges for 1000m threshold.
+2025-06-26 17:42:00,492 - INFO - Using connected components for large graph
+2025-06-26 17:42:00,657 - INFO - Found 53803 connected components
+2025-06-26 17:42:01,151 - INFO - Cluster assignments for 1000m saved to ../outputs/euclidean_clusters/euclidean_clusters_1000m.csv
+2025-06-26 17:42:01,152 - INFO - Analysis summary saved to ../outputs/euclidean_clusters/euclidean_analysis_summary.txt
+2025-06-26 17:53:06,024 - INFO - Loading path data...
+2025-06-26 17:53:06,404 - INFO - Loaded 74276 path records.
+2025-06-26 17:53:06,404 - INFO - Available columns: ['park1_unique_id', 'park1_point_id', 'park2_unique_id', 'park2_point_id', 'path_length', 'euclidean_distance', 'geometry']
+2025-06-26 17:53:06,404 - INFO - Extracting park points from path geometries...
+2025-06-26 17:53:09,402 - INFO - Extracted 3576 unique parks from 74276 path records
+2025-06-26 17:53:09,403 - INFO - Average paths per park: 41.5, Max: 3549
+2025-06-26 17:53:09,436 - WARNING - Found parks on borough boundaries, keeping first assignment
+2025-06-26 17:53:09,438 - INFO - Parks per borough: {'Brooklyn': 632, 'Queens': 500, 'Manhattan': 406, 'Bronx': 402, 'Staten Island': 193}
+2025-06-26 17:53:09,438 - WARNING - 21 parks could not be assigned to a borough
+2025-06-26 17:53:09,438 - INFO - 
+Analyzing clusters for 100m threshold...
+2025-06-26 17:53:50,619 - INFO - Created graph with 34882 nodes and 16069 edges for 100m threshold.
+2025-06-26 17:53:50,626 - INFO - Using connected components for large graph
+2025-06-26 17:53:50,648 - INFO - Found 18895 connected components
+2025-06-26 17:53:50,805 - INFO - Cluster assignments for 100m saved to ../outputs/euclidean_clusters/euclidean_clusters_100m.csv
+2025-06-26 17:53:50,806 - INFO - 
+Analyzing clusters for 250m threshold...
+2025-06-26 17:54:31,494 - INFO - Created graph with 52805 nodes and 26633 edges for 250m threshold.
+2025-06-26 17:54:31,503 - INFO - Using connected components for large graph
+2025-06-26 17:54:31,538 - INFO - Found 27026 connected components
+2025-06-26 17:54:31,772 - INFO - Cluster assignments for 250m saved to ../outputs/euclidean_clusters/euclidean_clusters_250m.csv
+2025-06-26 17:54:31,772 - INFO - 
+Analyzing clusters for 500m threshold...
+2025-06-26 17:55:13,033 - INFO - Created graph with 72442 nodes and 41288 edges for 500m threshold.
+2025-06-26 17:55:13,048 - INFO - Using connected components for large graph
+2025-06-26 17:55:13,169 - INFO - Found 35464 connected components
+2025-06-26 17:55:13,482 - INFO - Cluster assignments for 500m saved to ../outputs/euclidean_clusters/euclidean_clusters_500m.csv
+2025-06-26 17:55:13,482 - INFO - 
+Analyzing clusters for 1000m threshold...
+2025-06-26 17:55:54,575 - INFO - Created graph with 118945 nodes and 82227 edges for 1000m threshold.
+2025-06-26 17:55:54,600 - INFO - Using connected components for large graph
+2025-06-26 17:55:54,782 - INFO - Found 53803 connected components
+2025-06-26 17:55:55,294 - INFO - Cluster assignments for 1000m saved to ../outputs/euclidean_clusters/euclidean_clusters_1000m.csv
+2025-06-26 17:55:55,296 - INFO - Analysis summary saved to ../outputs/euclidean_clusters/euclidean_analysis_summary.txt
+2025-06-26 18:06:10,605 - INFO - Loading path data...
+2025-06-26 18:06:10,984 - INFO - Loaded 74276 path records.
+2025-06-26 18:06:10,985 - INFO - Available columns: ['park1_unique_id', 'park1_point_id', 'park2_unique_id', 'park2_point_id', 'path_length', 'euclidean_distance', 'geometry']
+2025-06-26 18:06:10,985 - INFO - Extracting park points from path geometries...
+2025-06-26 18:06:13,981 - INFO - Extracted 3576 unique parks from 74276 path records
+2025-06-26 18:06:13,981 - INFO - Average paths per park: 41.5, Max: 3549
+2025-06-26 18:06:14,014 - WARNING - Found parks on borough boundaries, keeping first assignment
+2025-06-26 18:06:14,015 - INFO - Parks per borough: {'Brooklyn': 632, 'Queens': 500, 'Manhattan': 406, 'Bronx': 402, 'Staten Island': 193}
+2025-06-26 18:06:14,015 - WARNING - 21 parks could not be assigned to a borough
+2025-06-26 18:06:14,016 - INFO - 
+Analyzing clusters for 50m threshold...
+2025-06-26 18:07:00,000 - INFO - Created graph with 25334 nodes and 10967 edges for 50m threshold.
+2025-06-26 18:07:00,000 - INFO - Filtered to 3576 parks that appear in path data (from 3576 total)
+2025-06-26 18:07:00,009 - INFO - Graph has 25334 nodes and 10967 edges
+2025-06-26 18:07:00,009 - INFO - Using connected components for large graph
+2025-06-26 18:07:00,024 - INFO - Found 14377 connected components
+2025-06-26 18:07:00,025 - INFO - Component size stats: min=1, max=5, mean=1.8
+2025-06-26 18:07:00,026 - INFO - Multi-node components: 10935 out of 14377 total
+2025-06-26 18:07:00,026 - INFO - Total clusters found: 14377
+2025-06-26 18:07:00,026 - INFO - Total parks in clusters: 25334
+2025-06-26 18:07:00,026 - ERROR - ERROR: More clusters (25334) than parks (3576)!
+2025-06-26 18:07:00,027 - ERROR - ERROR: More unique cluster IDs (14377) than parks (3576)!
+2025-06-26 18:07:00,149 - INFO - Cluster assignments for 50m saved to ../outputs/euclidean_clusters/euclidean_clusters_50m.csv
+2025-06-26 18:07:00,149 - INFO - 
+Analyzing clusters for 100m threshold...
+2025-06-26 18:07:48,520 - INFO - Created graph with 25334 nodes and 11216 edges for 100m threshold.
+2025-06-26 18:07:48,520 - INFO - Filtered to 3576 parks that appear in path data (from 3576 total)
+2025-06-26 18:07:48,530 - INFO - Graph has 25334 nodes and 11216 edges
+2025-06-26 18:07:48,530 - INFO - Using connected components for large graph
+2025-06-26 18:07:48,544 - INFO - Found 14184 connected components
+2025-06-26 18:07:48,545 - INFO - Component size stats: min=1, max=14, mean=1.8
+2025-06-26 18:07:48,546 - INFO - Multi-node components: 11040 out of 14184 total
+2025-06-26 18:07:48,546 - INFO - Total clusters found: 14184
+2025-06-26 18:07:48,547 - INFO - Total parks in clusters: 25334
+2025-06-26 18:07:48,547 - ERROR - ERROR: More clusters (25334) than parks (3576)!
+2025-06-26 18:07:48,547 - ERROR - ERROR: More unique cluster IDs (14184) than parks (3576)!
+2025-06-26 18:07:48,668 - INFO - Cluster assignments for 100m saved to ../outputs/euclidean_clusters/euclidean_clusters_100m.csv
+2025-06-26 18:07:48,668 - INFO - 
+Analyzing clusters for 150m threshold...
+2025-06-26 18:08:38,514 - INFO - Created graph with 25334 nodes and 11556 edges for 150m threshold.
+2025-06-26 18:08:38,514 - INFO - Filtered to 3576 parks that appear in path data (from 3576 total)
+2025-06-26 18:08:38,523 - INFO - Graph has 25334 nodes and 11556 edges
+2025-06-26 18:08:38,523 - INFO - Using connected components for large graph
+2025-06-26 18:08:38,536 - INFO - Found 13984 connected components
+2025-06-26 18:08:38,537 - INFO - Component size stats: min=1, max=29, mean=1.8
+2025-06-26 18:08:38,537 - INFO - Multi-node components: 11118 out of 13984 total
+2025-06-26 18:08:38,538 - INFO - Total clusters found: 13984
+2025-06-26 18:08:38,538 - INFO - Total parks in clusters: 25334
+2025-06-26 18:08:38,538 - ERROR - ERROR: More clusters (25334) than parks (3576)!
+2025-06-26 18:08:38,539 - ERROR - ERROR: More unique cluster IDs (13984) than parks (3576)!
+2025-06-26 18:08:38,657 - INFO - Cluster assignments for 150m saved to ../outputs/euclidean_clusters/euclidean_clusters_150m.csv
+2025-06-26 18:08:38,657 - INFO - 
+Analyzing clusters for 250m threshold...
+2025-06-26 18:09:30,915 - INFO - Created graph with 25334 nodes and 12602 edges for 250m threshold.
+2025-06-26 18:09:30,915 - INFO - Filtered to 3576 parks that appear in path data (from 3576 total)
+2025-06-26 18:09:30,925 - INFO - Graph has 25334 nodes and 12602 edges
+2025-06-26 18:09:30,925 - INFO - Using connected components for large graph
+2025-06-26 18:09:31,004 - INFO - Found 13515 connected components
+2025-06-26 18:09:31,006 - INFO - Component size stats: min=1, max=54, mean=1.9
+2025-06-26 18:09:31,006 - INFO - Multi-node components: 11179 out of 13515 total
+2025-06-26 18:09:31,007 - INFO - Total clusters found: 13515
+2025-06-26 18:09:31,007 - INFO - Total parks in clusters: 25334
+2025-06-26 18:09:31,007 - ERROR - ERROR: More clusters (25334) than parks (3576)!
+2025-06-26 18:09:31,007 - ERROR - ERROR: More unique cluster IDs (13515) than parks (3576)!
+2025-06-26 18:09:31,129 - INFO - Cluster assignments for 250m saved to ../outputs/euclidean_clusters/euclidean_clusters_250m.csv
+2025-06-26 18:09:31,129 - INFO - Analysis summary saved to ../outputs/euclidean_clusters/euclidean_analysis_summary.txt
+2025-06-26 18:10:28,696 - INFO - Loading path data...
+2025-06-26 18:10:29,082 - INFO - Loaded 74276 path records.
+2025-06-26 18:10:29,082 - INFO - Available columns: ['park1_unique_id', 'park1_point_id', 'park2_unique_id', 'park2_point_id', 'path_length', 'euclidean_distance', 'geometry']
+2025-06-26 18:10:29,082 - INFO - Extracting park points from path geometries...
+2025-06-26 18:10:31,993 - INFO - Found 3576 unique park IDs from paths
+2025-06-26 18:10:32,002 - INFO - Unique parks from path columns: 3576
+2025-06-26 18:10:32,079 - INFO - Created parks GDF with 3576 parks
+2025-06-26 18:10:32,079 - INFO - Extracted 3576 unique parks from 74276 path records
+2025-06-26 18:10:32,079 - ERROR - ERROR: Found 1422 duplicate unique_ids in parks_gdf!
+2025-06-26 18:10:32,080 - INFO - Average paths per park: 41.5, Max: 3549
+2025-06-26 18:10:32,080 - INFO - Sample unique_ids: [1125.0, nan, 1995.0, 212.0, 1998.0, 1999.0, nan, nan, nan, nan]
+2025-06-26 18:10:32,112 - WARNING - Found parks on borough boundaries, keeping first assignment
+2025-06-26 18:10:32,114 - INFO - Parks per borough: {'Brooklyn': 632, 'Queens': 500, 'Manhattan': 406, 'Bronx': 402, 'Staten Island': 193}
+2025-06-26 18:10:32,114 - WARNING - 21 parks could not be assigned to a borough
+2025-06-26 18:10:32,114 - INFO - 
+Analyzing clusters for 50m threshold...
+2025-06-26 18:11:13,244 - INFO - Created graph with 25334 nodes and 10967 edges for 50m threshold.
+2025-06-26 18:11:13,253 - INFO - Graph has 25334 nodes and 10967 edges
+2025-06-26 18:11:13,253 - INFO - Using connected components for large graph
+2025-06-26 18:11:13,306 - INFO - Found 14377 connected components
+2025-06-26 18:11:13,307 - INFO - Component size stats: min=1, max=5, mean=1.8
+2025-06-26 18:11:13,307 - INFO - Multi-node components: 10935 out of 14377 total
+2025-06-26 18:11:13,308 - INFO - Total clusters found: 14377
+2025-06-26 18:11:13,308 - INFO - Total parks in clusters: 25334
+2025-06-26 18:11:13,308 - ERROR - ERROR: More clusters (25334) than parks (3576)!
+2025-06-26 18:11:13,308 - ERROR - ERROR: More unique cluster IDs (14377) than parks (3576)!
+2025-06-26 18:11:13,426 - INFO - Cluster assignments for 50m saved to ../outputs/euclidean_clusters/euclidean_clusters_50m.csv
+2025-06-26 18:11:13,426 - INFO - 
+Analyzing clusters for 100m threshold...
+2025-06-26 18:11:54,441 - INFO - Created graph with 34882 nodes and 16069 edges for 100m threshold.
+2025-06-26 18:11:54,452 - INFO - Graph has 34882 nodes and 16069 edges
+2025-06-26 18:11:54,452 - INFO - Using connected components for large graph
+2025-06-26 18:11:54,522 - INFO - Found 18895 connected components
+2025-06-26 18:11:54,524 - INFO - Component size stats: min=1, max=27, mean=1.8
+2025-06-26 18:11:54,524 - INFO - Multi-node components: 15806 out of 18895 total
+2025-06-26 18:11:54,525 - INFO - Total clusters found: 18895
+2025-06-26 18:11:54,525 - INFO - Total parks in clusters: 34882
+2025-06-26 18:11:54,525 - ERROR - ERROR: More clusters (34882) than parks (3576)!
+2025-06-26 18:11:54,526 - ERROR - ERROR: More unique cluster IDs (18895) than parks (3576)!
+2025-06-26 18:11:54,684 - INFO - Cluster assignments for 100m saved to ../outputs/euclidean_clusters/euclidean_clusters_100m.csv
+2025-06-26 18:11:54,684 - INFO - 
+Analyzing clusters for 150m threshold...
+2025-06-26 18:12:36,441 - INFO - Created graph with 42691 nodes and 20351 edges for 150m threshold.
+2025-06-26 18:12:36,456 - INFO - Graph has 42691 nodes and 20351 edges
+2025-06-26 18:12:36,456 - INFO - Using connected components for large graph
+2025-06-26 18:12:36,483 - INFO - Found 22579 connected components
+2025-06-26 18:12:36,485 - INFO - Component size stats: min=1, max=34, mean=1.9
+2025-06-26 18:12:36,485 - INFO - Multi-node components: 19776 out of 22579 total
+2025-06-26 18:12:36,487 - INFO - Total clusters found: 22579
+2025-06-26 18:12:36,487 - INFO - Total parks in clusters: 42691
+2025-06-26 18:12:36,487 - ERROR - ERROR: More clusters (42691) than parks (3576)!
+2025-06-26 18:12:36,487 - ERROR - ERROR: More unique cluster IDs (22579) than parks (3576)!
+2025-06-26 18:12:36,675 - INFO - Cluster assignments for 150m saved to ../outputs/euclidean_clusters/euclidean_clusters_150m.csv
+2025-06-26 18:12:36,676 - INFO - 
+Analyzing clusters for 250m threshold...
+2025-06-26 18:13:17,609 - INFO - Created graph with 52805 nodes and 26633 edges for 250m threshold.
+2025-06-26 18:13:17,628 - INFO - Graph has 52805 nodes and 26633 edges
+2025-06-26 18:13:17,628 - INFO - Using connected components for large graph
+2025-06-26 18:13:17,727 - INFO - Found 27026 connected components
+2025-06-26 18:13:17,729 - INFO - Component size stats: min=1, max=60, mean=2.0
+2025-06-26 18:13:17,730 - INFO - Multi-node components: 24741 out of 27026 total
+2025-06-26 18:13:17,731 - INFO - Total clusters found: 27026
+2025-06-26 18:13:17,731 - INFO - Total parks in clusters: 52805
+2025-06-26 18:13:17,731 - ERROR - ERROR: More clusters (52805) than parks (3576)!
+2025-06-26 18:13:17,732 - ERROR - ERROR: More unique cluster IDs (27026) than parks (3576)!
+2025-06-26 18:13:17,964 - INFO - Cluster assignments for 250m saved to ../outputs/euclidean_clusters/euclidean_clusters_250m.csv
+2025-06-26 18:13:17,965 - INFO - Analysis summary saved to ../outputs/euclidean_clusters/euclidean_analysis_summary.txt
+2025-06-26 19:33:20,015 - INFO - Loading path data...
+2025-06-26 19:33:20,233 - INFO - Loaded 74276 path records.
+2025-06-26 19:33:20,233 - INFO - Available columns: ['park1_unique_id', 'park1_point_id', 'park2_unique_id', 'park2_point_id', 'path_length', 'euclidean_distance', 'geometry']
+2025-06-26 19:33:20,234 - INFO - Extracting park points from path geometries...
+2025-06-26 19:33:21,879 - INFO - Found 4405 unique park IDs from paths
+2025-06-26 19:33:21,885 - INFO - Unique parks from path columns: 4405
+2025-06-26 19:33:21,945 - INFO - Created parks GDF with 4405 parks
+2025-06-26 19:33:21,945 - INFO - Extracted 4405 unique parks from 74276 path records
+2025-06-26 19:33:21,945 - INFO - Average paths per park: 33.7, Max: 197
+2025-06-26 19:33:21,945 - INFO - Sample point_ids: [2068.0, 4357.0, 4126.0, 2067.0, 554.0, 2069.0, 4130.0, 2074.0, 2075.0, 4131.0]
+2025-06-26 19:33:21,968 - INFO - Parks per borough: {'Queens': 1207, 'Brooklyn': 1085, 'Bronx': 809, 'Manhattan': 728, 'Staten Island': 510}
+2025-06-26 19:33:21,968 - WARNING - 66 parks could not be assigned to a borough
+2025-06-26 19:33:21,968 - INFO - 
+Analyzing clusters for 50m threshold...
+2025-06-26 19:33:56,670 - INFO - Created graph with 4405 nodes and 677 edges for 50m threshold.
+2025-06-26 19:33:56,671 - INFO - Graph has 4405 nodes and 677 edges
+2025-06-26 19:33:56,671 - INFO - Using connected components for large graph
+2025-06-26 19:33:56,673 - INFO - Found 3830 connected components
+2025-06-26 19:33:56,673 - INFO - Component size stats: min=1, max=7, mean=1.2
+2025-06-26 19:33:56,673 - INFO - Multi-node components: 416 out of 3830 total
+2025-06-26 19:33:56,673 - INFO - Total clusters found: 3830
+2025-06-26 19:33:56,673 - INFO - Total parks in clusters: 4405
+2025-06-26 19:33:56,692 - INFO - Cluster assignments for 50m saved to ../outputs/euclidean_clusters/euclidean_clusters_50m.csv
+2025-06-26 19:33:56,692 - INFO - 
+Analyzing clusters for 100m threshold...
+2025-06-26 19:34:31,205 - INFO - Created graph with 4405 nodes and 2586 edges for 100m threshold.
+2025-06-26 19:34:31,207 - INFO - Graph has 4405 nodes and 2586 edges
+2025-06-26 19:34:31,207 - INFO - Using connected components for large graph
+2025-06-26 19:34:31,208 - INFO - Found 2709 connected components
+2025-06-26 19:34:31,209 - INFO - Component size stats: min=1, max=33, mean=1.6
+2025-06-26 19:34:31,209 - INFO - Multi-node components: 632 out of 2709 total
+2025-06-26 19:34:31,209 - INFO - Total clusters found: 2709
+2025-06-26 19:34:31,209 - INFO - Total parks in clusters: 4405
+2025-06-26 19:34:31,228 - INFO - Cluster assignments for 100m saved to ../outputs/euclidean_clusters/euclidean_clusters_100m.csv
+2025-06-26 19:34:31,228 - INFO - 
+Analyzing clusters for 150m threshold...
+2025-06-26 19:35:05,981 - INFO - Created graph with 4405 nodes and 4689 edges for 150m threshold.
+2025-06-26 19:35:05,982 - INFO - Graph has 4405 nodes and 4689 edges
+2025-06-26 19:35:05,982 - INFO - Using connected components for large graph
+2025-06-26 19:35:05,984 - INFO - Found 2149 connected components
+2025-06-26 19:35:05,984 - INFO - Component size stats: min=1, max=73, mean=2.0
+2025-06-26 19:35:05,984 - INFO - Multi-node components: 640 out of 2149 total
+2025-06-26 19:35:05,984 - INFO - Total clusters found: 2149
+2025-06-26 19:35:05,984 - INFO - Total parks in clusters: 4405
+2025-06-26 19:35:06,029 - INFO - Cluster assignments for 150m saved to ../outputs/euclidean_clusters/euclidean_clusters_150m.csv
+2025-06-26 19:35:06,029 - INFO - 
+Analyzing clusters for 250m threshold...
+2025-06-26 19:35:40,832 - INFO - Created graph with 4405 nodes and 9924 edges for 250m threshold.
+2025-06-26 19:35:40,834 - INFO - Graph has 4405 nodes and 9924 edges
+2025-06-26 19:35:40,834 - INFO - Using connected components for large graph
+2025-06-26 19:35:40,836 - INFO - Found 1319 connected components
+2025-06-26 19:35:40,836 - INFO - Component size stats: min=1, max=127, mean=3.3
+2025-06-26 19:35:40,836 - INFO - Multi-node components: 487 out of 1319 total
+2025-06-26 19:35:40,836 - INFO - Total clusters found: 1319
+2025-06-26 19:35:40,836 - INFO - Total parks in clusters: 4405
+2025-06-26 19:35:40,855 - INFO - Cluster assignments for 250m saved to ../outputs/euclidean_clusters/euclidean_clusters_250m.csv
+2025-06-26 19:35:40,855 - INFO - Analysis summary saved to ../outputs/euclidean_clusters/euclidean_analysis_summary.txt
+2025-06-26 19:52:47,904 - INFO - Loading path data...
+2025-06-26 19:52:48,120 - INFO - Loaded 74276 path records.
+2025-06-26 19:52:48,120 - INFO - Available columns: ['park1_unique_id', 'park1_point_id', 'park2_unique_id', 'park2_point_id', 'path_length', 'euclidean_distance', 'geometry']
+2025-06-26 19:52:48,120 - INFO - Extracting park points from path geometries...
+2025-06-26 19:52:49,719 - INFO - Found 4405 unique park IDs from paths
+2025-06-26 19:52:49,724 - INFO - Unique parks from path columns: 4405
+2025-06-26 19:52:49,776 - INFO - Created parks GDF with 4405 parks
+2025-06-26 19:52:49,776 - INFO - Extracted 4405 unique parks from 74276 path records
+2025-06-26 19:52:49,776 - INFO - Average paths per park: 33.7, Max: 197
+2025-06-26 19:52:49,776 - INFO - Sample point_ids: [2068.0, 4357.0, 4126.0, 2067.0, 554.0, 2069.0, 4130.0, 2074.0, 2075.0, 4131.0]
+2025-06-26 19:52:49,796 - INFO - Parks per borough: {'Queens': 1207, 'Brooklyn': 1085, 'Bronx': 809, 'Manhattan': 728, 'Staten Island': 510}
+2025-06-26 19:52:49,796 - WARNING - 66 parks could not be assigned to a borough
+2025-06-26 19:52:49,796 - INFO - 
+Analyzing clusters for 100m threshold...
+2025-06-26 19:53:24,517 - INFO - Created graph with 4405 nodes and 2586 edges for 100m threshold.
+2025-06-26 19:53:24,518 - INFO - Graph has 4405 nodes and 2586 edges
+2025-06-26 19:53:24,518 - INFO - Using connected components for large graph
+2025-06-26 19:53:24,520 - INFO - Found 2709 connected components
+2025-06-26 19:53:24,520 - INFO - Component size stats: min=1, max=33, mean=1.6
+2025-06-26 19:53:24,520 - INFO - Multi-node components: 632 out of 2709 total
+2025-06-26 19:53:24,520 - INFO - Total clusters found: 2709
+2025-06-26 19:53:24,520 - INFO - Total parks in clusters: 4405
+2025-06-26 19:53:24,539 - INFO - Cluster assignments for 100m saved to ../outputs/euclidean_clusters/euclidean_clusters_100m.csv
+2025-06-26 19:53:24,539 - INFO - 
+Analyzing clusters for 250m threshold...
+2025-06-26 19:54:01,768 - INFO - Created graph with 4405 nodes and 9924 edges for 250m threshold.
+2025-06-26 19:54:01,770 - INFO - Graph has 4405 nodes and 9924 edges
+2025-06-26 19:54:01,770 - INFO - Using connected components for large graph
+2025-06-26 19:54:01,772 - INFO - Found 1319 connected components
+2025-06-26 19:54:01,772 - INFO - Component size stats: min=1, max=127, mean=3.3
+2025-06-26 19:54:01,772 - INFO - Multi-node components: 487 out of 1319 total
+2025-06-26 19:54:01,772 - INFO - Total clusters found: 1319
+2025-06-26 19:54:01,772 - INFO - Total parks in clusters: 4405
+2025-06-26 19:54:01,791 - INFO - Cluster assignments for 250m saved to ../outputs/euclidean_clusters/euclidean_clusters_250m.csv
+2025-06-26 19:54:01,791 - INFO - 
+Analyzing clusters for 500m threshold...
+2025-06-26 19:54:38,705 - INFO - Created graph with 4405 nodes and 24801 edges for 500m threshold.
+2025-06-26 19:54:38,706 - INFO - Graph has 4405 nodes and 24801 edges
+2025-06-26 19:54:38,707 - INFO - Using connected components for large graph
+2025-06-26 19:54:38,710 - INFO - Found 432 connected components
+2025-06-26 19:54:38,710 - INFO - Component size stats: min=1, max=1478, mean=10.2
+2025-06-26 19:54:38,710 - INFO - Multi-node components: 206 out of 432 total
+2025-06-26 19:54:38,710 - INFO - Total clusters found: 432
+2025-06-26 19:54:38,710 - INFO - Total parks in clusters: 4405
+2025-06-26 19:54:38,728 - INFO - Cluster assignments for 500m saved to ../outputs/euclidean_clusters/euclidean_clusters_500m.csv
+2025-06-26 19:54:38,728 - INFO - 
+Analyzing clusters for 1000m threshold...
+2025-06-26 19:55:15,758 - INFO - Created graph with 4405 nodes and 64291 edges for 1000m threshold.
+2025-06-26 19:55:15,759 - INFO - Graph has 4405 nodes and 64291 edges
+2025-06-26 19:55:15,759 - INFO - Using connected components for large graph
+2025-06-26 19:55:15,766 - INFO - Found 32 connected components
+2025-06-26 19:55:15,766 - INFO - Component size stats: min=1, max=3631, mean=137.7
+2025-06-26 19:55:15,766 - INFO - Multi-node components: 19 out of 32 total
+2025-06-26 19:55:15,766 - INFO - Total clusters found: 32
+2025-06-26 19:55:15,766 - INFO - Total parks in clusters: 4405
+2025-06-26 19:55:15,784 - INFO - Cluster assignments for 1000m saved to ../outputs/euclidean_clusters/euclidean_clusters_1000m.csv
+2025-06-26 19:55:15,784 - INFO - Analysis summary saved to ../outputs/euclidean_clusters/euclidean_analysis_summary.txt

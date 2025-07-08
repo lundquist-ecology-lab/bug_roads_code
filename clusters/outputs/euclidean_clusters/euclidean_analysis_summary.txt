@@ -1,0 +1,175 @@
+Euclidean Distance Cluster Analysis Summary
+==========================================
+
+
+Results for 100m threshold:
+------------------------------
+
+Citywide Statistics:
+- Total clusters: 632
+- Cluster size: 3.7 ± 0.14 (632)
+- Total parks in clusters: 2328
+
+Borough Statistics:
+
+Brooklyn:
+- Total clusters: 163
+- Cluster size: 3.4 ± 0.24 (163)
+- Total parks in clusters: 548
+
+Queens:
+- Total clusters: 176
+- Cluster size: 3.6 ± 0.27 (176)
+- Total parks in clusters: 636
+
+Manhattan:
+- Total clusters: 97
+- Cluster size: 4.7 ± 0.52 (97)
+- Total parks in clusters: 456
+
+Staten Island:
+- Total clusters: 72
+- Cluster size: 3.4 ± 0.29 (72)
+- Total parks in clusters: 243
+
+Bronx:
+- Total clusters: 118
+- Cluster size: 3.6 ± 0.31 (118)
+- Total parks in clusters: 425
+
+Multi-borough Clusters:
+- Total clusters: 2
+- Cluster size: 2.5 ± 0.50 (2)
+- Total parks: 5
+- Average boroughs per cluster: 2.0
+
+==================================================
+
+Results for 250m threshold:
+------------------------------
+
+Citywide Statistics:
+- Total clusters: 487
+- Cluster size: 7.3 ± 0.58 (487)
+- Total parks in clusters: 3573
+
+Borough Statistics:
+
+Brooklyn:
+- Total clusters: 131
+- Cluster size: 6.8 ± 1.23 (131)
+- Total parks in clusters: 896
+
+Queens:
+- Total clusters: 132
+- Cluster size: 6.7 ± 0.84 (132)
+- Total parks in clusters: 890
+
+Manhattan:
+- Total clusters: 64
+- Cluster size: 10.3 ± 2.47 (64)
+- Total parks in clusters: 662
+
+Staten Island:
+- Total clusters: 66
+- Cluster size: 5.8 ± 0.78 (66)
+- Total parks in clusters: 384
+
+Bronx:
+- Total clusters: 84
+- Cluster size: 8.2 ± 1.36 (84)
+- Total parks in clusters: 690
+
+Multi-borough Clusters:
+- Total clusters: 4
+- Cluster size: 21.8 ± 14.21 (4)
+- Total parks: 87
+- Average boroughs per cluster: 2.0
+
+==================================================
+
+Results for 500m threshold:
+------------------------------
+
+Citywide Statistics:
+- Total clusters: 206
+- Cluster size: 20.3 ± 7.41 (206)
+- Total parks in clusters: 4179
+
+Borough Statistics:
+
+Brooklyn:
+- Total clusters: 45
+- Cluster size: 23.0 ± 11.08 (45)
+- Total parks in clusters: 1035
+
+Queens:
+- Total clusters: 87
+- Cluster size: 12.7 ± 2.72 (87)
+- Total parks in clusters: 1106
+
+Manhattan:
+- Total clusters: 11
+- Cluster size: 65.7 ± 44.59 (11)
+- Total parks in clusters: 723
+
+Staten Island:
+- Total clusters: 43
+- Cluster size: 10.8 ± 2.40 (43)
+- Total parks in clusters: 466
+
+Bronx:
+- Total clusters: 19
+- Cluster size: 41.3 ± 28.40 (19)
+- Total parks in clusters: 784
+
+Multi-borough Clusters:
+- Total clusters: 5
+- Cluster size: 323.8 ± 288.58 (5)
+- Total parks: 1619
+- Average boroughs per cluster: 2.4
+
+==================================================
+
+Results for 1000m threshold:
+------------------------------
+
+Citywide Statistics:
+- Total clusters: 19
+- Cluster size: 231.2 ± 189.61 (19)
+- Total parks in clusters: 4392
+
+Borough Statistics:
+
+Brooklyn:
+- Total clusters: 4
+- Cluster size: 270.8 ± 264.75 (4)
+- Total parks in clusters: 1083
+
+Queens:
+- Total clusters: 7
+- Cluster size: 172.1 ± 139.49 (7)
+- Total parks in clusters: 1205
+
+Manhattan:
+- Total clusters: 2
+- Cluster size: 364.0 ± 361.00 (2)
+- Total parks in clusters: 728
+
+Staten Island:
+- Total clusters: 7
+- Cluster size: 72.0 ± 41.09 (7)
+- Total parks in clusters: 504
+
+Bronx:
+- Total clusters: 2
+- Cluster size: 403.0 ± 399.00 (2)
+- Total parks in clusters: 806
+
+Multi-borough Clusters:
+- Total clusters: 3
+- Cluster size: 1219.7 ± 1205.67 (3)
+- Total parks: 3659
+- Average boroughs per cluster: 2.7
+
+==================================================

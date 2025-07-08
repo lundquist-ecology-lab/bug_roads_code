@@ -1,0 +1,141 @@
+New York City Summary
+====================
+Total paths: 63629
+Paths with zero buildings: 87
+Paths with buildings: 63542
+Paths with non-zero height buildings: 63538
+
+Building Intersection Statistics
+-----------------------------
+Maximum buildings intersected: 47
+Minimum buildings intersected: 0
+Mean buildings intersected: 11.84
+Standard error of intersections: 0.03
+
+Building Height Statistics (excluding zero heights)
+--------------------------------------------
+Maximum building height: 429.27 m
+Minimum building height: 0.86 m
+Mean building height: 16.31 m
+Standard error of height: 0.02 m
+
+Distance Statistics
+-----------------
+Distance data not available
+Number of paths: 0
+
+Bronx Summary
+=============
+Total paths: 12591
+Paths with zero buildings: 2
+Paths with buildings: 12589
+Paths with non-zero height buildings: 12589
+
+Building Intersection Statistics:
+Maximum buildings intersected: 36
+Minimum buildings intersected: 0
+Mean buildings intersected: 10.51
+Standard error of intersections: 0.06
+
+Building Height Statistics (excluding zero heights):
+Maximum building height: 137.16 m
+Minimum building height: 1.21 m
+Mean building height: 14.27 m
+Standard error of height: 0.03 m
+
+Distance Statistics:
+Distance data not available
+Number of paths: 0
+
+Manhattan Summary
+=================
+Total paths: 16715
+Paths with zero buildings: 31
+Paths with buildings: 16684
+Paths with non-zero height buildings: 16684
+
+Building Intersection Statistics:
+Maximum buildings intersected: 43
+Minimum buildings intersected: 0
+Mean buildings intersected: 13.35
+Standard error of intersections: 0.06
+
+Building Height Statistics (excluding zero heights):
+Maximum building height: 429.27 m
+Minimum building height: 2.12 m
+Mean building height: 25.60 m
+Standard error of height: 0.04 m
+
+Distance Statistics:
+Distance data not available
+Number of paths: 0
+
+Brooklyn Summary
+================
+Total paths: 16147
+Paths with zero buildings: 5
+Paths with buildings: 16142
+Paths with non-zero height buildings: 16141
+
+Building Intersection Statistics:
+Maximum buildings intersected: 47
+Minimum buildings intersected: 0
+Mean buildings intersected: 13.03
+Standard error of intersections: 0.07
+
+Building Height Statistics (excluding zero heights):
+Maximum building height: 243.84 m
+Minimum building height: 1.12 m
+Mean building height: 13.17 m
+Standard error of height: 0.02 m
+
+Distance Statistics:
+Distance data not available
+Number of paths: 0
+
+Queens Summary
+==============
+Total paths: 12148
+Paths with zero buildings: 41
+Paths with buildings: 12107
+Paths with non-zero height buildings: 12107
+
+Building Intersection Statistics:
+Maximum buildings intersected: 42
+Minimum buildings intersected: 0
+Mean buildings intersected: 10.49
+Standard error of intersections: 0.07
+
+Building Height Statistics (excluding zero heights):
+Maximum building height: 192.94 m
+Minimum building height: 0.95 m
+Mean building height: 9.30 m
+Standard error of height: 0.02 m
+
+Distance Statistics:
+Distance data not available
+Number of paths: 0
+
+Staten Island Summary
+=====================
+Total paths: 3932
+Paths with zero buildings: 2
+Paths with buildings: 3930
+Paths with non-zero height buildings: 3927
+
+Building Intersection Statistics:
+Maximum buildings intersected: 43
+Minimum buildings intersected: 0
+Mean buildings intersected: 8.37
+Standard error of intersections: 0.10
+
+Building Height Statistics (excluding zero heights):
+Maximum building height: 51.91 m
+Minimum building height: 0.86 m
+Mean building height: 8.12 m
+Standard error of height: 0.01 m
+
+Distance Statistics:
+Distance data not available
+Number of paths: 0
+

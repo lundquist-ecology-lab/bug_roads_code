@@ -1,0 +1,31 @@
+PARK LIDAR ANALYSIS SUMMARY
+========================================
+
+Total unique park shapes analyzed: 19231
+Total coverage records: 19231
+Minimum coverage area (m²): 0.08
+Maximum coverage area (m²): 4893016.00
+Total coverage area (m²): 176628273.67
+
+COVERAGE BY TYPE:
+  Ground: 99666887.08 m² (56.4%)
+  High Vegetation: 45247202.08 m² (25.6%)
+  Medium Vegetation: 18913802.42 m² (10.7%)
+  Low Vegetation: 10551915.50 m² (6.0%)
+  Building: 2248466.58 m² (1.3%)
+
+COVERAGE BY BOROUGH:
+  Queens: 55383697.83 m² (31.4%)
+  Staten Island: 40957691.92 m² (23.2%)
+  Bronx: 34147270.42 m² (19.3%)
+  Brooklyn: 32175645.92 m² (18.2%)
+  Manhattan: 13963967.58 m² (7.9%)
+
+SHAPES BY BOROUGH AND COVER TYPE:
+cover_type     Building  Ground  High Vegetation  Low Vegetation  Medium Vegetation
+borough                                                                            
+Bronx               468     821              780             777                787
+Brooklyn            616    1100             1038            1043               1058
+Manhattan           392     736              717             713                722
+Queens              660    1216             1121            1112               1136
+Staten Island       221     521              490             493                493
