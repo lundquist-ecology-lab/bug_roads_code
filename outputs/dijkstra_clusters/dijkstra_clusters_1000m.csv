@@ -1,0 +1,4406 @@
+point_id,cluster_id,borough
+1.0,0,Queens
+2.0,0,Queens
+3.0,0,Queens
+4.0,0,Queens
+5.0,0,Queens
+6.0,0,Brooklyn
+7.0,0,Brooklyn
+8.0,0,Brooklyn
+9.0,0,Brooklyn
+10.0,0,Brooklyn
+11.0,0,Bronx
+12.0,0,Bronx
+13.0,0,Bronx
+30.0,0,Brooklyn
+31.0,0,Queens
+32.0,0,Queens
+33.0,0,Queens
+34.0,0,Queens
+35.0,0,Queens
+36.0,0,Queens
+37.0,0,Queens
+38.0,0,Queens
+39.0,0,Queens
+40.0,0,Queens
+41.0,0,Queens
+42.0,0,Queens
+43.0,0,Queens
+44.0,0,Queens
+45.0,0,Brooklyn
+46.0,0,Brooklyn
+47.0,0,Brooklyn
+48.0,0,Brooklyn
+49.0,0,Brooklyn
+50.0,0,Brooklyn
+51.0,0,Queens
+52.0,0,Manhattan
+53.0,0,Manhattan
+54.0,0,Manhattan
+55.0,0,Manhattan
+56.0,0,Manhattan
+57.0,0,Manhattan
+58.0,0,Manhattan
+59.0,0,Manhattan
+60.0,0,Manhattan
+61.0,0,Bronx
+62.0,0,Bronx
+63.0,0,Bronx
+64.0,0,Bronx
+65.0,0,Bronx
+66.0,0,Bronx
+67.0,0,Bronx
+68.0,0,Bronx
+69.0,0,Bronx
+99.0,0,Brooklyn
+100.0,0,Brooklyn
+101.0,0,Brooklyn
+102.0,0,Brooklyn
+103.0,0,Brooklyn
+104.0,0,Brooklyn
+105.0,0,Queens
+106.0,0,Queens
+107.0,0,Queens
+108.0,0,Brooklyn
+109.0,0,Brooklyn
+110.0,0,Brooklyn
+111.0,0,Queens
+112.0,0,Queens
+113.0,0,Queens
+114.0,0,Queens
+115.0,0,Queens
+116.0,0,Queens
+117.0,0,Queens
+118.0,0,Queens
+119.0,0,Queens
+120.0,0,Queens
+121.0,0,Queens
+122.0,0,Queens
+123.0,0,Queens
+124.0,0,Queens
+125.0,0,Queens
+126.0,0,Queens
+127.0,0,Queens
+128.0,0,Queens
+129.0,0,Queens
+130.0,0,Queens
+131.0,0,Queens
+132.0,0,Queens
+133.0,0,Queens
+134.0,0,Manhattan
+135.0,0,Manhattan
+136.0,0,Manhattan
+137.0,0,Manhattan
+138.0,0,Queens
+139.0,0,Queens
+140.0,0,Queens
+141.0,0,Queens
+142.0,0,Queens
+143.0,0,Queens
+144.0,0,Queens
+145.0,0,Queens
+146.0,0,Queens
+147.0,0,Queens
+148.0,0,Queens
+149.0,0,Queens
+150.0,0,Queens
+151.0,0,Queens
+152.0,0,Queens
+153.0,0,Queens
+154.0,0,Queens
+155.0,0,Queens
+156.0,0,Queens
+157.0,0,Queens
+158.0,0,Queens
+159.0,0,Queens
+160.0,0,Queens
+161.0,0,Queens
+162.0,0,Queens
+163.0,0,Queens
+164.0,0,Queens
+165.0,0,Queens
+166.0,0,Queens
+167.0,0,Queens
+168.0,0,Queens
+169.0,0,Queens
+170.0,0,Queens
+171.0,0,Queens
+172.0,0,Queens
+173.0,0,Queens
+174.0,0,Queens
+175.0,0,Queens
+176.0,0,Queens
+177.0,0,Queens
+178.0,0,Queens
+179.0,0,Queens
+180.0,0,Queens
+181.0,0,Queens
+182.0,0,Queens
+183.0,0,Queens
+184.0,0,Queens
+185.0,0,Queens
+186.0,0,Queens
+187.0,0,Queens
+188.0,0,Queens
+190.0,0,Queens
+191.0,0,Queens
+192.0,0,Queens
+193.0,0,Queens
+194.0,0,Queens
+195.0,0,Queens
+196.0,0,Queens
+197.0,0,Queens
+198.0,0,Queens
+199.0,0,Queens
+200.0,0,Queens
+201.0,0,Queens
+202.0,0,Queens
+203.0,0,Queens
+204.0,0,Queens
+205.0,0,Queens
+206.0,0,Queens
+207.0,0,Queens
+208.0,0,Queens
+209.0,0,Queens
+210.0,0,Queens
+211.0,0,Queens
+212.0,0,Queens
+213.0,0,Queens
+214.0,0,Queens
+215.0,0,Queens
+216.0,0,Queens
+217.0,0,Queens
+218.0,0,Queens
+219.0,0,Queens
+220.0,0,Queens
+221.0,0,Queens
+222.0,0,Queens
+223.0,0,Queens
+224.0,0,Queens
+225.0,0,Queens
+226.0,0,Queens
+227.0,0,Queens
+228.0,0,Queens
+229.0,0,Queens
+230.0,0,Queens
+231.0,0,Queens
+232.0,0,Queens
+233.0,0,Queens
+234.0,0,Queens
+235.0,0,Queens
+236.0,0,Queens
+237.0,0,Queens
+238.0,0,Queens
+239.0,0,Queens
+240.0,0,Queens
+241.0,0,Queens
+242.0,0,Queens
+243.0,0,Queens
+244.0,0,Queens
+245.0,0,Queens
+246.0,0,Queens
+247.0,0,Queens
+248.0,0,Queens
+249.0,0,Queens
+250.0,0,Queens
+251.0,0,Queens
+252.0,0,Queens
+253.0,0,Queens
+254.0,0,Queens
+255.0,0,Queens
+256.0,0,Queens
+257.0,0,Queens
+258.0,0,Queens
+259.0,0,Queens
+260.0,0,Queens
+261.0,0,Queens
+262.0,0,Queens
+263.0,0,Queens
+264.0,0,Queens
+265.0,0,Queens
+266.0,0,Queens
+267.0,0,Queens
+268.0,0,Queens
+269.0,0,Queens
+270.0,0,Queens
+271.0,0,Queens
+272.0,0,Queens
+273.0,0,Queens
+274.0,0,Queens
+275.0,0,Queens
+276.0,0,Queens
+277.0,0,Queens
+278.0,0,Queens
+279.0,0,Queens
+280.0,0,Queens
+281.0,0,Queens
+282.0,0,Queens
+283.0,0,Queens
+284.0,0,Queens
+285.0,0,Queens
+286.0,0,Queens
+287.0,0,Queens
+288.0,0,Queens
+289.0,0,Queens
+290.0,0,Queens
+291.0,0,Queens
+292.0,0,Queens
+293.0,0,Brooklyn
+294.0,0,Brooklyn
+295.0,0,Brooklyn
+296.0,0,Brooklyn
+297.0,0,Brooklyn
+298.0,0,Brooklyn
+299.0,0,Brooklyn
+300.0,0,Brooklyn
+301.0,0,Brooklyn
+302.0,0,Brooklyn
+303.0,0,Brooklyn
+304.0,0,Brooklyn
+305.0,0,Brooklyn
+306.0,0,Brooklyn
+307.0,0,Brooklyn
+308.0,0,Brooklyn
+309.0,0,Brooklyn
+310.0,0,Brooklyn
+311.0,0,Brooklyn
+312.0,0,Brooklyn
+313.0,0,Brooklyn
+314.0,0,Brooklyn
+315.0,0,Brooklyn
+316.0,0,Brooklyn
+317.0,0,Brooklyn
+318.0,0,Brooklyn
+319.0,0,Brooklyn
+320.0,0,Brooklyn
+321.0,0,Brooklyn
+322.0,0,Brooklyn
+323.0,0,Brooklyn
+324.0,0,Brooklyn
+325.0,0,Brooklyn
+326.0,0,Brooklyn
+327.0,0,Brooklyn
+328.0,0,Brooklyn
+329.0,0,Brooklyn
+330.0,0,Brooklyn
+331.0,0,Brooklyn
+332.0,0,Brooklyn
+333.0,0,Brooklyn
+334.0,0,Brooklyn
+335.0,0,Brooklyn
+336.0,0,Brooklyn
+337.0,0,Brooklyn
+338.0,0,Brooklyn
+339.0,0,Brooklyn
+340.0,0,Brooklyn
+341.0,0,Brooklyn
+342.0,0,Brooklyn
+343.0,0,Brooklyn
+344.0,0,Brooklyn
+345.0,0,Brooklyn
+346.0,0,Brooklyn
+347.0,0,Brooklyn
+348.0,0,Brooklyn
+349.0,0,Brooklyn
+350.0,0,Brooklyn
+351.0,0,Brooklyn
+352.0,0,Brooklyn
+353.0,0,Brooklyn
+354.0,0,Brooklyn
+355.0,0,Brooklyn
+356.0,0,Brooklyn
+357.0,0,Brooklyn
+358.0,0,Brooklyn
+359.0,0,Brooklyn
+360.0,0,Brooklyn
+361.0,0,Brooklyn
+362.0,0,Queens
+363.0,0,Queens
+364.0,0,Brooklyn
+365.0,0,Queens
+366.0,0,Queens
+367.0,0,Queens
+368.0,0,Bronx
+369.0,0,Queens
+370.0,0,Queens
+371.0,0,Queens
+372.0,0,
+375.0,0,Brooklyn
+376.0,0,Brooklyn
+377.0,0,Brooklyn
+378.0,0,Brooklyn
+379.0,0,Queens
+380.0,0,Brooklyn
+381.0,0,Brooklyn
+382.0,0,Brooklyn
+383.0,0,Queens
+384.0,0,Queens
+385.0,0,Queens
+386.0,0,Manhattan
+387.0,0,Manhattan
+388.0,0,Brooklyn
+389.0,0,Brooklyn
+390.0,0,Brooklyn
+391.0,0,Bronx
+392.0,0,Queens
+393.0,0,Queens
+394.0,0,Queens
+395.0,0,Queens
+396.0,0,Manhattan
+397.0,0,Manhattan
+398.0,0,Manhattan
+399.0,0,Manhattan
+400.0,0,Manhattan
+401.0,0,Queens
+402.0,0,Queens
+403.0,0,Queens
+404.0,0,Queens
+405.0,0,Queens
+406.0,0,Queens
+407.0,0,Queens
+408.0,0,Queens
+409.0,0,Queens
+410.0,0,Queens
+411.0,0,Queens
+412.0,0,Queens
+413.0,0,Queens
+414.0,0,Queens
+415.0,0,Queens
+416.0,0,Queens
+417.0,0,Queens
+418.0,0,Queens
+419.0,0,Queens
+420.0,0,Queens
+421.0,0,Queens
+422.0,0,Queens
+423.0,0,Queens
+424.0,0,Queens
+425.0,0,Queens
+426.0,0,Queens
+427.0,0,Queens
+428.0,0,Queens
+429.0,0,Queens
+430.0,0,Queens
+431.0,0,Queens
+432.0,0,Queens
+433.0,0,Queens
+434.0,0,Queens
+435.0,0,Queens
+436.0,0,Queens
+437.0,0,Queens
+438.0,0,Queens
+439.0,0,Queens
+440.0,0,Queens
+441.0,0,Queens
+442.0,0,Queens
+443.0,0,Queens
+444.0,0,Queens
+445.0,0,Queens
+446.0,0,Queens
+447.0,0,Queens
+448.0,0,Queens
+449.0,0,Queens
+450.0,0,Queens
+451.0,0,Queens
+452.0,0,Queens
+453.0,0,Queens
+454.0,0,Queens
+455.0,0,Queens
+456.0,0,Queens
+457.0,0,Queens
+458.0,0,Queens
+459.0,0,Queens
+460.0,0,Queens
+461.0,0,Queens
+462.0,0,Queens
+463.0,0,Queens
+464.0,0,Queens
+465.0,0,Queens
+466.0,0,Queens
+467.0,0,Queens
+468.0,0,Queens
+469.0,0,Queens
+470.0,0,Queens
+471.0,0,Queens
+472.0,0,Queens
+473.0,0,Queens
+475.0,0,Brooklyn
+476.0,0,Brooklyn
+477.0,0,Brooklyn
+478.0,0,Bronx
+479.0,0,Bronx
+480.0,0,Queens
+481.0,0,Queens
+482.0,0,Queens
+483.0,0,Brooklyn
+484.0,0,Queens
+485.0,0,Queens
+486.0,0,Queens
+487.0,0,Queens
+488.0,0,Queens
+501.0,0,Brooklyn
+502.0,0,Brooklyn
+505.0,0,Bronx
+506.0,0,Bronx
+507.0,0,Brooklyn
+508.0,0,Brooklyn
+509.0,0,Brooklyn
+510.0,0,Brooklyn
+511.0,0,Queens
+512.0,0,Brooklyn
+513.0,0,
+514.0,0,Brooklyn
+515.0,0,Brooklyn
+518.0,0,Bronx
+519.0,0,Brooklyn
+520.0,0,Brooklyn
+521.0,0,Brooklyn
+522.0,0,Brooklyn
+524.0,0,Brooklyn
+538.0,0,Queens
+539.0,0,Queens
+542.0,0,Brooklyn
+545.0,0,Brooklyn
+546.0,0,Bronx
+547.0,0,Bronx
+548.0,0,Bronx
+549.0,0,Bronx
+550.0,0,Brooklyn
+551.0,0,Brooklyn
+552.0,0,Queens
+553.0,0,Manhattan
+554.0,0,Brooklyn
+555.0,0,Brooklyn
+556.0,0,Brooklyn
+557.0,0,Manhattan
+558.0,0,Manhattan
+559.0,0,Queens
+560.0,0,Manhattan
+561.0,0,Manhattan
+562.0,0,Brooklyn
+563.0,0,Brooklyn
+564.0,0,Brooklyn
+565.0,0,Brooklyn
+566.0,0,Brooklyn
+567.0,0,Brooklyn
+568.0,0,Brooklyn
+569.0,0,Brooklyn
+570.0,0,Brooklyn
+571.0,0,Brooklyn
+572.0,0,Brooklyn
+573.0,0,Queens
+574.0,0,Queens
+575.0,0,Queens
+576.0,0,Queens
+577.0,0,Queens
+578.0,0,Brooklyn
+579.0,0,Brooklyn
+580.0,0,Queens
+581.0,0,Queens
+582.0,0,Manhattan
+583.0,0,Queens
+584.0,0,Queens
+585.0,0,Queens
+586.0,0,Queens
+587.0,0,Queens
+588.0,0,Queens
+589.0,0,Brooklyn
+590.0,0,Brooklyn
+591.0,0,Brooklyn
+592.0,0,Manhattan
+593.0,0,Manhattan
+594.0,0,Brooklyn
+595.0,0,Manhattan
+596.0,0,Manhattan
+597.0,0,Queens
+598.0,0,Bronx
+599.0,0,Bronx
+600.0,0,Brooklyn
+601.0,0,Brooklyn
+602.0,0,Queens
+603.0,0,Brooklyn
+604.0,0,Brooklyn
+606.0,0,Brooklyn
+607.0,0,Brooklyn
+608.0,0,Brooklyn
+609.0,0,Brooklyn
+610.0,0,Brooklyn
+611.0,0,Brooklyn
+612.0,0,Brooklyn
+613.0,0,Brooklyn
+614.0,0,Bronx
+615.0,0,Bronx
+616.0,0,Brooklyn
+617.0,0,Manhattan
+618.0,0,Brooklyn
+619.0,0,Brooklyn
+620.0,0,Queens
+621.0,0,Queens
+622.0,0,Queens
+623.0,0,Brooklyn
+624.0,0,Brooklyn
+625.0,0,Manhattan
+626.0,0,Bronx
+627.0,0,Brooklyn
+628.0,0,Brooklyn
+629.0,0,Manhattan
+630.0,0,Bronx
+631.0,0,Brooklyn
+632.0,0,Manhattan
+637.0,0,Bronx
+638.0,0,Bronx
+641.0,0,Bronx
+642.0,0,Bronx
+643.0,0,Bronx
+644.0,0,Manhattan
+645.0,0,Bronx
+646.0,0,Bronx
+647.0,0,Bronx
+648.0,0,Bronx
+649.0,0,Bronx
+650.0,0,Bronx
+652.0,0,Bronx
+653.0,0,Brooklyn
+654.0,0,Queens
+655.0,0,Queens
+656.0,0,Queens
+657.0,0,Bronx
+658.0,0,Bronx
+659.0,0,Bronx
+660.0,0,Manhattan
+661.0,0,Queens
+662.0,0,Queens
+663.0,0,Queens
+664.0,0,Brooklyn
+665.0,0,Manhattan
+666.0,0,Manhattan
+667.0,0,Manhattan
+668.0,0,Manhattan
+669.0,0,Manhattan
+670.0,0,Manhattan
+671.0,0,Manhattan
+672.0,0,Manhattan
+673.0,0,Manhattan
+674.0,0,Manhattan
+675.0,0,Manhattan
+676.0,0,Manhattan
+677.0,0,Manhattan
+678.0,0,Manhattan
+679.0,0,Manhattan
+680.0,0,Manhattan
+681.0,0,Manhattan
+682.0,0,Manhattan
+683.0,0,Manhattan
+684.0,0,Manhattan
+685.0,0,Manhattan
+686.0,0,Manhattan
+687.0,0,Manhattan
+688.0,0,Manhattan
+689.0,0,Manhattan
+690.0,0,Manhattan
+691.0,0,Manhattan
+692.0,0,Manhattan
+693.0,0,Manhattan
+694.0,0,Manhattan
+695.0,0,Manhattan
+696.0,0,Manhattan
+697.0,0,Manhattan
+698.0,0,Manhattan
+699.0,0,Manhattan
+700.0,0,Manhattan
+701.0,0,Manhattan
+702.0,0,Manhattan
+703.0,0,Manhattan
+704.0,0,Manhattan
+705.0,0,Manhattan
+706.0,0,Manhattan
+709.0,0,Queens
+710.0,0,Brooklyn
+711.0,0,Brooklyn
+714.0,0,Brooklyn
+717.0,0,Brooklyn
+718.0,0,Queens
+721.0,0,Brooklyn
+725.0,0,Brooklyn
+726.0,0,Queens
+727.0,0,Brooklyn
+728.0,0,Queens
+729.0,0,Queens
+731.0,0,Brooklyn
+732.0,0,Manhattan
+733.0,0,Bronx
+734.0,0,Manhattan
+735.0,0,Manhattan
+736.0,0,Brooklyn
+737.0,0,Queens
+738.0,0,Bronx
+739.0,0,Bronx
+740.0,0,Queens
+741.0,0,Queens
+742.0,0,Queens
+743.0,0,Queens
+744.0,0,Queens
+745.0,0,Manhattan
+746.0,0,Queens
+747.0,0,Queens
+748.0,0,Queens
+749.0,0,Queens
+750.0,0,Manhattan
+751.0,0,Manhattan
+752.0,0,Manhattan
+753.0,0,
+755.0,0,Manhattan
+756.0,0,Queens
+757.0,0,Manhattan
+758.0,0,Bronx
+759.0,0,Bronx
+760.0,0,Bronx
+761.0,0,Brooklyn
+762.0,0,Brooklyn
+763.0,0,Brooklyn
+764.0,0,Brooklyn
+765.0,0,Brooklyn
+766.0,0,Queens
+767.0,0,Bronx
+768.0,0,Bronx
+769.0,0,Bronx
+770.0,0,Bronx
+771.0,0,Brooklyn
+772.0,0,Brooklyn
+773.0,0,Brooklyn
+774.0,0,Manhattan
+775.0,0,Bronx
+776.0,0,Bronx
+777.0,0,Queens
+778.0,0,Queens
+779.0,0,Manhattan
+780.0,0,Bronx
+781.0,0,Bronx
+782.0,0,Bronx
+783.0,0,Bronx
+784.0,0,Bronx
+785.0,0,Bronx
+786.0,0,Bronx
+787.0,0,Bronx
+788.0,0,Brooklyn
+789.0,0,Manhattan
+790.0,0,Queens
+791.0,0,Queens
+792.0,0,Queens
+793.0,0,Queens
+794.0,0,Queens
+795.0,0,Queens
+796.0,0,Queens
+797.0,0,Queens
+798.0,0,Queens
+799.0,0,Queens
+800.0,0,Queens
+801.0,0,Queens
+802.0,0,Queens
+803.0,0,Queens
+804.0,0,Queens
+805.0,0,Queens
+806.0,0,Queens
+807.0,0,Queens
+808.0,0,Queens
+809.0,0,Queens
+810.0,0,Queens
+811.0,0,Queens
+812.0,0,Queens
+813.0,0,Queens
+814.0,0,Queens
+815.0,0,Queens
+816.0,0,Queens
+817.0,0,Queens
+818.0,0,Queens
+819.0,0,Queens
+820.0,0,Queens
+821.0,0,Queens
+822.0,0,Queens
+823.0,0,Queens
+824.0,0,Queens
+825.0,0,Queens
+826.0,0,Queens
+827.0,0,Queens
+828.0,0,Queens
+829.0,0,Queens
+830.0,0,Queens
+831.0,0,Queens
+832.0,0,Queens
+833.0,0,Queens
+834.0,0,Queens
+835.0,0,Queens
+836.0,0,Queens
+837.0,0,Queens
+838.0,0,Queens
+839.0,0,Queens
+840.0,0,Queens
+841.0,0,Queens
+842.0,0,Queens
+843.0,0,Queens
+844.0,0,Queens
+845.0,0,Queens
+846.0,0,Queens
+847.0,0,Queens
+848.0,0,Queens
+849.0,0,Queens
+850.0,0,Queens
+851.0,0,Queens
+852.0,0,Queens
+853.0,0,Brooklyn
+854.0,0,Bronx
+855.0,0,Bronx
+856.0,0,Bronx
+859.0,0,Queens
+860.0,0,Brooklyn
+861.0,0,Brooklyn
+862.0,0,Manhattan
+863.0,0,Manhattan
+864.0,0,Queens
+865.0,0,Queens
+866.0,0,Bronx
+867.0,0,Bronx
+868.0,0,Manhattan
+869.0,0,Bronx
+870.0,0,Manhattan
+871.0,0,Bronx
+872.0,0,Bronx
+873.0,0,Bronx
+907.0,0,Manhattan
+908.0,0,Queens
+909.0,0,Queens
+910.0,0,Bronx
+912.0,0,Brooklyn
+913.0,0,Bronx
+914.0,0,Bronx
+915.0,0,Bronx
+916.0,0,Bronx
+917.0,0,Bronx
+918.0,0,Bronx
+920.0,0,Bronx
+921.0,0,Bronx
+922.0,0,Bronx
+923.0,0,Bronx
+924.0,0,Manhattan
+925.0,0,Queens
+926.0,0,Queens
+927.0,0,Queens
+928.0,0,Queens
+929.0,0,Bronx
+930.0,0,Bronx
+931.0,0,Queens
+932.0,0,Bronx
+933.0,0,Brooklyn
+934.0,0,Brooklyn
+935.0,0,Queens
+936.0,0,Manhattan
+937.0,0,Brooklyn
+938.0,0,Brooklyn
+939.0,0,Queens
+940.0,0,Brooklyn
+941.0,0,Brooklyn
+942.0,0,Brooklyn
+943.0,0,Brooklyn
+944.0,0,Brooklyn
+946.0,0,Brooklyn
+947.0,0,Queens
+948.0,0,Manhattan
+949.0,0,Brooklyn
+950.0,0,Brooklyn
+951.0,0,Bronx
+952.0,0,Brooklyn
+953.0,0,Brooklyn
+954.0,0,Brooklyn
+955.0,0,Brooklyn
+956.0,0,Manhattan
+957.0,0,Bronx
+958.0,0,Brooklyn
+959.0,0,Brooklyn
+960.0,0,Brooklyn
+962.0,0,Queens
+963.0,0,Queens
+964.0,0,Queens
+965.0,0,Queens
+966.0,0,Manhattan
+969.0,0,Queens
+970.0,0,Bronx
+971.0,0,Brooklyn
+972.0,0,Queens
+973.0,0,Queens
+974.0,0,Queens
+975.0,0,Queens
+976.0,0,Queens
+977.0,0,Brooklyn
+978.0,0,Brooklyn
+979.0,0,Brooklyn
+980.0,0,Brooklyn
+981.0,0,Queens
+982.0,0,Queens
+983.0,0,Queens
+984.0,0,Queens
+985.0,0,Brooklyn
+987.0,0,Brooklyn
+988.0,0,Manhattan
+989.0,0,Brooklyn
+990.0,0,Bronx
+991.0,0,Brooklyn
+992.0,0,Bronx
+993.0,0,Queens
+994.0,0,Brooklyn
+995.0,0,Queens
+996.0,0,Brooklyn
+997.0,0,Brooklyn
+998.0,0,Queens
+999.0,0,Queens
+1000.0,0,Queens
+1001.0,0,
+1002.0,0,Queens
+1003.0,0,Queens
+1004.0,0,Bronx
+1005.0,0,Queens
+1006.0,0,Queens
+1007.0,0,Queens
+1008.0,0,Queens
+1009.0,0,Brooklyn
+1010.0,0,Bronx
+1011.0,0,Bronx
+1012.0,0,Queens
+1013.0,0,Queens
+1014.0,0,Queens
+1015.0,0,Brooklyn
+1016.0,0,Brooklyn
+1017.0,0,Brooklyn
+1018.0,0,Bronx
+1019.0,0,Queens
+1020.0,0,Brooklyn
+1021.0,0,Brooklyn
+1022.0,0,Brooklyn
+1023.0,0,Brooklyn
+1024.0,0,Brooklyn
+1025.0,0,Brooklyn
+1026.0,0,Brooklyn
+1027.0,0,Brooklyn
+1028.0,0,Brooklyn
+1029.0,0,Brooklyn
+1030.0,0,Brooklyn
+1031.0,0,Brooklyn
+1032.0,0,Brooklyn
+1033.0,0,Brooklyn
+1034.0,0,Brooklyn
+1035.0,0,Brooklyn
+1036.0,0,Brooklyn
+1037.0,0,Brooklyn
+1040.0,0,Brooklyn
+1041.0,0,Brooklyn
+1042.0,0,Brooklyn
+1043.0,0,Queens
+1044.0,0,Bronx
+1045.0,0,Brooklyn
+1046.0,0,Brooklyn
+1047.0,0,Brooklyn
+1049.0,0,Brooklyn
+1050.0,0,Brooklyn
+1051.0,0,Brooklyn
+1052.0,0,Queens
+1053.0,0,Queens
+1054.0,0,Queens
+1055.0,0,Brooklyn
+1056.0,0,Queens
+1057.0,0,Queens
+1058.0,0,Queens
+1059.0,0,Queens
+1060.0,0,Queens
+1061.0,0,Queens
+1062.0,0,Queens
+1063.0,0,Manhattan
+1064.0,0,Queens
+1065.0,0,Manhattan
+1066.0,0,Queens
+1067.0,0,Manhattan
+1068.0,0,Manhattan
+1069.0,0,Manhattan
+1070.0,0,Manhattan
+1071.0,0,Manhattan
+1072.0,0,Manhattan
+1073.0,0,Manhattan
+1074.0,0,Manhattan
+1075.0,0,Manhattan
+1076.0,0,Manhattan
+1077.0,0,Manhattan
+1078.0,0,Manhattan
+1079.0,0,Queens
+1080.0,0,Bronx
+1081.0,0,Brooklyn
+1082.0,0,Bronx
+1093.0,0,Bronx
+1094.0,0,Bronx
+1095.0,0,Bronx
+1096.0,0,Bronx
+1097.0,0,Manhattan
+1098.0,0,Bronx
+1099.0,0,Manhattan
+1102.0,0,Manhattan
+1103.0,0,Manhattan
+1104.0,0,Manhattan
+1105.0,0,Manhattan
+1106.0,0,Manhattan
+1107.0,0,Bronx
+1108.0,0,Queens
+1109.0,0,Brooklyn
+1110.0,0,Queens
+1112.0,0,Bronx
+1113.0,0,Brooklyn
+1116.0,0,Brooklyn
+1117.0,0,Brooklyn
+1118.0,0,Manhattan
+1119.0,0,Manhattan
+1120.0,0,Manhattan
+1121.0,0,Manhattan
+1122.0,0,Manhattan
+1123.0,0,Manhattan
+1124.0,0,Manhattan
+1125.0,0,Manhattan
+1126.0,0,Manhattan
+1127.0,0,Manhattan
+1128.0,0,Manhattan
+1129.0,0,Manhattan
+1130.0,0,Manhattan
+1131.0,0,Manhattan
+1132.0,0,Manhattan
+1133.0,0,Manhattan
+1134.0,0,Manhattan
+1135.0,0,Manhattan
+1136.0,0,Manhattan
+1137.0,0,Manhattan
+1138.0,0,Manhattan
+1139.0,0,Manhattan
+1140.0,0,Manhattan
+1141.0,0,Manhattan
+1143.0,0,Bronx
+1144.0,0,Bronx
+1146.0,0,Manhattan
+1147.0,0,Manhattan
+1148.0,0,Brooklyn
+1150.0,0,Brooklyn
+1151.0,0,Brooklyn
+1152.0,0,Brooklyn
+1153.0,0,Bronx
+1154.0,0,Brooklyn
+1155.0,0,Queens
+1156.0,0,Queens
+1158.0,0,Brooklyn
+1159.0,0,Manhattan
+1160.0,0,Manhattan
+1161.0,0,Manhattan
+1162.0,0,Manhattan
+1163.0,0,Manhattan
+1164.0,0,Manhattan
+1166.0,0,Brooklyn
+1167.0,0,Queens
+1168.0,0,Brooklyn
+1169.0,0,Brooklyn
+1171.0,0,Queens
+1172.0,0,Queens
+1173.0,0,Queens
+1174.0,0,Queens
+1175.0,0,Manhattan
+1176.0,0,Manhattan
+1177.0,0,Manhattan
+1178.0,0,Manhattan
+1179.0,0,Manhattan
+1180.0,0,Manhattan
+1181.0,0,Manhattan
+1182.0,0,Queens
+1183.0,0,Queens
+1184.0,0,Queens
+1185.0,0,Queens
+1186.0,0,Queens
+1187.0,0,Brooklyn
+1188.0,0,Brooklyn
+1189.0,0,Brooklyn
+1190.0,0,Brooklyn
+1191.0,0,Bronx
+1192.0,0,Bronx
+1193.0,0,Bronx
+1194.0,0,Bronx
+1195.0,0,Bronx
+1196.0,0,Bronx
+1197.0,0,Bronx
+1198.0,0,Bronx
+1199.0,0,Bronx
+1200.0,0,Bronx
+1201.0,0,Bronx
+1202.0,0,Queens
+1203.0,0,Queens
+1204.0,0,Brooklyn
+1205.0,0,Brooklyn
+1206.0,0,Brooklyn
+1207.0,0,Brooklyn
+1208.0,0,Brooklyn
+1209.0,0,Queens
+1210.0,0,Queens
+1211.0,0,Queens
+1212.0,0,Queens
+1213.0,0,Queens
+1214.0,0,Queens
+1215.0,0,Brooklyn
+1216.0,0,Brooklyn
+1217.0,0,Brooklyn
+1218.0,0,Brooklyn
+1219.0,0,Brooklyn
+1220.0,0,Brooklyn
+1221.0,0,Brooklyn
+1222.0,0,Brooklyn
+1223.0,0,Brooklyn
+1224.0,0,Brooklyn
+1225.0,0,Brooklyn
+1226.0,0,Brooklyn
+1227.0,0,Brooklyn
+1228.0,0,Brooklyn
+1229.0,0,Brooklyn
+1230.0,0,Brooklyn
+1231.0,0,Brooklyn
+1232.0,0,Brooklyn
+1233.0,0,Brooklyn
+1234.0,0,Queens
+1235.0,0,Queens
+1236.0,0,Queens
+1237.0,0,Queens
+1238.0,0,Queens
+1239.0,0,Queens
+1240.0,0,Queens
+1241.0,0,Queens
+1242.0,0,Queens
+1243.0,0,Queens
+1244.0,0,Queens
+1245.0,0,Queens
+1246.0,0,Queens
+1247.0,0,Queens
+1248.0,0,Queens
+1249.0,0,Queens
+1250.0,0,Queens
+1251.0,0,Queens
+1252.0,0,Queens
+1253.0,0,Queens
+1254.0,0,Queens
+1255.0,0,Queens
+1256.0,0,Queens
+1257.0,0,Queens
+1258.0,0,Queens
+1259.0,0,Queens
+1260.0,0,Brooklyn
+1261.0,0,Manhattan
+1262.0,0,Brooklyn
+1264.0,0,Manhattan
+1265.0,0,Manhattan
+1266.0,0,Queens
+1267.0,0,Manhattan
+1268.0,0,Brooklyn
+1269.0,0,Brooklyn
+1270.0,0,Queens
+1271.0,0,Manhattan
+1272.0,0,Queens
+1273.0,0,Brooklyn
+1274.0,0,Brooklyn
+1275.0,0,Manhattan
+1276.0,0,Bronx
+1277.0,0,Queens
+1278.0,0,Bronx
+1279.0,0,Bronx
+1280.0,0,Bronx
+1281.0,0,Manhattan
+1282.0,0,Bronx
+1283.0,0,Queens
+1284.0,0,Queens
+1285.0,0,Bronx
+1286.0,0,Manhattan
+1287.0,0,Brooklyn
+1288.0,0,Brooklyn
+1289.0,0,Queens
+1290.0,0,Queens
+1291.0,0,Bronx
+1292.0,0,Queens
+1293.0,0,Queens
+1294.0,0,Queens
+1295.0,0,Manhattan
+1296.0,0,Brooklyn
+1297.0,0,Queens
+1298.0,0,Queens
+1300.0,0,Queens
+1301.0,0,Queens
+1302.0,0,Queens
+1303.0,0,Queens
+1304.0,0,Bronx
+1305.0,0,Brooklyn
+1306.0,0,Manhattan
+1307.0,0,Brooklyn
+1308.0,0,Brooklyn
+1309.0,0,Queens
+1310.0,0,Queens
+1311.0,0,Queens
+1312.0,0,Queens
+1313.0,0,Queens
+1314.0,0,Queens
+1315.0,0,Queens
+1316.0,0,Queens
+1317.0,0,Queens
+1318.0,0,Queens
+1319.0,0,Queens
+1320.0,0,Queens
+1321.0,0,Queens
+1322.0,0,Queens
+1323.0,0,Queens
+1324.0,0,Queens
+1325.0,0,Queens
+1326.0,0,Queens
+1327.0,0,Queens
+1328.0,0,Queens
+1329.0,0,Queens
+1330.0,0,Queens
+1331.0,0,Queens
+1332.0,0,Queens
+1333.0,0,Queens
+1334.0,0,Queens
+1335.0,0,Queens
+1336.0,0,Queens
+1337.0,0,Queens
+1338.0,0,Queens
+1339.0,0,Queens
+1340.0,0,Queens
+1341.0,0,Queens
+1342.0,0,Queens
+1343.0,0,Queens
+1344.0,0,Queens
+1345.0,0,Queens
+1346.0,0,Queens
+1347.0,0,Queens
+1348.0,0,Queens
+1349.0,0,Queens
+1350.0,0,Manhattan
+1351.0,0,Queens
+1352.0,0,Queens
+1353.0,0,Queens
+1354.0,0,Brooklyn
+1356.0,0,Brooklyn
+1357.0,0,
+1358.0,0,Brooklyn
+1359.0,0,Brooklyn
+1360.0,0,Brooklyn
+1361.0,0,Brooklyn
+1362.0,0,Brooklyn
+1363.0,0,Brooklyn
+1364.0,0,Bronx
+1365.0,0,Manhattan
+1366.0,0,Brooklyn
+1367.0,0,Queens
+1368.0,0,Bronx
+1369.0,0,Brooklyn
+1370.0,0,Manhattan
+1371.0,0,Brooklyn
+1372.0,0,Brooklyn
+1373.0,0,Brooklyn
+1374.0,0,Brooklyn
+1375.0,0,Brooklyn
+1376.0,0,Brooklyn
+1377.0,0,Brooklyn
+1378.0,0,Brooklyn
+1379.0,0,Brooklyn
+1380.0,0,Brooklyn
+1381.0,0,Queens
+1382.0,0,Queens
+1383.0,0,Queens
+1384.0,0,Queens
+1385.0,0,Queens
+1386.0,0,Queens
+1387.0,0,Queens
+1388.0,0,Queens
+1389.0,0,Queens
+1390.0,0,Queens
+1391.0,0,Queens
+1392.0,0,Queens
+1393.0,0,Queens
+1394.0,0,Queens
+1395.0,0,Queens
+1396.0,0,Queens
+1397.0,0,Queens
+1398.0,0,Queens
+1399.0,0,Queens
+1400.0,0,Queens
+1401.0,0,Queens
+1402.0,0,Queens
+1403.0,0,Queens
+1404.0,0,Queens
+1405.0,0,Queens
+1406.0,0,Brooklyn
+1407.0,0,Queens
+1408.0,0,Bronx
+1409.0,0,
+1410.0,0,Manhattan
+1411.0,0,Queens
+1412.0,0,Queens
+1413.0,0,Bronx
+1414.0,0,Bronx
+1415.0,0,Bronx
+1416.0,0,Brooklyn
+1417.0,0,Bronx
+1418.0,0,Bronx
+1419.0,0,Brooklyn
+1420.0,0,Queens
+1421.0,0,Bronx
+1422.0,0,Queens
+1423.0,0,Queens
+1424.0,0,Queens
+1425.0,0,Bronx
+1429.0,0,Queens
+1430.0,0,Queens
+1431.0,0,Queens
+1432.0,0,Queens
+1433.0,0,Queens
+1434.0,0,Queens
+1435.0,0,Queens
+1436.0,0,Queens
+1437.0,0,Queens
+1438.0,0,Queens
+1439.0,0,Queens
+1440.0,0,Queens
+1441.0,0,Queens
+1442.0,0,Queens
+1443.0,0,Queens
+1444.0,0,Queens
+1445.0,0,Queens
+1446.0,0,Queens
+1447.0,0,Queens
+1448.0,0,Queens
+1449.0,0,Queens
+1450.0,0,Queens
+1451.0,0,Queens
+1452.0,0,Queens
+1453.0,0,Queens
+1454.0,0,Queens
+1455.0,0,Queens
+1456.0,0,Queens
+1457.0,0,Queens
+1458.0,0,Queens
+1459.0,0,Queens
+1460.0,0,Queens
+1461.0,0,Brooklyn
+1462.0,0,Bronx
+1463.0,0,Queens
+1464.0,0,Brooklyn
+1465.0,0,Brooklyn
+1467.0,0,Queens
+1468.0,0,Bronx
+1469.0,0,Queens
+1470.0,0,Queens
+1471.0,0,Manhattan
+1472.0,0,Queens
+1473.0,0,Queens
+1474.0,0,Queens
+1476.0,0,Manhattan
+1477.0,0,Bronx
+1478.0,0,Brooklyn
+1479.0,0,Queens
+1482.0,0,Brooklyn
+1483.0,0,Queens
+1485.0,0,Bronx
+1486.0,0,Bronx
+1487.0,0,Bronx
+1488.0,0,Bronx
+1489.0,0,Bronx
+1490.0,0,Bronx
+1491.0,0,Bronx
+1492.0,0,Bronx
+1493.0,0,Bronx
+1494.0,0,Bronx
+1495.0,0,Bronx
+1496.0,0,Bronx
+1497.0,0,Bronx
+1498.0,0,Bronx
+1499.0,0,Bronx
+1500.0,0,Bronx
+1501.0,0,Bronx
+1502.0,0,Bronx
+1503.0,0,Bronx
+1504.0,0,Bronx
+1505.0,0,Bronx
+1506.0,0,Bronx
+1507.0,0,Bronx
+1508.0,0,Bronx
+1509.0,0,Bronx
+1510.0,0,Bronx
+1511.0,0,Bronx
+1512.0,0,Bronx
+1513.0,0,Bronx
+1514.0,0,Bronx
+1515.0,0,Bronx
+1516.0,0,Bronx
+1517.0,0,Bronx
+1518.0,0,Bronx
+1519.0,0,Bronx
+1520.0,0,Bronx
+1521.0,0,Bronx
+1522.0,0,Bronx
+1523.0,0,Bronx
+1524.0,0,Queens
+1525.0,0,Brooklyn
+1526.0,0,Queens
+1527.0,0,Brooklyn
+1529.0,0,Brooklyn
+1530.0,0,Brooklyn
+1533.0,0,Brooklyn
+1534.0,0,Brooklyn
+1535.0,0,Brooklyn
+1536.0,0,Brooklyn
+1537.0,0,Brooklyn
+1538.0,0,Brooklyn
+1539.0,0,Brooklyn
+1541.0,0,Brooklyn
+1543.0,0,Bronx
+1545.0,0,Bronx
+1546.0,0,Bronx
+1547.0,0,Brooklyn
+1548.0,0,Manhattan
+1549.0,0,Queens
+1550.0,0,Brooklyn
+1551.0,0,Brooklyn
+1552.0,0,Queens
+1553.0,0,Queens
+1554.0,0,Manhattan
+1555.0,0,Brooklyn
+1556.0,0,Brooklyn
+1557.0,0,Brooklyn
+1558.0,0,Queens
+1559.0,0,Queens
+1560.0,0,Queens
+1562.0,0,Brooklyn
+1563.0,0,Brooklyn
+1564.0,0,Queens
+1565.0,0,Brooklyn
+1567.0,0,Queens
+1571.0,0,Brooklyn
+1572.0,0,Bronx
+1573.0,0,Bronx
+1574.0,0,Queens
+1575.0,0,Brooklyn
+1576.0,0,Queens
+1577.0,0,Manhattan
+1578.0,0,Manhattan
+1580.0,0,Manhattan
+1581.0,0,Brooklyn
+1582.0,0,Manhattan
+1583.0,0,Manhattan
+1584.0,0,Queens
+1585.0,0,Brooklyn
+1586.0,0,Brooklyn
+1587.0,0,Brooklyn
+1588.0,0,Manhattan
+1589.0,0,Queens
+1590.0,0,Queens
+1591.0,0,Queens
+1592.0,0,Queens
+1593.0,0,Queens
+1594.0,0,Queens
+1595.0,0,Queens
+1596.0,0,Queens
+1597.0,0,Queens
+1598.0,0,Queens
+1599.0,0,Queens
+1600.0,0,Queens
+1601.0,0,Queens
+1602.0,0,Queens
+1603.0,0,Manhattan
+1604.0,0,Manhattan
+1605.0,0,Brooklyn
+1606.0,0,Brooklyn
+1607.0,0,Manhattan
+1608.0,0,Queens
+1609.0,0,Brooklyn
+1610.0,0,Manhattan
+1611.0,0,Manhattan
+1612.0,0,Manhattan
+1613.0,0,Manhattan
+1614.0,0,Manhattan
+1615.0,0,Manhattan
+1616.0,0,Brooklyn
+1617.0,0,Queens
+1618.0,0,Bronx
+1619.0,0,Brooklyn
+1620.0,0,Manhattan
+1621.0,0,Brooklyn
+1622.0,0,Brooklyn
+1623.0,0,Brooklyn
+1624.0,0,Brooklyn
+1625.0,0,Queens
+1626.0,0,Brooklyn
+1627.0,0,Bronx
+1628.0,0,Queens
+1629.0,0,Queens
+1630.0,0,Manhattan
+1631.0,0,Manhattan
+1632.0,0,Manhattan
+1633.0,0,Manhattan
+1634.0,0,Brooklyn
+1635.0,0,Brooklyn
+1637.0,0,Bronx
+1638.0,0,Bronx
+1639.0,0,Queens
+1642.0,0,Bronx
+1643.0,0,Manhattan
+1645.0,0,Manhattan
+1646.0,0,Manhattan
+1647.0,0,Bronx
+1648.0,0,Bronx
+1649.0,0,Bronx
+1650.0,0,Bronx
+1651.0,0,Bronx
+1652.0,0,Manhattan
+1653.0,0,Brooklyn
+1654.0,0,Brooklyn
+1655.0,0,Bronx
+1656.0,0,Bronx
+1657.0,0,Bronx
+1658.0,0,Bronx
+1659.0,0,Bronx
+1660.0,0,Bronx
+1661.0,0,Bronx
+1662.0,0,Bronx
+1663.0,0,Bronx
+1664.0,0,Brooklyn
+1666.0,0,Bronx
+1667.0,0,Manhattan
+1668.0,0,Manhattan
+1669.0,0,Manhattan
+1670.0,0,Bronx
+1671.0,0,Bronx
+1673.0,0,Queens
+1674.0,0,Manhattan
+1675.0,0,Manhattan
+1676.0,0,Queens
+1677.0,0,Queens
+1678.0,0,Manhattan
+1679.0,0,Bronx
+1680.0,0,Brooklyn
+1681.0,0,Brooklyn
+1682.0,0,Brooklyn
+1683.0,0,Brooklyn
+1684.0,0,Manhattan
+1685.0,0,Manhattan
+1686.0,0,Manhattan
+1687.0,0,Manhattan
+1688.0,0,Manhattan
+1689.0,0,Manhattan
+1690.0,0,Manhattan
+1691.0,0,Manhattan
+1692.0,0,Manhattan
+1693.0,0,Manhattan
+1694.0,0,Brooklyn
+1695.0,0,Queens
+1696.0,0,Bronx
+1697.0,0,Brooklyn
+1698.0,0,Brooklyn
+1699.0,0,Queens
+1700.0,0,Queens
+1701.0,0,Queens
+1702.0,0,Queens
+1703.0,0,Queens
+1704.0,0,Brooklyn
+1705.0,0,Brooklyn
+1706.0,0,Manhattan
+1707.0,0,Manhattan
+1708.0,0,Brooklyn
+1709.0,0,Manhattan
+1710.0,0,Manhattan
+1711.0,0,Brooklyn
+1712.0,0,Manhattan
+1713.0,0,Queens
+1714.0,0,Brooklyn
+1715.0,0,Brooklyn
+1716.0,0,Manhattan
+1717.0,0,Brooklyn
+1718.0,0,Manhattan
+1719.0,0,Brooklyn
+1720.0,0,Queens
+1721.0,0,Queens
+1722.0,0,Queens
+1723.0,0,Queens
+1724.0,0,Brooklyn
+1725.0,0,Brooklyn
+1726.0,0,Brooklyn
+1727.0,0,Manhattan
+1728.0,0,Queens
+1729.0,0,Queens
+1730.0,0,Queens
+1731.0,0,Queens
+1732.0,0,Brooklyn
+1733.0,0,Brooklyn
+1734.0,0,Brooklyn
+1735.0,0,Brooklyn
+1736.0,0,Brooklyn
+1737.0,0,Brooklyn
+1738.0,0,Brooklyn
+1739.0,0,Brooklyn
+1740.0,0,Brooklyn
+1741.0,0,Queens
+1742.0,0,Queens
+1743.0,0,Queens
+1744.0,0,Brooklyn
+1745.0,0,Brooklyn
+1746.0,0,Bronx
+1747.0,0,Brooklyn
+1748.0,0,Brooklyn
+1749.0,0,Brooklyn
+1750.0,0,Brooklyn
+1751.0,0,Brooklyn
+1752.0,0,Brooklyn
+1753.0,0,Brooklyn
+1754.0,0,Brooklyn
+1755.0,0,Brooklyn
+1756.0,0,Brooklyn
+1757.0,0,Brooklyn
+1758.0,0,Brooklyn
+1759.0,0,Brooklyn
+1760.0,0,Brooklyn
+1761.0,0,Brooklyn
+1762.0,0,Brooklyn
+1763.0,0,Queens
+1764.0,0,
+1765.0,0,Queens
+1766.0,0,Queens
+1767.0,0,Queens
+1768.0,0,Queens
+1769.0,0,Queens
+1770.0,0,Queens
+1771.0,0,Brooklyn
+1772.0,0,Queens
+1773.0,0,Brooklyn
+1774.0,0,Queens
+1775.0,0,Brooklyn
+1777.0,0,Bronx
+1778.0,0,Bronx
+1779.0,0,Bronx
+1780.0,0,Bronx
+1781.0,0,Bronx
+1782.0,0,Bronx
+1783.0,0,Bronx
+1784.0,0,Bronx
+1785.0,0,Bronx
+1786.0,0,Bronx
+1787.0,0,Bronx
+1788.0,0,Bronx
+1789.0,0,Bronx
+1790.0,0,Bronx
+1791.0,0,Bronx
+1792.0,0,Bronx
+1793.0,0,Bronx
+1794.0,0,Bronx
+1795.0,0,Bronx
+1796.0,0,Bronx
+1797.0,0,Bronx
+1798.0,0,Bronx
+1799.0,0,Bronx
+1800.0,0,Bronx
+1801.0,0,Bronx
+1802.0,0,Bronx
+1803.0,0,Bronx
+1804.0,0,Bronx
+1805.0,0,Bronx
+1806.0,0,Bronx
+1807.0,0,Bronx
+1808.0,0,Bronx
+1809.0,0,Bronx
+1810.0,0,Bronx
+1811.0,0,Bronx
+1812.0,0,Bronx
+1813.0,0,Bronx
+1814.0,0,Bronx
+1815.0,0,Bronx
+1816.0,0,Bronx
+1817.0,0,Bronx
+1818.0,0,Bronx
+1819.0,0,Bronx
+1820.0,0,Bronx
+1821.0,0,Bronx
+1822.0,0,Bronx
+1823.0,0,Bronx
+1824.0,0,Bronx
+1825.0,0,Bronx
+1826.0,0,Bronx
+1827.0,0,Bronx
+1828.0,0,Bronx
+1829.0,0,Bronx
+1830.0,0,Bronx
+1831.0,0,Bronx
+1832.0,0,Bronx
+1833.0,0,Bronx
+1834.0,0,Bronx
+1835.0,0,Bronx
+1836.0,0,Bronx
+1837.0,0,Bronx
+1838.0,0,Bronx
+1839.0,0,Bronx
+1840.0,0,Bronx
+1841.0,0,Bronx
+1842.0,0,Bronx
+1843.0,0,Bronx
+1844.0,0,Bronx
+1845.0,0,Bronx
+1846.0,0,Bronx
+1849.0,0,Brooklyn
+1850.0,0,
+1851.0,0,Brooklyn
+1852.0,0,Brooklyn
+1853.0,0,Queens
+1854.0,0,Brooklyn
+1855.0,0,Queens
+1857.0,0,Bronx
+1858.0,0,Manhattan
+1859.0,0,Bronx
+1860.0,0,Bronx
+1861.0,0,Bronx
+1862.0,0,Bronx
+1863.0,0,Bronx
+1864.0,0,Bronx
+1865.0,0,Bronx
+1866.0,0,Bronx
+1867.0,0,Queens
+1868.0,0,Queens
+1869.0,0,Manhattan
+1870.0,0,Queens
+1871.0,0,Queens
+1872.0,0,Queens
+1873.0,0,Brooklyn
+1874.0,0,Manhattan
+1875.0,0,Manhattan
+1876.0,0,Manhattan
+1877.0,0,Manhattan
+1878.0,0,Queens
+1879.0,0,Queens
+1880.0,0,Manhattan
+1881.0,0,Manhattan
+1882.0,0,Manhattan
+1883.0,0,Queens
+1884.0,0,Queens
+1885.0,0,Queens
+1886.0,0,Queens
+1887.0,0,Queens
+1888.0,0,Queens
+1889.0,0,Queens
+1890.0,0,Manhattan
+1891.0,0,Manhattan
+1892.0,0,Manhattan
+1893.0,0,Manhattan
+1894.0,0,Queens
+1895.0,0,Manhattan
+1896.0,0,Manhattan
+1897.0,0,Manhattan
+1898.0,0,Manhattan
+1899.0,0,Manhattan
+1900.0,0,Brooklyn
+1901.0,0,Bronx
+1902.0,0,Bronx
+1903.0,0,Manhattan
+1904.0,0,Brooklyn
+1905.0,0,Brooklyn
+1906.0,0,Brooklyn
+1907.0,0,Manhattan
+1908.0,0,Brooklyn
+1909.0,0,Brooklyn
+1910.0,0,Brooklyn
+1911.0,0,Brooklyn
+1912.0,0,Brooklyn
+1913.0,0,Brooklyn
+1914.0,0,Brooklyn
+1915.0,0,Queens
+1916.0,0,Queens
+1917.0,0,Bronx
+1918.0,0,Manhattan
+1919.0,0,Bronx
+1920.0,0,Bronx
+1921.0,0,Manhattan
+1922.0,0,Bronx
+1923.0,0,Manhattan
+1924.0,0,Bronx
+1925.0,0,Bronx
+1926.0,0,Bronx
+1927.0,0,Manhattan
+1928.0,0,Manhattan
+1929.0,0,Manhattan
+1930.0,0,Bronx
+1931.0,0,Bronx
+1932.0,0,Bronx
+1933.0,0,Bronx
+1934.0,0,Bronx
+1935.0,0,Queens
+1936.0,0,Queens
+1937.0,0,Queens
+1938.0,0,Manhattan
+1939.0,0,Manhattan
+1940.0,0,Manhattan
+1941.0,0,Brooklyn
+1942.0,0,Brooklyn
+1943.0,0,Queens
+1944.0,0,Queens
+1945.0,0,Brooklyn
+1946.0,0,Bronx
+1947.0,0,Brooklyn
+1948.0,0,Manhattan
+1949.0,0,Manhattan
+1950.0,0,Manhattan
+1951.0,0,Bronx
+1952.0,0,Bronx
+1953.0,0,Manhattan
+1954.0,0,Manhattan
+1959.0,0,Manhattan
+1960.0,0,Brooklyn
+1961.0,0,Brooklyn
+1962.0,0,Brooklyn
+1963.0,0,Brooklyn
+1964.0,0,Brooklyn
+1965.0,0,Brooklyn
+1966.0,0,Brooklyn
+1967.0,0,Brooklyn
+1968.0,0,Bronx
+1969.0,0,Bronx
+1970.0,0,Brooklyn
+1971.0,0,Brooklyn
+1972.0,0,Brooklyn
+1973.0,0,Brooklyn
+1974.0,0,Brooklyn
+1975.0,0,Manhattan
+1976.0,0,Queens
+1977.0,0,Queens
+1978.0,0,Manhattan
+1980.0,0,Manhattan
+1981.0,0,Queens
+1982.0,0,Brooklyn
+1983.0,0,Brooklyn
+1984.0,0,Brooklyn
+1985.0,0,Brooklyn
+1986.0,0,Brooklyn
+1987.0,0,Brooklyn
+1988.0,0,Brooklyn
+1989.0,0,Brooklyn
+1990.0,0,Brooklyn
+1991.0,0,Brooklyn
+1992.0,0,Brooklyn
+1993.0,0,Brooklyn
+1994.0,0,Brooklyn
+1995.0,0,Brooklyn
+1996.0,0,Brooklyn
+1997.0,0,Brooklyn
+1998.0,0,Brooklyn
+1999.0,0,Brooklyn
+2000.0,0,Brooklyn
+2001.0,0,
+2002.0,0,Brooklyn
+2003.0,0,Brooklyn
+2004.0,0,Brooklyn
+2005.0,0,Brooklyn
+2006.0,0,Brooklyn
+2007.0,0,Brooklyn
+2008.0,0,Brooklyn
+2009.0,0,Brooklyn
+2010.0,0,Brooklyn
+2011.0,0,Brooklyn
+2012.0,0,Brooklyn
+2013.0,0,Brooklyn
+2014.0,0,Brooklyn
+2015.0,0,Brooklyn
+2016.0,0,Brooklyn
+2017.0,0,Brooklyn
+2018.0,0,Brooklyn
+2019.0,0,Brooklyn
+2020.0,0,Brooklyn
+2021.0,0,Brooklyn
+2022.0,0,Brooklyn
+2023.0,0,Brooklyn
+2024.0,0,Brooklyn
+2025.0,0,Brooklyn
+2026.0,0,Brooklyn
+2027.0,0,Brooklyn
+2028.0,0,Brooklyn
+2029.0,0,Brooklyn
+2030.0,0,Brooklyn
+2031.0,0,Brooklyn
+2032.0,0,Brooklyn
+2033.0,0,Brooklyn
+2034.0,0,Brooklyn
+2035.0,0,Brooklyn
+2036.0,0,Brooklyn
+2037.0,0,Brooklyn
+2038.0,0,Brooklyn
+2039.0,0,Brooklyn
+2040.0,0,Brooklyn
+2041.0,0,Brooklyn
+2042.0,0,Brooklyn
+2043.0,0,Brooklyn
+2044.0,0,Brooklyn
+2045.0,0,Brooklyn
+2046.0,0,Brooklyn
+2047.0,0,Brooklyn
+2048.0,0,Brooklyn
+2049.0,0,Brooklyn
+2050.0,0,Brooklyn
+2051.0,0,Brooklyn
+2052.0,0,Brooklyn
+2053.0,0,Brooklyn
+2054.0,0,Brooklyn
+2055.0,0,Brooklyn
+2056.0,0,Brooklyn
+2057.0,0,Brooklyn
+2058.0,0,Brooklyn
+2059.0,0,Brooklyn
+2060.0,0,Brooklyn
+2061.0,0,Brooklyn
+2062.0,0,Brooklyn
+2063.0,0,Brooklyn
+2064.0,0,Brooklyn
+2065.0,0,Brooklyn
+2066.0,0,Brooklyn
+2067.0,0,Brooklyn
+2068.0,0,Brooklyn
+2069.0,0,Brooklyn
+2070.0,0,Brooklyn
+2071.0,0,Brooklyn
+2072.0,0,Brooklyn
+2073.0,0,Brooklyn
+2074.0,0,Brooklyn
+2075.0,0,Brooklyn
+2076.0,0,Brooklyn
+2077.0,0,Brooklyn
+2078.0,0,Brooklyn
+2079.0,0,Brooklyn
+2080.0,0,Queens
+2081.0,0,Queens
+2082.0,0,Queens
+2083.0,0,Queens
+2084.0,0,Queens
+2085.0,0,Queens
+2086.0,0,Queens
+2087.0,0,Queens
+2088.0,0,Queens
+2089.0,0,Brooklyn
+2090.0,0,Bronx
+2091.0,0,Bronx
+2092.0,0,Manhattan
+2093.0,0,Manhattan
+2096.0,0,Brooklyn
+2097.0,0,Bronx
+2098.0,0,Brooklyn
+2099.0,0,Brooklyn
+2100.0,0,Queens
+2101.0,0,Manhattan
+2102.0,0,Bronx
+2103.0,0,Bronx
+2104.0,0,Bronx
+2105.0,0,Bronx
+2106.0,0,Bronx
+2107.0,0,Bronx
+2108.0,0,Bronx
+2109.0,0,Bronx
+2110.0,0,Bronx
+2111.0,0,Bronx
+2112.0,0,Bronx
+2113.0,0,Bronx
+2114.0,0,Bronx
+2115.0,0,Bronx
+2116.0,0,Bronx
+2117.0,0,Bronx
+2118.0,0,Bronx
+2119.0,0,Bronx
+2120.0,0,Bronx
+2121.0,0,Bronx
+2122.0,0,Bronx
+2123.0,0,Bronx
+2124.0,0,Bronx
+2125.0,0,Bronx
+2126.0,0,Bronx
+2127.0,0,Bronx
+2128.0,0,Bronx
+2129.0,0,Bronx
+2130.0,0,Bronx
+2131.0,0,Bronx
+2132.0,0,Bronx
+2133.0,0,Bronx
+2134.0,0,Bronx
+2135.0,0,Bronx
+2136.0,0,Bronx
+2137.0,0,Bronx
+2138.0,0,Bronx
+2139.0,0,Bronx
+2140.0,0,Bronx
+2141.0,0,Bronx
+2142.0,0,Bronx
+2143.0,0,Bronx
+2144.0,0,Bronx
+2145.0,0,Bronx
+2146.0,0,Bronx
+2147.0,0,Bronx
+2148.0,0,Bronx
+2149.0,0,Bronx
+2150.0,0,Bronx
+2151.0,0,Bronx
+2152.0,0,Bronx
+2153.0,0,Bronx
+2154.0,0,Bronx
+2155.0,0,Bronx
+2156.0,0,Bronx
+2157.0,0,Bronx
+2158.0,0,Bronx
+2159.0,0,Bronx
+2160.0,0,Bronx
+2161.0,0,Bronx
+2162.0,0,
+2163.0,0,
+2164.0,0,
+2165.0,0,
+2166.0,0,Bronx
+2167.0,0,
+2168.0,0,Bronx
+2169.0,0,Brooklyn
+2170.0,0,Queens
+2171.0,0,Queens
+2172.0,0,Queens
+2173.0,0,Queens
+2174.0,0,Queens
+2175.0,0,Queens
+2176.0,0,Queens
+2177.0,0,Queens
+2178.0,0,Queens
+2179.0,0,Queens
+2180.0,0,Bronx
+2181.0,0,Bronx
+2182.0,0,Manhattan
+2183.0,0,Brooklyn
+2184.0,0,Bronx
+2185.0,0,Bronx
+2186.0,0,Queens
+2187.0,0,Bronx
+2188.0,0,Bronx
+2189.0,0,Bronx
+2190.0,0,Bronx
+2191.0,0,Bronx
+2192.0,0,Bronx
+2193.0,0,Bronx
+2194.0,0,Bronx
+2195.0,0,Bronx
+2196.0,0,Bronx
+2197.0,0,Bronx
+2198.0,0,Bronx
+2199.0,0,Bronx
+2200.0,0,Bronx
+2201.0,0,Bronx
+2202.0,0,Bronx
+2203.0,0,Bronx
+2204.0,0,Bronx
+2205.0,0,Bronx
+2206.0,0,Bronx
+2207.0,0,Bronx
+2208.0,0,Bronx
+2209.0,0,Bronx
+2210.0,0,Bronx
+2211.0,0,Bronx
+2242.0,0,Brooklyn
+2243.0,0,Brooklyn
+2244.0,0,Brooklyn
+2245.0,0,Brooklyn
+2248.0,0,Manhattan
+2249.0,0,Manhattan
+2250.0,0,Manhattan
+2251.0,0,Brooklyn
+2252.0,0,Manhattan
+2253.0,0,Manhattan
+2254.0,0,Manhattan
+2255.0,0,Manhattan
+2256.0,0,Manhattan
+2257.0,0,Manhattan
+2258.0,0,Manhattan
+2259.0,0,Manhattan
+2260.0,0,Manhattan
+2261.0,0,Manhattan
+2262.0,0,Manhattan
+2263.0,0,Manhattan
+2264.0,0,Manhattan
+2265.0,0,Manhattan
+2266.0,0,Manhattan
+2267.0,0,Manhattan
+2268.0,0,Manhattan
+2269.0,0,Manhattan
+2270.0,0,Manhattan
+2271.0,0,Manhattan
+2272.0,0,Manhattan
+2273.0,0,Manhattan
+2274.0,0,Manhattan
+2275.0,0,Manhattan
+2276.0,0,Manhattan
+2277.0,0,Manhattan
+2278.0,0,Manhattan
+2279.0,0,Brooklyn
+2280.0,0,Brooklyn
+2290.0,0,Brooklyn
+2291.0,0,Queens
+2292.0,0,Manhattan
+2293.0,0,Manhattan
+2294.0,0,Manhattan
+2295.0,0,Manhattan
+2296.0,0,Manhattan
+2297.0,0,Manhattan
+2298.0,0,Brooklyn
+2299.0,0,Bronx
+2300.0,0,Queens
+2301.0,0,Brooklyn
+2302.0,0,Bronx
+2303.0,0,Queens
+2304.0,0,Manhattan
+2305.0,0,Brooklyn
+2306.0,0,Brooklyn
+2307.0,0,Brooklyn
+2308.0,0,Brooklyn
+2310.0,0,Manhattan
+2311.0,0,Manhattan
+2312.0,0,Queens
+2313.0,0,Queens
+2314.0,0,Queens
+2315.0,0,Queens
+2316.0,0,Queens
+2317.0,0,Bronx
+2318.0,0,Brooklyn
+2319.0,0,Brooklyn
+2320.0,0,Brooklyn
+2321.0,0,Brooklyn
+2322.0,0,Brooklyn
+2323.0,0,Brooklyn
+2324.0,0,Brooklyn
+2325.0,0,Brooklyn
+2326.0,0,Brooklyn
+2327.0,0,Brooklyn
+2328.0,0,Brooklyn
+2329.0,0,Brooklyn
+2330.0,0,Brooklyn
+2331.0,0,Brooklyn
+2332.0,0,Brooklyn
+2333.0,0,Brooklyn
+2334.0,0,Brooklyn
+2341.0,0,Brooklyn
+2343.0,0,Brooklyn
+2344.0,0,Brooklyn
+2345.0,0,Queens
+2346.0,0,Queens
+2347.0,0,Queens
+2388.0,0,Bronx
+2389.0,0,Queens
+2390.0,0,Queens
+2391.0,0,Queens
+2392.0,0,Queens
+2393.0,0,Queens
+2394.0,0,Queens
+2395.0,0,Queens
+2396.0,0,Queens
+2397.0,0,Brooklyn
+2398.0,0,Brooklyn
+2399.0,0,Manhattan
+2400.0,0,
+2401.0,0,Brooklyn
+2402.0,0,Brooklyn
+2403.0,0,Queens
+2404.0,0,Brooklyn
+2405.0,0,Brooklyn
+2408.0,0,Brooklyn
+2409.0,0,Brooklyn
+2410.0,0,Brooklyn
+2411.0,0,Brooklyn
+2412.0,0,Brooklyn
+2413.0,0,Brooklyn
+2414.0,0,Brooklyn
+2415.0,0,Brooklyn
+2416.0,0,Brooklyn
+2417.0,0,Brooklyn
+2418.0,0,Brooklyn
+2419.0,0,Brooklyn
+2420.0,0,Brooklyn
+2421.0,0,Brooklyn
+2422.0,0,Brooklyn
+2423.0,0,Brooklyn
+2424.0,0,Brooklyn
+2425.0,0,Brooklyn
+2426.0,0,Brooklyn
+2427.0,0,Brooklyn
+2428.0,0,Brooklyn
+2429.0,0,Brooklyn
+2430.0,0,Brooklyn
+2431.0,0,Brooklyn
+2432.0,0,Brooklyn
+2433.0,0,Brooklyn
+2434.0,0,Brooklyn
+2435.0,0,Brooklyn
+2436.0,0,Brooklyn
+2437.0,0,Brooklyn
+2438.0,0,Brooklyn
+2439.0,0,Brooklyn
+2440.0,0,Brooklyn
+2441.0,0,Brooklyn
+2442.0,0,Brooklyn
+2443.0,0,Brooklyn
+2444.0,0,Brooklyn
+2445.0,0,Brooklyn
+2446.0,0,Brooklyn
+2447.0,0,Brooklyn
+2448.0,0,Brooklyn
+2449.0,0,Brooklyn
+2450.0,0,Brooklyn
+2451.0,0,Brooklyn
+2452.0,0,Brooklyn
+2453.0,0,Brooklyn
+2454.0,0,Brooklyn
+2455.0,0,Brooklyn
+2456.0,0,Brooklyn
+2457.0,0,Brooklyn
+2458.0,0,Brooklyn
+2459.0,0,Brooklyn
+2460.0,0,Brooklyn
+2461.0,0,Brooklyn
+2462.0,0,Brooklyn
+2463.0,0,Brooklyn
+2464.0,0,Brooklyn
+2465.0,0,Brooklyn
+2466.0,0,Brooklyn
+2467.0,0,Brooklyn
+2468.0,0,Brooklyn
+2469.0,0,Brooklyn
+2470.0,0,Brooklyn
+2471.0,0,Brooklyn
+2472.0,0,Brooklyn
+2473.0,0,Brooklyn
+2474.0,0,Brooklyn
+2475.0,0,Brooklyn
+2476.0,0,Brooklyn
+2477.0,0,Brooklyn
+2478.0,0,Brooklyn
+2479.0,0,Brooklyn
+2480.0,0,Brooklyn
+2481.0,0,Brooklyn
+2482.0,0,Brooklyn
+2483.0,0,Brooklyn
+2484.0,0,Brooklyn
+2485.0,0,Brooklyn
+2486.0,0,Brooklyn
+2487.0,0,Brooklyn
+2488.0,0,Brooklyn
+2489.0,0,Brooklyn
+2490.0,0,Brooklyn
+2491.0,0,Brooklyn
+2492.0,0,Brooklyn
+2493.0,0,Brooklyn
+2494.0,0,Brooklyn
+2495.0,0,Brooklyn
+2496.0,0,
+2497.0,0,Brooklyn
+2498.0,0,Brooklyn
+2499.0,0,Brooklyn
+2500.0,0,Brooklyn
+2501.0,0,Brooklyn
+2502.0,0,Brooklyn
+2503.0,0,Brooklyn
+2504.0,0,Brooklyn
+2505.0,0,Queens
+2506.0,0,Bronx
+2507.0,0,Manhattan
+2508.0,0,Bronx
+2509.0,0,Bronx
+2510.0,0,Manhattan
+2511.0,0,Manhattan
+2512.0,0,Manhattan
+2513.0,0,Brooklyn
+2514.0,0,Queens
+2515.0,0,Queens
+2516.0,0,Queens
+2517.0,0,Queens
+2518.0,0,Manhattan
+2524.0,0,Brooklyn
+2525.0,0,Queens
+2526.0,0,Queens
+2527.0,0,Manhattan
+2528.0,0,Brooklyn
+2529.0,0,Manhattan
+2530.0,0,Queens
+2531.0,0,Brooklyn
+2532.0,0,Bronx
+2533.0,0,Bronx
+2534.0,0,Bronx
+2535.0,0,Bronx
+2536.0,0,Bronx
+2537.0,0,Bronx
+2538.0,0,Bronx
+2539.0,0,Bronx
+2540.0,0,Bronx
+2541.0,0,Bronx
+2542.0,0,Bronx
+2543.0,0,Bronx
+2544.0,0,Bronx
+2545.0,0,Bronx
+2546.0,0,Bronx
+2547.0,0,Bronx
+2548.0,0,Bronx
+2549.0,0,Bronx
+2550.0,0,Bronx
+2551.0,0,Bronx
+2552.0,0,Bronx
+2553.0,0,Bronx
+2554.0,0,Bronx
+2555.0,0,Bronx
+2556.0,0,Bronx
+2557.0,0,Queens
+2558.0,0,Queens
+2559.0,0,Queens
+2560.0,0,Queens
+2561.0,0,Queens
+2562.0,0,Queens
+2563.0,0,Queens
+2564.0,0,Queens
+2565.0,0,Queens
+2566.0,0,Queens
+2567.0,0,Queens
+2568.0,0,Queens
+2569.0,0,Queens
+2570.0,0,Queens
+2571.0,0,Queens
+2572.0,0,Queens
+2573.0,0,Queens
+2574.0,0,Queens
+2575.0,0,Queens
+2576.0,0,Queens
+2577.0,0,Queens
+2578.0,0,Queens
+2579.0,0,Queens
+2580.0,0,Queens
+2581.0,0,Queens
+2582.0,0,Queens
+2583.0,0,Queens
+2584.0,0,Queens
+2585.0,0,Queens
+2586.0,0,Queens
+2587.0,0,Queens
+2588.0,0,Queens
+2589.0,0,Queens
+2590.0,0,Queens
+2591.0,0,Queens
+2592.0,0,Queens
+2593.0,0,Queens
+2594.0,0,Queens
+2595.0,0,Queens
+2596.0,0,Queens
+2597.0,0,Queens
+2598.0,0,Queens
+2599.0,0,Queens
+2600.0,0,Queens
+2601.0,0,Queens
+2602.0,0,Queens
+2603.0,0,Queens
+2604.0,0,Queens
+2605.0,0,Queens
+2606.0,0,Queens
+2607.0,0,Queens
+2608.0,0,Bronx
+2609.0,0,Brooklyn
+2610.0,0,Queens
+2611.0,0,Bronx
+2612.0,0,Bronx
+2613.0,0,Brooklyn
+2614.0,0,Brooklyn
+2615.0,0,Manhattan
+2616.0,0,Brooklyn
+2617.0,0,Bronx
+2618.0,0,Manhattan
+2619.0,0,Manhattan
+2621.0,0,Brooklyn
+2622.0,0,Brooklyn
+2623.0,0,Brooklyn
+2624.0,0,Queens
+2625.0,0,Manhattan
+2626.0,0,Manhattan
+2627.0,0,Queens
+2628.0,0,Brooklyn
+2629.0,0,Brooklyn
+2630.0,0,Brooklyn
+2631.0,0,Queens
+2632.0,0,Bronx
+2633.0,0,Bronx
+2634.0,0,Brooklyn
+2635.0,0,Queens
+2636.0,0,Queens
+2638.0,0,
+2639.0,0,Queens
+2640.0,0,Queens
+2641.0,0,Queens
+2642.0,0,Queens
+2643.0,0,Brooklyn
+2644.0,0,Queens
+2645.0,0,Queens
+2646.0,0,
+2647.0,0,Brooklyn
+2648.0,0,Brooklyn
+2649.0,0,Brooklyn
+2650.0,0,Bronx
+2651.0,0,Manhattan
+2652.0,0,Brooklyn
+2653.0,0,Brooklyn
+2654.0,0,Bronx
+2655.0,0,Bronx
+2656.0,0,Bronx
+2657.0,0,Manhattan
+2658.0,0,Brooklyn
+2659.0,0,Manhattan
+2660.0,0,Brooklyn
+2661.0,0,Brooklyn
+2662.0,0,Manhattan
+2663.0,0,Brooklyn
+2664.0,0,Brooklyn
+2665.0,0,Brooklyn
+2666.0,0,Brooklyn
+2667.0,0,Brooklyn
+2668.0,0,Brooklyn
+2669.0,0,Manhattan
+2670.0,0,Brooklyn
+2671.0,0,Bronx
+2672.0,0,Bronx
+2673.0,0,Bronx
+2674.0,0,Manhattan
+2675.0,0,Manhattan
+2676.0,0,Brooklyn
+2677.0,0,Queens
+2678.0,0,Queens
+2679.0,0,Queens
+2713.0,0,Bronx
+2714.0,0,Bronx
+2715.0,0,Bronx
+2716.0,0,Queens
+2717.0,0,Bronx
+2718.0,0,Bronx
+2719.0,0,Bronx
+2720.0,0,Bronx
+2721.0,0,Bronx
+2722.0,0,Bronx
+2723.0,0,Bronx
+2724.0,0,Bronx
+2725.0,0,Bronx
+2726.0,0,Bronx
+2727.0,0,Bronx
+2728.0,0,Bronx
+2729.0,0,Bronx
+2730.0,0,Bronx
+2731.0,0,Bronx
+2732.0,0,Bronx
+2733.0,0,Bronx
+2734.0,0,Bronx
+2735.0,0,Bronx
+2736.0,0,Bronx
+2737.0,0,Bronx
+2738.0,0,Bronx
+2739.0,0,Bronx
+2740.0,0,Bronx
+2741.0,0,Bronx
+2742.0,0,Bronx
+2743.0,0,Bronx
+2744.0,0,Bronx
+2745.0,0,Bronx
+2746.0,0,Bronx
+2747.0,0,Bronx
+2748.0,0,Bronx
+2749.0,0,Bronx
+2750.0,0,Bronx
+2751.0,0,
+2752.0,0,Bronx
+2753.0,0,Bronx
+2754.0,0,Bronx
+2755.0,0,Bronx
+2756.0,0,Bronx
+2757.0,0,
+2758.0,0,Bronx
+2759.0,0,Bronx
+2760.0,0,Bronx
+2761.0,0,Bronx
+2762.0,0,Bronx
+2763.0,0,Bronx
+2764.0,0,Bronx
+2765.0,0,Bronx
+2766.0,0,Bronx
+2767.0,0,Bronx
+2768.0,0,Manhattan
+2769.0,0,Bronx
+2770.0,0,Bronx
+2771.0,0,Brooklyn
+2772.0,0,Brooklyn
+2773.0,0,Queens
+2774.0,0,Queens
+2775.0,0,Queens
+2776.0,0,Queens
+2777.0,0,Queens
+2778.0,0,Queens
+2779.0,0,Queens
+2780.0,0,Queens
+2781.0,0,Queens
+2782.0,0,Queens
+2783.0,0,Queens
+2784.0,0,Queens
+2785.0,0,Queens
+2786.0,0,Queens
+2787.0,0,Queens
+2788.0,0,Queens
+2789.0,0,Queens
+2790.0,0,Queens
+2791.0,0,Queens
+2792.0,0,Queens
+2793.0,0,Queens
+2794.0,0,Queens
+2795.0,0,Queens
+2796.0,0,Queens
+2797.0,0,Brooklyn
+2798.0,0,Brooklyn
+2799.0,0,Manhattan
+2800.0,0,Bronx
+2801.0,0,Bronx
+2802.0,0,Bronx
+2803.0,0,Bronx
+2804.0,0,Bronx
+2806.0,0,Brooklyn
+2807.0,0,Brooklyn
+2808.0,0,Brooklyn
+2809.0,0,Queens
+2810.0,0,Queens
+2811.0,0,Brooklyn
+2812.0,0,Bronx
+2813.0,0,Bronx
+2814.0,0,Bronx
+2815.0,0,Bronx
+2816.0,0,Bronx
+2817.0,0,Bronx
+2818.0,0,Bronx
+2819.0,0,Bronx
+2820.0,0,Bronx
+2821.0,0,Bronx
+2822.0,0,Bronx
+2823.0,0,Bronx
+2824.0,0,Bronx
+2825.0,0,Bronx
+2826.0,0,Bronx
+2827.0,0,Bronx
+2828.0,0,Bronx
+2829.0,0,Bronx
+2830.0,0,Bronx
+2831.0,0,Bronx
+2832.0,0,Bronx
+2833.0,0,Bronx
+2834.0,0,Bronx
+2835.0,0,Bronx
+2836.0,0,Bronx
+2837.0,0,Bronx
+2838.0,0,Bronx
+2839.0,0,Bronx
+2840.0,0,Bronx
+2841.0,0,Bronx
+2842.0,0,Bronx
+2843.0,0,Bronx
+2844.0,0,Bronx
+2845.0,0,Bronx
+2846.0,0,Brooklyn
+2847.0,0,Brooklyn
+2848.0,0,Brooklyn
+2849.0,0,Brooklyn
+2850.0,0,Brooklyn
+2851.0,0,Brooklyn
+2852.0,0,Brooklyn
+2853.0,0,Brooklyn
+2854.0,0,Brooklyn
+2855.0,0,Queens
+2856.0,0,Brooklyn
+2857.0,0,Brooklyn
+2858.0,0,Queens
+2859.0,0,Bronx
+2860.0,0,Bronx
+2861.0,0,Bronx
+2862.0,0,Bronx
+2863.0,0,Manhattan
+2864.0,0,Manhattan
+2865.0,0,Manhattan
+2866.0,0,Manhattan
+2867.0,0,Manhattan
+2868.0,0,Manhattan
+2869.0,0,Manhattan
+2870.0,0,Queens
+2871.0,0,Queens
+2872.0,0,Brooklyn
+2873.0,0,Manhattan
+2874.0,0,Brooklyn
+2875.0,0,Manhattan
+2876.0,0,Manhattan
+2877.0,0,Manhattan
+2878.0,0,Manhattan
+2879.0,0,Manhattan
+2882.0,0,Brooklyn
+2883.0,0,Brooklyn
+2886.0,0,Bronx
+2887.0,0,Bronx
+2888.0,0,Manhattan
+2890.0,0,Brooklyn
+2891.0,0,Bronx
+2896.0,0,Manhattan
+2897.0,0,Manhattan
+2898.0,0,Bronx
+2899.0,0,Brooklyn
+2900.0,0,Brooklyn
+2901.0,0,Queens
+2902.0,0,Queens
+2903.0,0,Queens
+2904.0,0,Queens
+2905.0,0,Queens
+2906.0,0,Manhattan
+2907.0,0,Brooklyn
+2908.0,0,Brooklyn
+2909.0,0,Brooklyn
+2910.0,0,Bronx
+2911.0,0,Bronx
+2912.0,0,Bronx
+2913.0,0,Bronx
+2914.0,0,Manhattan
+2915.0,0,Queens
+2916.0,0,Manhattan
+2917.0,0,Queens
+2918.0,0,Queens
+2919.0,0,Queens
+2920.0,0,
+2921.0,0,Queens
+2922.0,0,Queens
+2923.0,0,Queens
+2924.0,0,Bronx
+2925.0,0,Brooklyn
+2926.0,0,Manhattan
+2927.0,0,Manhattan
+2928.0,0,Manhattan
+2929.0,0,Manhattan
+2930.0,0,Manhattan
+2931.0,0,Queens
+2932.0,0,Queens
+2933.0,0,Manhattan
+2934.0,0,Queens
+2935.0,0,Queens
+2936.0,0,Queens
+2939.0,0,Manhattan
+2940.0,0,Manhattan
+2941.0,0,Manhattan
+2942.0,0,Manhattan
+2943.0,0,Brooklyn
+2944.0,0,Brooklyn
+2945.0,0,Brooklyn
+2946.0,0,Brooklyn
+2947.0,0,Brooklyn
+2948.0,0,Queens
+2949.0,0,Manhattan
+2950.0,0,Manhattan
+2951.0,0,Queens
+2952.0,0,Queens
+2953.0,0,Queens
+2954.0,0,Queens
+2955.0,0,Queens
+2956.0,0,Queens
+2957.0,0,Queens
+2958.0,0,Queens
+2959.0,0,Queens
+2961.0,0,Manhattan
+2962.0,0,Brooklyn
+2963.0,0,Brooklyn
+2964.0,0,Queens
+2965.0,0,Queens
+2966.0,0,Queens
+2967.0,0,Queens
+2968.0,0,Queens
+2969.0,0,Queens
+2970.0,0,Bronx
+2971.0,0,Bronx
+2972.0,0,Brooklyn
+2973.0,0,Brooklyn
+2974.0,0,Brooklyn
+2975.0,0,Brooklyn
+2976.0,0,Brooklyn
+2977.0,0,Brooklyn
+2978.0,0,Brooklyn
+2979.0,0,Brooklyn
+2980.0,0,Brooklyn
+2981.0,0,Brooklyn
+2982.0,0,Brooklyn
+2983.0,0,Bronx
+2984.0,0,Manhattan
+2985.0,0,Bronx
+2986.0,0,Bronx
+2988.0,0,Queens
+2989.0,0,Queens
+2990.0,0,Queens
+2991.0,0,Queens
+2992.0,0,Queens
+2993.0,0,Queens
+2994.0,0,Queens
+2995.0,0,Brooklyn
+2996.0,0,Brooklyn
+2997.0,0,Brooklyn
+2998.0,0,Brooklyn
+2999.0,0,Brooklyn
+3000.0,0,Brooklyn
+3001.0,0,Brooklyn
+3002.0,0,Brooklyn
+3003.0,0,Brooklyn
+3067.0,0,Bronx
+3068.0,0,Bronx
+3086.0,0,Brooklyn
+3087.0,0,Bronx
+3088.0,0,Manhattan
+3089.0,0,Manhattan
+3090.0,0,Queens
+3091.0,0,Queens
+3092.0,0,Queens
+3093.0,0,Queens
+3094.0,0,Queens
+3095.0,0,Queens
+3096.0,0,Brooklyn
+3097.0,0,Queens
+3098.0,0,Brooklyn
+3099.0,0,Queens
+3100.0,0,Queens
+3101.0,0,Queens
+3102.0,0,Queens
+3103.0,0,Queens
+3104.0,0,Queens
+3105.0,0,Queens
+3106.0,0,Queens
+3107.0,0,Queens
+3108.0,0,Queens
+3109.0,0,Queens
+3110.0,0,Queens
+3111.0,0,Queens
+3112.0,0,Queens
+3113.0,0,Queens
+3114.0,0,Queens
+3115.0,0,Queens
+3116.0,0,Queens
+3117.0,0,Queens
+3118.0,0,Queens
+3119.0,0,Queens
+3120.0,0,Bronx
+3122.0,0,Bronx
+3123.0,0,Manhattan
+3124.0,0,Manhattan
+3125.0,0,Manhattan
+3126.0,0,Manhattan
+3127.0,0,Manhattan
+3128.0,0,Queens
+3129.0,0,Bronx
+3130.0,0,Bronx
+3131.0,0,Brooklyn
+3132.0,0,Manhattan
+3133.0,0,Brooklyn
+3134.0,0,Bronx
+3135.0,0,Bronx
+3136.0,0,Bronx
+3137.0,0,Brooklyn
+3138.0,0,Manhattan
+3139.0,0,Manhattan
+3140.0,0,Manhattan
+3141.0,0,Bronx
+3142.0,0,Manhattan
+3143.0,0,Bronx
+3144.0,0,Queens
+3148.0,0,Manhattan
+3149.0,0,Manhattan
+3150.0,0,Manhattan
+3151.0,0,Manhattan
+3152.0,0,Manhattan
+3153.0,0,Manhattan
+3154.0,0,Manhattan
+3155.0,0,Manhattan
+3160.0,0,Bronx
+3161.0,0,Bronx
+3162.0,0,Manhattan
+3163.0,0,Bronx
+3164.0,0,Bronx
+3165.0,0,Bronx
+3166.0,0,Bronx
+3167.0,0,Bronx
+3168.0,0,Bronx
+3169.0,0,Bronx
+3170.0,0,Bronx
+3171.0,0,Bronx
+3172.0,0,Bronx
+3173.0,0,Bronx
+3174.0,0,Bronx
+3175.0,0,Brooklyn
+3176.0,0,Bronx
+3177.0,0,Bronx
+3178.0,0,Bronx
+3179.0,0,Bronx
+3180.0,0,Bronx
+3181.0,0,Bronx
+3182.0,0,Bronx
+3183.0,0,Bronx
+3184.0,0,Bronx
+3185.0,0,Bronx
+3186.0,0,Manhattan
+3187.0,0,Brooklyn
+3188.0,0,Brooklyn
+3189.0,0,Manhattan
+3190.0,0,Manhattan
+3191.0,0,Queens
+3192.0,0,Queens
+3193.0,0,Manhattan
+3194.0,0,Manhattan
+3195.0,0,Bronx
+3196.0,0,Brooklyn
+3197.0,0,Brooklyn
+3198.0,0,Brooklyn
+3200.0,0,Brooklyn
+3201.0,0,Brooklyn
+3202.0,0,Brooklyn
+3203.0,0,Brooklyn
+3204.0,0,Brooklyn
+3205.0,0,Brooklyn
+3206.0,0,Brooklyn
+3207.0,0,Bronx
+3208.0,0,Bronx
+3209.0,0,Manhattan
+3210.0,0,Manhattan
+3211.0,0,Manhattan
+3212.0,0,Manhattan
+3213.0,0,Bronx
+3214.0,0,Bronx
+3215.0,0,Brooklyn
+3236.0,0,Bronx
+3237.0,0,Brooklyn
+3238.0,0,Bronx
+3239.0,0,Bronx
+3240.0,0,Bronx
+3241.0,0,Bronx
+3242.0,0,Bronx
+3243.0,0,Bronx
+3244.0,0,Bronx
+3245.0,0,Bronx
+3246.0,0,Bronx
+3247.0,0,Bronx
+3248.0,0,Manhattan
+3249.0,0,Bronx
+3250.0,0,Bronx
+3251.0,0,Bronx
+3252.0,0,Bronx
+3253.0,0,Brooklyn
+3254.0,0,Queens
+3255.0,0,Brooklyn
+3256.0,0,Queens
+3257.0,0,Manhattan
+3260.0,0,Manhattan
+3264.0,0,Brooklyn
+3265.0,0,Brooklyn
+3266.0,0,Manhattan
+3267.0,0,Manhattan
+3268.0,0,Manhattan
+3269.0,0,Manhattan
+3270.0,0,Manhattan
+3271.0,0,Manhattan
+3272.0,0,Manhattan
+3273.0,0,Manhattan
+3274.0,0,Manhattan
+3275.0,0,Manhattan
+3276.0,0,Manhattan
+3277.0,0,Manhattan
+3278.0,0,Manhattan
+3279.0,0,Manhattan
+3280.0,0,Manhattan
+3281.0,0,Manhattan
+3282.0,0,Manhattan
+3283.0,0,Manhattan
+3284.0,0,Manhattan
+3285.0,0,Manhattan
+3286.0,0,Manhattan
+3287.0,0,Queens
+3288.0,0,Queens
+3289.0,0,Queens
+3291.0,0,Manhattan
+3292.0,0,Manhattan
+3293.0,0,Manhattan
+3294.0,0,Manhattan
+3295.0,0,Manhattan
+3296.0,0,Queens
+3297.0,0,Queens
+3298.0,0,Queens
+3299.0,0,Queens
+3300.0,0,Manhattan
+3301.0,0,Manhattan
+3302.0,0,Manhattan
+3303.0,0,Manhattan
+3304.0,0,Bronx
+3305.0,0,Queens
+3306.0,0,Queens
+3307.0,0,Queens
+3308.0,0,Queens
+3309.0,0,Queens
+3310.0,0,Queens
+3311.0,0,Queens
+3312.0,0,Queens
+3313.0,0,Queens
+3314.0,0,Queens
+3315.0,0,Brooklyn
+3316.0,0,Queens
+3317.0,0,Manhattan
+3318.0,0,Manhattan
+3319.0,0,Manhattan
+3320.0,0,Queens
+3321.0,0,Queens
+3322.0,0,Queens
+3323.0,0,Queens
+3324.0,0,Queens
+3325.0,0,Manhattan
+3326.0,0,Manhattan
+3327.0,0,Manhattan
+3328.0,0,Brooklyn
+3329.0,0,Brooklyn
+3330.0,0,Brooklyn
+3331.0,0,Brooklyn
+3332.0,0,Queens
+3333.0,0,Manhattan
+3334.0,0,Manhattan
+3335.0,0,Brooklyn
+3336.0,0,Manhattan
+3337.0,0,Manhattan
+3338.0,0,Manhattan
+3339.0,0,Manhattan
+3340.0,0,Manhattan
+3341.0,0,Manhattan
+3342.0,0,Manhattan
+3343.0,0,Manhattan
+3344.0,0,Queens
+3345.0,0,Bronx
+3346.0,0,Bronx
+3347.0,0,Bronx
+3348.0,0,Brooklyn
+3349.0,0,Brooklyn
+3350.0,0,Brooklyn
+3351.0,0,Brooklyn
+3352.0,0,Brooklyn
+3353.0,0,Bronx
+3354.0,0,Bronx
+3356.0,0,Brooklyn
+3357.0,0,Brooklyn
+3358.0,0,Brooklyn
+3359.0,0,Brooklyn
+3360.0,0,Brooklyn
+3361.0,0,Brooklyn
+3362.0,0,Brooklyn
+3363.0,0,Brooklyn
+3364.0,0,Brooklyn
+3365.0,0,Brooklyn
+3366.0,0,Brooklyn
+3367.0,0,Brooklyn
+3368.0,0,Brooklyn
+3369.0,0,Brooklyn
+3370.0,0,Brooklyn
+3371.0,0,Brooklyn
+3372.0,0,Brooklyn
+3373.0,0,Brooklyn
+3374.0,0,Brooklyn
+3375.0,0,Brooklyn
+3376.0,0,Brooklyn
+3377.0,0,Brooklyn
+3378.0,0,Brooklyn
+3379.0,0,Brooklyn
+3380.0,0,Brooklyn
+3381.0,0,Brooklyn
+3382.0,0,Brooklyn
+3383.0,0,Brooklyn
+3384.0,0,Brooklyn
+3385.0,0,Brooklyn
+3386.0,0,Brooklyn
+3387.0,0,Brooklyn
+3388.0,0,Brooklyn
+3389.0,0,Brooklyn
+3390.0,0,Brooklyn
+3391.0,0,Brooklyn
+3392.0,0,Brooklyn
+3393.0,0,Brooklyn
+3394.0,0,Brooklyn
+3395.0,0,Brooklyn
+3396.0,0,Brooklyn
+3397.0,0,Brooklyn
+3398.0,0,Brooklyn
+3399.0,0,Brooklyn
+3400.0,0,Brooklyn
+3401.0,0,Brooklyn
+3402.0,0,Queens
+3403.0,0,Brooklyn
+3404.0,0,Brooklyn
+3405.0,0,Brooklyn
+3406.0,0,Brooklyn
+3407.0,0,Brooklyn
+3408.0,0,Bronx
+3409.0,0,Bronx
+3410.0,0,Brooklyn
+3411.0,0,Brooklyn
+3412.0,0,Brooklyn
+3413.0,0,Brooklyn
+3414.0,0,Brooklyn
+3415.0,0,Brooklyn
+3416.0,0,Brooklyn
+3417.0,0,Brooklyn
+3418.0,0,Brooklyn
+3419.0,0,Brooklyn
+3420.0,0,Brooklyn
+3421.0,0,Brooklyn
+3422.0,0,Brooklyn
+3423.0,0,Manhattan
+3424.0,0,Bronx
+3425.0,0,Bronx
+3426.0,0,Bronx
+3427.0,0,Bronx
+3428.0,0,Bronx
+3429.0,0,Bronx
+3430.0,0,Brooklyn
+3431.0,0,Queens
+3432.0,0,Bronx
+3433.0,0,Queens
+3434.0,0,Queens
+3435.0,0,Queens
+3436.0,0,Brooklyn
+3437.0,0,Brooklyn
+3438.0,0,Brooklyn
+3439.0,0,Brooklyn
+3440.0,0,Brooklyn
+3441.0,0,Brooklyn
+3442.0,0,Brooklyn
+3443.0,0,Brooklyn
+3444.0,0,Brooklyn
+3445.0,0,Brooklyn
+3446.0,0,Brooklyn
+3447.0,0,Brooklyn
+3448.0,0,Brooklyn
+3449.0,0,Brooklyn
+3450.0,0,Brooklyn
+3451.0,0,Queens
+3452.0,0,Brooklyn
+3453.0,0,Brooklyn
+3455.0,0,Brooklyn
+3456.0,0,Brooklyn
+3457.0,0,Brooklyn
+3459.0,0,Queens
+3460.0,0,Queens
+3461.0,0,Queens
+3463.0,0,Brooklyn
+3464.0,0,Brooklyn
+3465.0,0,Brooklyn
+3467.0,0,Brooklyn
+3471.0,0,Brooklyn
+3473.0,0,Brooklyn
+3476.0,0,Bronx
+3477.0,0,Queens
+3478.0,0,Bronx
+3479.0,0,Bronx
+3480.0,0,Manhattan
+3481.0,0,Queens
+3482.0,0,Bronx
+3483.0,0,Bronx
+3484.0,0,Bronx
+3485.0,0,Queens
+3486.0,0,Bronx
+3487.0,0,Bronx
+3488.0,0,Bronx
+3489.0,0,Brooklyn
+3490.0,0,Brooklyn
+3492.0,0,Queens
+3493.0,0,Queens
+3494.0,0,Brooklyn
+3495.0,0,Brooklyn
+3496.0,0,Manhattan
+3497.0,0,Manhattan
+3498.0,0,Manhattan
+3499.0,0,Manhattan
+3500.0,0,Manhattan
+3501.0,0,Queens
+3502.0,0,Brooklyn
+3503.0,0,Brooklyn
+3504.0,0,Bronx
+3505.0,0,Brooklyn
+3506.0,0,Brooklyn
+3507.0,0,Brooklyn
+3508.0,0,Queens
+3509.0,0,Bronx
+3510.0,0,Bronx
+3511.0,0,Bronx
+3512.0,0,Bronx
+3513.0,0,Bronx
+3514.0,0,Bronx
+3515.0,0,Bronx
+3516.0,0,Bronx
+3517.0,0,Manhattan
+3518.0,0,Queens
+3519.0,0,Queens
+3520.0,0,Queens
+3526.0,0,Bronx
+3528.0,0,Queens
+3529.0,0,Manhattan
+3530.0,0,Queens
+3531.0,0,Bronx
+3532.0,0,Queens
+3533.0,0,Queens
+3534.0,0,Queens
+3535.0,0,Queens
+3536.0,0,Queens
+3537.0,0,Queens
+3538.0,0,Queens
+3539.0,0,Queens
+3540.0,0,Queens
+3541.0,0,Brooklyn
+3542.0,0,Queens
+3543.0,0,Queens
+3544.0,0,Queens
+3545.0,0,Queens
+3546.0,0,Queens
+3547.0,0,Queens
+3548.0,0,Brooklyn
+3549.0,0,Bronx
+3550.0,0,Brooklyn
+3551.0,0,Brooklyn
+3552.0,0,Brooklyn
+3553.0,0,Brooklyn
+3554.0,0,Brooklyn
+3555.0,0,Brooklyn
+3556.0,0,Brooklyn
+3557.0,0,Brooklyn
+3558.0,0,Brooklyn
+3559.0,0,Brooklyn
+3560.0,0,Brooklyn
+3561.0,0,Bronx
+3562.0,0,Brooklyn
+3563.0,0,Brooklyn
+3564.0,0,Brooklyn
+3565.0,0,Brooklyn
+3566.0,0,Brooklyn
+3567.0,0,Brooklyn
+3568.0,0,Brooklyn
+3569.0,0,Brooklyn
+3570.0,0,Queens
+3571.0,0,Queens
+3572.0,0,Queens
+3573.0,0,Queens
+3574.0,0,Brooklyn
+3575.0,0,Brooklyn
+3576.0,0,Brooklyn
+3577.0,0,Brooklyn
+3578.0,0,Bronx
+3579.0,0,Bronx
+3580.0,0,Bronx
+3581.0,0,Bronx
+3582.0,0,Bronx
+3583.0,0,Bronx
+3584.0,0,Bronx
+3585.0,0,Bronx
+3586.0,0,Bronx
+3587.0,0,Queens
+3588.0,0,Bronx
+3590.0,0,Bronx
+3591.0,0,Bronx
+3592.0,0,Bronx
+3593.0,0,Brooklyn
+3594.0,0,Brooklyn
+3595.0,0,Manhattan
+3596.0,0,Manhattan
+3597.0,0,Bronx
+3598.0,0,Bronx
+3599.0,0,Bronx
+3600.0,0,Bronx
+3601.0,0,Bronx
+3602.0,0,Queens
+3603.0,0,Bronx
+3604.0,0,Bronx
+3605.0,0,Bronx
+3606.0,0,Bronx
+3607.0,0,Manhattan
+3608.0,0,Bronx
+3609.0,0,Manhattan
+3610.0,0,Manhattan
+3611.0,0,Manhattan
+3612.0,0,Manhattan
+3613.0,0,Manhattan
+3614.0,0,Manhattan
+3617.0,0,Queens
+3618.0,0,Queens
+3619.0,0,Queens
+3620.0,0,Queens
+3621.0,0,Queens
+3622.0,0,Queens
+3623.0,0,Queens
+3624.0,0,Queens
+3625.0,0,
+3626.0,0,Queens
+3627.0,0,Queens
+3628.0,0,Queens
+3629.0,0,Manhattan
+3630.0,0,Manhattan
+3631.0,0,Manhattan
+3632.0,0,Manhattan
+3633.0,0,Manhattan
+3634.0,0,Bronx
+3635.0,0,Manhattan
+3636.0,0,Queens
+3637.0,0,Bronx
+3638.0,0,
+3639.0,0,Manhattan
+3640.0,0,Brooklyn
+3641.0,0,Bronx
+3642.0,0,Bronx
+3643.0,0,Brooklyn
+3644.0,0,Brooklyn
+3645.0,0,Brooklyn
+3646.0,0,Brooklyn
+3647.0,0,Bronx
+3648.0,0,Manhattan
+3649.0,0,Brooklyn
+3650.0,0,Queens
+3651.0,0,Queens
+3652.0,0,Queens
+3653.0,0,Manhattan
+3654.0,0,Queens
+3655.0,0,Brooklyn
+3656.0,0,Brooklyn
+3657.0,0,Brooklyn
+3658.0,0,Brooklyn
+3659.0,0,Brooklyn
+3660.0,0,Brooklyn
+3661.0,0,Brooklyn
+3662.0,0,Brooklyn
+3663.0,0,Brooklyn
+3664.0,0,Brooklyn
+3665.0,0,Bronx
+3666.0,0,Bronx
+3667.0,0,Bronx
+3668.0,0,Bronx
+3670.0,0,Brooklyn
+3671.0,0,Manhattan
+3672.0,0,Manhattan
+3673.0,0,Manhattan
+3674.0,0,Manhattan
+3675.0,0,Brooklyn
+3676.0,0,Brooklyn
+3677.0,0,Brooklyn
+3678.0,0,Brooklyn
+3679.0,0,Brooklyn
+3680.0,0,Brooklyn
+3681.0,0,Brooklyn
+3682.0,0,Brooklyn
+3683.0,0,Brooklyn
+3684.0,0,Brooklyn
+3685.0,0,Brooklyn
+3686.0,0,Brooklyn
+3687.0,0,Brooklyn
+3688.0,0,Brooklyn
+3689.0,0,Brooklyn
+3690.0,0,Brooklyn
+3691.0,0,Brooklyn
+3692.0,0,Brooklyn
+3693.0,0,Brooklyn
+3694.0,0,Brooklyn
+3695.0,0,Brooklyn
+3696.0,0,Brooklyn
+3697.0,0,Manhattan
+3698.0,0,Manhattan
+3699.0,0,Brooklyn
+3700.0,0,Brooklyn
+3701.0,0,Queens
+3702.0,0,Queens
+3703.0,0,Queens
+3704.0,0,Queens
+3705.0,0,Queens
+3706.0,0,Queens
+3708.0,0,Bronx
+3709.0,0,Queens
+3710.0,0,Queens
+3711.0,0,Queens
+3712.0,0,Queens
+3713.0,0,Queens
+3714.0,0,Queens
+3715.0,0,Queens
+3716.0,0,Brooklyn
+3717.0,0,Brooklyn
+3718.0,0,Brooklyn
+3724.0,0,
+3725.0,0,Bronx
+3726.0,0,Bronx
+3727.0,0,Bronx
+3728.0,0,Bronx
+3729.0,0,Bronx
+3730.0,0,
+3731.0,0,Brooklyn
+3732.0,0,Brooklyn
+3733.0,0,Brooklyn
+3734.0,0,Brooklyn
+3736.0,0,Queens
+3737.0,0,Manhattan
+3738.0,0,Manhattan
+3739.0,0,Brooklyn
+3740.0,0,Brooklyn
+3741.0,0,Brooklyn
+3742.0,0,Bronx
+3743.0,0,Manhattan
+3744.0,0,Manhattan
+3745.0,0,Manhattan
+3746.0,0,Manhattan
+3747.0,0,Queens
+3750.0,0,Manhattan
+3751.0,0,Manhattan
+3752.0,0,Manhattan
+3753.0,0,Queens
+3754.0,0,Queens
+3755.0,0,Queens
+3756.0,0,Queens
+3757.0,0,Queens
+3758.0,0,Queens
+3759.0,0,Queens
+3760.0,0,Queens
+3761.0,0,Queens
+3762.0,0,Queens
+3763.0,0,Brooklyn
+3764.0,0,Bronx
+3765.0,0,Bronx
+3766.0,0,Bronx
+3767.0,0,Bronx
+3768.0,0,Bronx
+3769.0,0,Bronx
+3770.0,0,Brooklyn
+3771.0,0,Bronx
+3772.0,0,Queens
+3773.0,0,Queens
+3774.0,0,Queens
+3775.0,0,Queens
+3776.0,0,Bronx
+3777.0,0,Bronx
+3780.0,0,Bronx
+3781.0,0,Queens
+3782.0,0,Queens
+3783.0,0,Queens
+3784.0,0,Queens
+3785.0,0,Queens
+3786.0,0,Queens
+3787.0,0,Queens
+3788.0,0,Queens
+3789.0,0,Bronx
+3790.0,0,Bronx
+3791.0,0,Bronx
+3792.0,0,Bronx
+3793.0,0,Bronx
+3794.0,0,Bronx
+3795.0,0,Bronx
+3796.0,0,Bronx
+3797.0,0,Bronx
+3798.0,0,Bronx
+3799.0,0,Bronx
+3800.0,0,Bronx
+3801.0,0,Bronx
+3802.0,0,Bronx
+3803.0,0,Bronx
+3804.0,0,Bronx
+3805.0,0,Bronx
+3806.0,0,Bronx
+3807.0,0,Bronx
+3808.0,0,Bronx
+3809.0,0,Bronx
+3812.0,0,
+3816.0,0,Manhattan
+3817.0,0,Manhattan
+3818.0,0,Manhattan
+3819.0,0,Manhattan
+3820.0,0,Manhattan
+3821.0,0,Manhattan
+3822.0,0,Manhattan
+3823.0,0,Manhattan
+3824.0,0,Manhattan
+3825.0,0,Manhattan
+3826.0,0,Manhattan
+3827.0,0,Manhattan
+3828.0,0,Manhattan
+3829.0,0,Manhattan
+3830.0,0,Manhattan
+3831.0,0,Manhattan
+3832.0,0,Manhattan
+3833.0,0,Manhattan
+3834.0,0,Manhattan
+3835.0,0,Manhattan
+3836.0,0,Manhattan
+3837.0,0,Manhattan
+3838.0,0,Manhattan
+3839.0,0,Manhattan
+3840.0,0,Manhattan
+3841.0,0,Manhattan
+3842.0,0,Manhattan
+3843.0,0,Manhattan
+3844.0,0,Manhattan
+3845.0,0,Manhattan
+3846.0,0,Manhattan
+3847.0,0,Manhattan
+3848.0,0,Manhattan
+3849.0,0,Manhattan
+3850.0,0,Manhattan
+3851.0,0,Manhattan
+3852.0,0,Manhattan
+3853.0,0,Manhattan
+3854.0,0,Manhattan
+3855.0,0,Manhattan
+3856.0,0,Manhattan
+3857.0,0,Manhattan
+3858.0,0,Manhattan
+3859.0,0,Brooklyn
+3860.0,0,Brooklyn
+3861.0,0,Bronx
+3862.0,0,
+3863.0,0,Bronx
+3864.0,0,Bronx
+3865.0,0,Bronx
+3866.0,0,Bronx
+3867.0,0,Manhattan
+3868.0,0,Bronx
+3869.0,0,Queens
+3870.0,0,Queens
+3871.0,0,Queens
+3872.0,0,Queens
+3875.0,0,Bronx
+3876.0,0,Queens
+3877.0,0,Queens
+3878.0,0,Queens
+3879.0,0,Queens
+3880.0,0,Queens
+3881.0,0,Queens
+3882.0,0,Queens
+3883.0,0,Queens
+3884.0,0,Queens
+3885.0,0,Queens
+3886.0,0,Queens
+3887.0,0,Queens
+3888.0,0,Queens
+3889.0,0,Queens
+3890.0,0,Queens
+3891.0,0,Queens
+3892.0,0,Queens
+3893.0,0,Queens
+3894.0,0,Queens
+3895.0,0,Queens
+3896.0,0,Queens
+3897.0,0,Bronx
+3898.0,0,Queens
+3899.0,0,Queens
+3900.0,0,Queens
+3901.0,0,Queens
+3902.0,0,Queens
+3903.0,0,Queens
+3904.0,0,Queens
+3905.0,0,Queens
+3906.0,0,Queens
+3907.0,0,
+3908.0,0,Bronx
+3909.0,0,Bronx
+3910.0,0,
+3911.0,0,Bronx
+3912.0,0,Manhattan
+3913.0,0,Manhattan
+3914.0,0,Manhattan
+3915.0,0,Manhattan
+3916.0,0,Manhattan
+3917.0,0,Manhattan
+3918.0,0,Manhattan
+3919.0,0,Manhattan
+3920.0,0,Manhattan
+3921.0,0,Manhattan
+3922.0,0,
+3923.0,0,Bronx
+3924.0,0,Manhattan
+3925.0,0,Manhattan
+3926.0,0,Manhattan
+3927.0,0,Manhattan
+3928.0,0,Manhattan
+3929.0,0,Manhattan
+3930.0,0,Manhattan
+3931.0,0,Manhattan
+3932.0,0,Bronx
+3934.0,0,Brooklyn
+3935.0,0,Brooklyn
+3936.0,0,Brooklyn
+3937.0,0,Brooklyn
+3938.0,0,Brooklyn
+3939.0,0,Brooklyn
+3940.0,0,Brooklyn
+3941.0,0,Brooklyn
+3942.0,0,Brooklyn
+3943.0,0,Brooklyn
+3944.0,0,Brooklyn
+3945.0,0,Bronx
+3946.0,0,Manhattan
+3947.0,0,Manhattan
+3948.0,0,Manhattan
+3949.0,0,Manhattan
+3950.0,0,Manhattan
+3951.0,0,Manhattan
+3952.0,0,Manhattan
+3953.0,0,Manhattan
+3954.0,0,Manhattan
+3955.0,0,Manhattan
+3956.0,0,Manhattan
+3957.0,0,Manhattan
+3958.0,0,Manhattan
+3959.0,0,Manhattan
+3960.0,0,Manhattan
+3961.0,0,Manhattan
+3962.0,0,Manhattan
+3963.0,0,Manhattan
+3964.0,0,Manhattan
+3965.0,0,Manhattan
+3966.0,0,Manhattan
+3967.0,0,Manhattan
+3968.0,0,Manhattan
+3969.0,0,Manhattan
+3970.0,0,Manhattan
+3971.0,0,Manhattan
+3972.0,0,Manhattan
+3973.0,0,Manhattan
+3974.0,0,Manhattan
+3975.0,0,Manhattan
+3976.0,0,Manhattan
+3977.0,0,Manhattan
+3978.0,0,Manhattan
+3979.0,0,Manhattan
+3980.0,0,Manhattan
+3981.0,0,Manhattan
+3982.0,0,Manhattan
+3983.0,0,Manhattan
+3984.0,0,Manhattan
+3985.0,0,Manhattan
+3986.0,0,Manhattan
+3987.0,0,Manhattan
+3988.0,0,Manhattan
+3989.0,0,Manhattan
+3990.0,0,Manhattan
+3991.0,0,Manhattan
+3992.0,0,Manhattan
+3993.0,0,Manhattan
+3994.0,0,Manhattan
+3995.0,0,Manhattan
+3996.0,0,Manhattan
+3997.0,0,Manhattan
+3998.0,0,Manhattan
+3999.0,0,Manhattan
+4000.0,0,Manhattan
+4001.0,0,Manhattan
+4002.0,0,Manhattan
+4003.0,0,Manhattan
+4004.0,0,Manhattan
+4005.0,0,Manhattan
+4006.0,0,Manhattan
+4007.0,0,Manhattan
+4008.0,0,Manhattan
+4009.0,0,Manhattan
+4010.0,0,Manhattan
+4011.0,0,Manhattan
+4012.0,0,Manhattan
+4013.0,0,Manhattan
+4014.0,0,Manhattan
+4015.0,0,Manhattan
+4016.0,0,Manhattan
+4017.0,0,Manhattan
+4018.0,0,Manhattan
+4019.0,0,Manhattan
+4020.0,0,Manhattan
+4021.0,0,Manhattan
+4022.0,0,Manhattan
+4023.0,0,Manhattan
+4024.0,0,Manhattan
+4025.0,0,Manhattan
+4026.0,0,Manhattan
+4027.0,0,Manhattan
+4028.0,0,Manhattan
+4029.0,0,Manhattan
+4030.0,0,Bronx
+4031.0,0,Brooklyn
+4032.0,0,Brooklyn
+4033.0,0,Brooklyn
+4034.0,0,Brooklyn
+4035.0,0,Brooklyn
+4036.0,0,Brooklyn
+4037.0,0,Brooklyn
+4038.0,0,
+4039.0,0,Manhattan
+4040.0,0,Queens
+4041.0,0,Queens
+4042.0,0,
+4043.0,0,
+4044.0,0,Brooklyn
+4045.0,0,Brooklyn
+4046.0,0,Brooklyn
+4047.0,0,
+4048.0,0,Brooklyn
+4049.0,0,Brooklyn
+4050.0,0,Brooklyn
+4051.0,0,Bronx
+4052.0,0,Manhattan
+4053.0,0,Manhattan
+4054.0,0,Manhattan
+4055.0,0,Queens
+4056.0,0,Bronx
+4057.0,0,Queens
+4058.0,0,Queens
+4059.0,0,Queens
+4060.0,0,Queens
+4061.0,0,Queens
+4062.0,0,Queens
+4063.0,0,Queens
+4064.0,0,Bronx
+4065.0,0,Manhattan
+4066.0,0,Manhattan
+4067.0,0,
+4068.0,0,Manhattan
+4069.0,0,Bronx
+4070.0,0,Queens
+4071.0,0,Queens
+4072.0,0,Queens
+4073.0,0,
+4074.0,0,Bronx
+4075.0,0,
+4076.0,0,Bronx
+4077.0,0,Queens
+4078.0,0,Queens
+4079.0,0,Queens
+4080.0,0,Queens
+4081.0,0,Queens
+4082.0,0,Queens
+4083.0,0,Queens
+4084.0,0,Queens
+4085.0,0,Queens
+4086.0,0,Queens
+4087.0,0,Queens
+4088.0,0,Queens
+4089.0,0,Queens
+4090.0,0,Queens
+4091.0,0,Queens
+4092.0,0,Queens
+4093.0,0,Queens
+4094.0,0,Queens
+4095.0,0,Queens
+4096.0,0,Queens
+4097.0,0,Queens
+4098.0,0,Queens
+4099.0,0,Queens
+4100.0,0,Queens
+4101.0,0,Brooklyn
+4102.0,0,
+4103.0,0,Queens
+4104.0,0,Queens
+4105.0,0,Queens
+4106.0,0,Queens
+4107.0,0,Queens
+4108.0,0,Queens
+4109.0,0,Bronx
+4110.0,0,Queens
+4111.0,0,Queens
+4112.0,0,Queens
+4113.0,0,Queens
+4114.0,0,Queens
+4115.0,0,Queens
+4116.0,0,Queens
+4117.0,0,Brooklyn
+4118.0,0,Brooklyn
+4119.0,0,Manhattan
+4120.0,0,Manhattan
+4121.0,0,Manhattan
+4122.0,0,Bronx
+4123.0,0,Manhattan
+4124.0,0,Brooklyn
+4125.0,0,Brooklyn
+4126.0,0,Brooklyn
+4127.0,0,Bronx
+4128.0,0,Bronx
+4129.0,0,Manhattan
+4130.0,0,
+4131.0,0,Brooklyn
+4132.0,0,Brooklyn
+4133.0,0,Queens
+4134.0,0,Queens
+4135.0,0,Queens
+4136.0,0,Queens
+4137.0,0,Brooklyn
+4138.0,0,Brooklyn
+4139.0,0,Brooklyn
+4140.0,0,Bronx
+4141.0,0,Brooklyn
+4142.0,0,Brooklyn
+4143.0,0,Bronx
+4144.0,0,Manhattan
+4145.0,0,Bronx
+4146.0,0,Bronx
+4147.0,0,Bronx
+4148.0,0,Bronx
+4149.0,0,Bronx
+4150.0,0,Bronx
+4151.0,0,Bronx
+4152.0,0,Bronx
+4153.0,0,Bronx
+4154.0,0,Bronx
+4155.0,0,Manhattan
+4156.0,0,Bronx
+4157.0,0,Bronx
+4158.0,0,Bronx
+4159.0,0,Bronx
+4160.0,0,Bronx
+4161.0,0,Bronx
+4162.0,0,Bronx
+4163.0,0,Bronx
+4164.0,0,Queens
+4165.0,0,Bronx
+4166.0,0,Bronx
+4167.0,0,Bronx
+4168.0,0,Bronx
+4169.0,0,Manhattan
+4170.0,0,Manhattan
+4171.0,0,Bronx
+4172.0,0,Bronx
+4173.0,0,Bronx
+4174.0,0,Bronx
+4175.0,0,Bronx
+4176.0,0,Bronx
+4177.0,0,Queens
+4178.0,0,Manhattan
+4179.0,0,Manhattan
+4180.0,0,Manhattan
+4181.0,0,Manhattan
+4182.0,0,Manhattan
+4183.0,0,Manhattan
+4184.0,0,Manhattan
+4185.0,0,Bronx
+4186.0,0,Manhattan
+4187.0,0,Bronx
+4188.0,0,Bronx
+4189.0,0,Bronx
+4190.0,0,Manhattan
+4191.0,0,Bronx
+4192.0,0,Manhattan
+4193.0,0,Manhattan
+4194.0,0,Manhattan
+4195.0,0,Manhattan
+4196.0,0,Manhattan
+4197.0,0,Manhattan
+4198.0,0,Manhattan
+4199.0,0,Bronx
+4200.0,0,Bronx
+4201.0,0,Bronx
+4202.0,0,Manhattan
+4203.0,0,Manhattan
+4204.0,0,Manhattan
+4205.0,0,Manhattan
+4206.0,0,Bronx
+4207.0,0,Bronx
+4208.0,0,Bronx
+4209.0,0,Manhattan
+4210.0,0,Manhattan
+4211.0,0,Manhattan
+4212.0,0,Manhattan
+4213.0,0,Manhattan
+4214.0,0,Manhattan
+4215.0,0,Manhattan
+4216.0,0,Bronx
+4217.0,0,Bronx
+4218.0,0,Bronx
+4219.0,0,Bronx
+4220.0,0,Bronx
+4221.0,0,Manhattan
+4222.0,0,Manhattan
+4223.0,0,Manhattan
+4224.0,0,Bronx
+4225.0,0,Bronx
+4226.0,0,Bronx
+4227.0,0,Bronx
+4228.0,0,Manhattan
+4229.0,0,Manhattan
+4230.0,0,Manhattan
+4231.0,0,Manhattan
+4232.0,0,Manhattan
+4233.0,0,Manhattan
+4234.0,0,Bronx
+4235.0,0,Queens
+4236.0,0,Manhattan
+4237.0,0,Bronx
+4238.0,0,Manhattan
+4239.0,0,Manhattan
+4240.0,0,Bronx
+4241.0,0,Queens
+4242.0,0,Manhattan
+4243.0,0,Manhattan
+4244.0,0,Brooklyn
+4245.0,0,Manhattan
+4246.0,0,Manhattan
+4247.0,0,Manhattan
+4248.0,0,Manhattan
+4249.0,0,Queens
+4250.0,0,Manhattan
+4251.0,0,Manhattan
+4252.0,0,Manhattan
+4253.0,0,Manhattan
+4254.0,0,Manhattan
+4255.0,0,Manhattan
+4256.0,0,Manhattan
+4257.0,0,Manhattan
+4258.0,0,Manhattan
+4259.0,0,Manhattan
+4260.0,0,Manhattan
+4261.0,0,Manhattan
+4262.0,0,Manhattan
+4263.0,0,Brooklyn
+4264.0,0,Manhattan
+4265.0,0,Brooklyn
+4266.0,0,Brooklyn
+4267.0,0,Brooklyn
+4268.0,0,Brooklyn
+4269.0,0,Queens
+4270.0,0,Brooklyn
+4271.0,0,Brooklyn
+4272.0,0,Brooklyn
+4273.0,0,Brooklyn
+4274.0,0,Bronx
+4275.0,0,Bronx
+4276.0,0,Queens
+4277.0,0,Bronx
+4278.0,0,Bronx
+4279.0,0,Manhattan
+4280.0,0,Manhattan
+4281.0,0,Bronx
+4282.0,0,Manhattan
+4283.0,0,Manhattan
+4284.0,0,Manhattan
+4285.0,0,Brooklyn
+4286.0,0,Manhattan
+4287.0,0,Manhattan
+4288.0,0,Brooklyn
+4289.0,0,Brooklyn
+4295.0,0,Manhattan
+4296.0,0,Queens
+4297.0,0,Queens
+4298.0,0,Queens
+4299.0,0,Queens
+4300.0,0,Bronx
+4301.0,0,Queens
+4302.0,0,Brooklyn
+4303.0,0,Brooklyn
+4304.0,0,Manhattan
+4306.0,0,Brooklyn
+4307.0,0,Brooklyn
+4308.0,0,Brooklyn
+4309.0,0,Brooklyn
+4310.0,0,Queens
+4319.0,0,Brooklyn
+4320.0,0,Brooklyn
+4321.0,0,Queens
+4322.0,0,Brooklyn
+4323.0,0,Bronx
+4324.0,0,Queens
+4325.0,0,Queens
+4326.0,0,Bronx
+4347.0,0,Queens
+4348.0,0,
+4349.0,0,Queens
+4350.0,0,
+4351.0,0,Queens
+4352.0,0,Queens
+4353.0,0,Queens
+4354.0,0,Queens
+4356.0,0,
+4357.0,0,Brooklyn
+4358.0,0,Brooklyn
+4360.0,0,
+4361.0,0,Brooklyn
+4362.0,0,Brooklyn
+4363.0,0,Brooklyn
+4364.0,0,Brooklyn
+4365.0,0,
+4366.0,0,Brooklyn
+4367.0,0,Brooklyn
+4368.0,0,Brooklyn
+4369.0,0,
+4370.0,0,Brooklyn
+4371.0,0,Brooklyn
+4372.0,0,Brooklyn
+4373.0,0,
+4374.0,0,Brooklyn
+4375.0,0,
+4376.0,0,Queens
+4377.0,0,Queens
+4378.0,0,Queens
+4379.0,0,Queens
+4380.0,0,Brooklyn
+4381.0,0,Brooklyn
+4382.0,0,Brooklyn
+4383.0,0,Queens
+4384.0,0,
+4385.0,0,Queens
+4386.0,0,Brooklyn
+4387.0,0,Queens
+4388.0,0,
+4389.0,0,
+4390.0,0,
+4391.0,0,Brooklyn
+4392.0,0,Queens
+4393.0,0,
+4394.0,0,Brooklyn
+4395.0,0,Queens
+4396.0,0,
+4397.0,0,Queens
+4398.0,0,Brooklyn
+4399.0,0,Queens
+4400.0,0,Queens
+4401.0,0,Queens
+4405.0,0,Manhattan
+4406.0,0,Manhattan
+4407.0,0,
+4408.0,0,Manhattan
+4409.0,0,Manhattan
+4410.0,0,Manhattan
+4411.0,0,Manhattan
+4412.0,0,Manhattan
+4413.0,0,Manhattan
+4416.0,0,Manhattan
+4417.0,0,Manhattan
+4418.0,0,Queens
+4419.0,0,Brooklyn
+4420.0,0,Brooklyn
+4421.0,0,Manhattan
+4422.0,0,Bronx
+4423.0,0,Queens
+4424.0,0,Queens
+4425.0,0,Queens
+4426.0,0,Queens
+4427.0,0,Bronx
+4428.0,0,Brooklyn
+4429.0,0,Brooklyn
+4430.0,0,Queens
+4431.0,0,Queens
+14.0,1,Staten Island
+15.0,1,Staten Island
+16.0,1,Staten Island
+17.0,1,Staten Island
+18.0,1,Staten Island
+19.0,1,Staten Island
+20.0,1,Staten Island
+21.0,1,Staten Island
+22.0,1,Staten Island
+23.0,1,Staten Island
+24.0,1,Staten Island
+25.0,1,Staten Island
+26.0,1,Staten Island
+27.0,1,Staten Island
+28.0,1,Staten Island
+29.0,1,Staten Island
+2094.0,1,Staten Island
+2095.0,1,Staten Island
+70.0,1,Staten Island
+71.0,1,Staten Island
+72.0,1,Staten Island
+73.0,1,Staten Island
+74.0,1,Staten Island
+75.0,1,Staten Island
+76.0,1,Staten Island
+77.0,1,Staten Island
+78.0,1,Staten Island
+79.0,1,Staten Island
+80.0,1,Staten Island
+81.0,1,Staten Island
+82.0,1,Staten Island
+83.0,1,Staten Island
+84.0,1,Staten Island
+85.0,1,Staten Island
+86.0,1,Staten Island
+87.0,1,Staten Island
+88.0,1,Staten Island
+89.0,1,Staten Island
+90.0,1,Staten Island
+91.0,1,Staten Island
+92.0,1,Staten Island
+93.0,1,Staten Island
+94.0,1,Staten Island
+95.0,1,Staten Island
+96.0,1,Staten Island
+97.0,1,Staten Island
+98.0,1,Staten Island
+2212.0,1,Staten Island
+2213.0,1,Staten Island
+2214.0,1,Staten Island
+2215.0,1,Staten Island
+2216.0,1,Staten Island
+2217.0,1,Staten Island
+2218.0,1,Staten Island
+2219.0,1,Staten Island
+2220.0,1,Staten Island
+2221.0,1,Staten Island
+2222.0,1,Staten Island
+2223.0,1,Staten Island
+2224.0,1,Staten Island
+2225.0,1,Staten Island
+2226.0,1,Staten Island
+2227.0,1,Staten Island
+2228.0,1,Staten Island
+2229.0,1,Staten Island
+2230.0,1,Staten Island
+2231.0,1,Staten Island
+2232.0,1,Staten Island
+2233.0,1,Staten Island
+2234.0,1,Staten Island
+2235.0,1,Staten Island
+2236.0,1,Staten Island
+2237.0,1,Staten Island
+2238.0,1,Staten Island
+2239.0,1,Staten Island
+2240.0,1,Staten Island
+2241.0,1,Staten Island
+4291.0,1,Staten Island
+4292.0,1,Staten Island
+4293.0,1,Staten Island
+2246.0,1,Staten Island
+2247.0,1,Staten Island
+4294.0,1,Staten Island
+4305.0,1,Staten Island
+4311.0,1,Staten Island
+4312.0,1,Staten Island
+4313.0,1,Staten Island
+4314.0,1,Staten Island
+4315.0,1,Staten Island
+4316.0,1,Staten Island
+4317.0,1,
+4318.0,1,Staten Island
+4327.0,1,Staten Island
+4328.0,1,Staten Island
+2281.0,1,Staten Island
+2282.0,1,Staten Island
+2283.0,1,Staten Island
+2284.0,1,Staten Island
+2285.0,1,Staten Island
+2286.0,1,Staten Island
+2287.0,1,Staten Island
+2288.0,1,Staten Island
+2289.0,1,Staten Island
+4329.0,1,Staten Island
+4345.0,1,Staten Island
+2309.0,1,Staten Island
+2335.0,1,Staten Island
+2336.0,1,Staten Island
+2337.0,1,Staten Island
+2338.0,1,Staten Island
+2339.0,1,Staten Island
+2340.0,1,Staten Island
+2342.0,1,Staten Island
+2348.0,1,Staten Island
+2349.0,1,Staten Island
+2350.0,1,Staten Island
+2351.0,1,Staten Island
+2352.0,1,Staten Island
+2353.0,1,Staten Island
+2354.0,1,Staten Island
+2355.0,1,Staten Island
+2356.0,1,Staten Island
+2357.0,1,Staten Island
+2358.0,1,Staten Island
+2359.0,1,Staten Island
+2360.0,1,Staten Island
+2361.0,1,Staten Island
+2362.0,1,Staten Island
+2363.0,1,Staten Island
+2364.0,1,Staten Island
+2365.0,1,Staten Island
+2366.0,1,Staten Island
+2367.0,1,Staten Island
+2368.0,1,Staten Island
+2369.0,1,Staten Island
+2370.0,1,Staten Island
+2371.0,1,Staten Island
+2372.0,1,Staten Island
+2373.0,1,Staten Island
+2374.0,1,Staten Island
+2375.0,1,Staten Island
+2376.0,1,Staten Island
+2377.0,1,Staten Island
+2378.0,1,Staten Island
+2379.0,1,Staten Island
+2380.0,1,Staten Island
+2381.0,1,Staten Island
+2382.0,1,Staten Island
+2383.0,1,Staten Island
+2384.0,1,Staten Island
+2385.0,1,Staten Island
+2386.0,1,Staten Island
+2387.0,1,Staten Island
+2406.0,1,Staten Island
+2407.0,1,Staten Island
+373.0,1,Staten Island
+374.0,1,Staten Island
+474.0,1,Staten Island
+489.0,1,Staten Island
+490.0,1,Staten Island
+491.0,1,Staten Island
+492.0,1,Staten Island
+493.0,1,Staten Island
+494.0,1,Staten Island
+495.0,1,Staten Island
+496.0,1,Staten Island
+497.0,1,Staten Island
+498.0,1,Staten Island
+499.0,1,Staten Island
+500.0,1,Staten Island
+503.0,1,Staten Island
+504.0,1,Staten Island
+516.0,1,Staten Island
+517.0,1,Staten Island
+523.0,1,Staten Island
+525.0,1,Staten Island
+526.0,1,Staten Island
+527.0,1,Staten Island
+528.0,1,Staten Island
+529.0,1,Staten Island
+530.0,1,Staten Island
+531.0,1,Staten Island
+532.0,1,Staten Island
+533.0,1,Staten Island
+534.0,1,Staten Island
+535.0,1,Staten Island
+536.0,1,Staten Island
+537.0,1,Staten Island
+540.0,1,Staten Island
+541.0,1,Staten Island
+543.0,1,
+544.0,1,Staten Island
+2620.0,1,Staten Island
+2637.0,1,Staten Island
+605.0,1,Staten Island
+2680.0,1,Staten Island
+2681.0,1,Staten Island
+2682.0,1,Staten Island
+2683.0,1,Staten Island
+2684.0,1,Staten Island
+2685.0,1,Staten Island
+2686.0,1,Staten Island
+2687.0,1,Staten Island
+2688.0,1,Staten Island
+2689.0,1,Staten Island
+2690.0,1,Staten Island
+2691.0,1,Staten Island
+2692.0,1,Staten Island
+2693.0,1,Staten Island
+2694.0,1,Staten Island
+2695.0,1,Staten Island
+2696.0,1,Staten Island
+2697.0,1,Staten Island
+2698.0,1,Staten Island
+2699.0,1,Staten Island
+2700.0,1,Staten Island
+2701.0,1,Staten Island
+2702.0,1,Staten Island
+2703.0,1,Staten Island
+2704.0,1,Staten Island
+2705.0,1,Staten Island
+2706.0,1,Staten Island
+2707.0,1,Staten Island
+2708.0,1,Staten Island
+2709.0,1,Staten Island
+2710.0,1,Staten Island
+2711.0,1,Staten Island
+2712.0,1,Staten Island
+707.0,1,Staten Island
+708.0,1,Staten Island
+712.0,1,Staten Island
+713.0,1,Staten Island
+715.0,1,Staten Island
+716.0,1,Staten Island
+719.0,1,Staten Island
+720.0,1,Staten Island
+722.0,1,Staten Island
+723.0,1,Staten Island
+724.0,1,Staten Island
+730.0,1,Staten Island
+754.0,1,Staten Island
+967.0,1,Staten Island
+968.0,1,Staten Island
+3013.0,1,Staten Island
+2880.0,1,Staten Island
+2881.0,1,Staten Island
+2884.0,1,Staten Island
+2885.0,1,Staten Island
+2889.0,1,Staten Island
+2892.0,1,Staten Island
+857.0,1,Staten Island
+858.0,1,Staten Island
+874.0,1,Staten Island
+875.0,1,Staten Island
+876.0,1,Staten Island
+877.0,1,Staten Island
+878.0,1,Staten Island
+879.0,1,Staten Island
+880.0,1,Staten Island
+881.0,1,Staten Island
+882.0,1,Staten Island
+883.0,1,Staten Island
+884.0,1,Staten Island
+885.0,1,Staten Island
+886.0,1,Staten Island
+887.0,1,Staten Island
+888.0,1,Staten Island
+2937.0,1,Staten Island
+2938.0,1,Staten Island
+889.0,1,Staten Island
+890.0,1,Staten Island
+891.0,1,Staten Island
+892.0,1,Staten Island
+895.0,1,Staten Island
+896.0,1,Staten Island
+893.0,1,Staten Island
+894.0,1,Staten Island
+897.0,1,Staten Island
+900.0,1,Staten Island
+898.0,1,Staten Island
+902.0,1,Staten Island
+903.0,1,Staten Island
+899.0,1,Staten Island
+905.0,1,Staten Island
+904.0,1,Staten Island
+901.0,1,Staten Island
+906.0,1,Staten Island
+911.0,1,Staten Island
+2960.0,1,Staten Island
+919.0,1,Staten Island
+2987.0,1,Staten Island
+3036.0,1,Staten Island
+3004.0,1,Staten Island
+3005.0,1,Staten Island
+3006.0,1,Staten Island
+3007.0,1,Staten Island
+3008.0,1,Staten Island
+961.0,1,Staten Island
+3009.0,1,Staten Island
+3011.0,1,Staten Island
+3012.0,1,Staten Island
+3010.0,1,Staten Island
+3014.0,1,Staten Island
+3015.0,1,Staten Island
+3016.0,1,Staten Island
+3017.0,1,Staten Island
+3018.0,1,Staten Island
+3019.0,1,Staten Island
+3020.0,1,Staten Island
+3021.0,1,Staten Island
+3022.0,1,Staten Island
+3023.0,1,Staten Island
+3024.0,1,Staten Island
+3025.0,1,Staten Island
+3026.0,1,Staten Island
+3027.0,1,Staten Island
+3028.0,1,Staten Island
+3029.0,1,Staten Island
+3030.0,1,Staten Island
+3031.0,1,Staten Island
+3032.0,1,Staten Island
+3033.0,1,Staten Island
+986.0,1,Staten Island
+3034.0,1,Staten Island
+3035.0,1,Staten Island
+3037.0,1,Staten Island
+3038.0,1,Staten Island
+3039.0,1,Staten Island
+3040.0,1,Staten Island
+3041.0,1,Staten Island
+3042.0,1,Staten Island
+3043.0,1,Staten Island
+3044.0,1,Staten Island
+3045.0,1,Staten Island
+3046.0,1,Staten Island
+3047.0,1,Staten Island
+3048.0,1,Staten Island
+3049.0,1,Staten Island
+3050.0,1,Staten Island
+3051.0,1,Staten Island
+3052.0,1,Staten Island
+3053.0,1,Staten Island
+3054.0,1,Staten Island
+3055.0,1,Staten Island
+3056.0,1,Staten Island
+3057.0,1,Staten Island
+3058.0,1,Staten Island
+3059.0,1,Staten Island
+3060.0,1,Staten Island
+3061.0,1,Staten Island
+3062.0,1,Staten Island
+3063.0,1,Staten Island
+3064.0,1,Staten Island
+3065.0,1,Staten Island
+3066.0,1,Staten Island
+3069.0,1,Staten Island
+3070.0,1,Staten Island
+3071.0,1,Staten Island
+3072.0,1,Staten Island
+3073.0,1,Staten Island
+3074.0,1,Staten Island
+3075.0,1,Staten Island
+3076.0,1,Staten Island
+3077.0,1,Staten Island
+3078.0,1,Staten Island
+3079.0,1,Staten Island
+3080.0,1,Staten Island
+3081.0,1,Staten Island
+3082.0,1,Staten Island
+3083.0,1,Staten Island
+3084.0,1,Staten Island
+3085.0,1,Staten Island
+1038.0,1,Staten Island
+1039.0,1,Staten Island
+1048.0,1,Staten Island
+3121.0,1,Staten Island
+1083.0,1,Staten Island
+1084.0,1,Staten Island
+1085.0,1,Staten Island
+1086.0,1,Staten Island
+1087.0,1,Staten Island
+1088.0,1,Staten Island
+1089.0,1,Staten Island
+1090.0,1,Staten Island
+1091.0,1,Staten Island
+1092.0,1,Staten Island
+3145.0,1,Staten Island
+3146.0,1,Staten Island
+3147.0,1,Staten Island
+1100.0,1,Staten Island
+1101.0,1,Staten Island
+3156.0,1,Staten Island
+3157.0,1,Staten Island
+3158.0,1,Staten Island
+3159.0,1,Staten Island
+1111.0,1,Staten Island
+1114.0,1,Staten Island
+1115.0,1,Staten Island
+633.0,1,Staten Island
+1142.0,1,Staten Island
+634.0,1,Staten Island
+1145.0,1,Staten Island
+635.0,1,Staten Island
+1149.0,1,Staten Island
+3199.0,1,Staten Island
+636.0,1,Staten Island
+1157.0,1,Staten Island
+1165.0,1,Staten Island
+639.0,1,Staten Island
+3216.0,1,
+3217.0,1,Staten Island
+1170.0,1,Staten Island
+3218.0,1,
+3219.0,1,
+3220.0,1,Staten Island
+3221.0,1,Staten Island
+3222.0,1,Staten Island
+3223.0,1,Staten Island
+3224.0,1,Staten Island
+3225.0,1,
+3226.0,1,
+3227.0,1,Staten Island
+3228.0,1,Staten Island
+3229.0,1,Staten Island
+3230.0,1,Staten Island
+3231.0,1,Staten Island
+3232.0,1,Staten Island
+3234.0,1,
+3235.0,1,Staten Island
+3233.0,1,Staten Island
+3258.0,1,Staten Island
+3259.0,1,Staten Island
+3261.0,1,Staten Island
+3262.0,1,Staten Island
+3263.0,1,Staten Island
+1263.0,1,Staten Island
+1299.0,1,Staten Island
+3355.0,1,Staten Island
+1355.0,1,Staten Island
+3454.0,1,Staten Island
+3458.0,1,Staten Island
+3462.0,1,Staten Island
+3466.0,1,Staten Island
+3468.0,1,Staten Island
+3469.0,1,Staten Island
+3470.0,1,Staten Island
+3472.0,1,Staten Island
+3474.0,1,Staten Island
+3475.0,1,Staten Island
+1426.0,1,Staten Island
+1427.0,1,Staten Island
+1428.0,1,Staten Island
+3491.0,1,Staten Island
+1466.0,1,Staten Island
+3521.0,1,Staten Island
+3522.0,1,Staten Island
+3523.0,1,Staten Island
+3524.0,1,Staten Island
+3525.0,1,Staten Island
+1475.0,1,Staten Island
+3527.0,1,Staten Island
+1480.0,1,Staten Island
+1481.0,1,Staten Island
+1484.0,1,Staten Island
+1528.0,1,Staten Island
+1531.0,1,Staten Island
+1532.0,1,Staten Island
+1540.0,1,Staten Island
+3589.0,1,Staten Island
+1542.0,1,Staten Island
+1544.0,1,Staten Island
+1561.0,1,Staten Island
+1566.0,1,Staten Island
+3615.0,1,Staten Island
+3616.0,1,Staten Island
+1569.0,1,Staten Island
+1570.0,1,Staten Island
+1568.0,1,Staten Island
+1579.0,1,Staten Island
+3669.0,1,Staten Island
+1636.0,1,Staten Island
+1640.0,1,Staten Island
+1641.0,1,Staten Island
+1644.0,1,Staten Island
+3707.0,1,Staten Island
+1665.0,1,Staten Island
+3719.0,1,Staten Island
+3720.0,1,Staten Island
+3721.0,1,Staten Island
+3722.0,1,Staten Island
+3723.0,1,Staten Island
+1672.0,1,Staten Island
+3735.0,1,Staten Island
+3748.0,1,Staten Island
+3749.0,1,Staten Island
+4414.0,1,Staten Island
+3778.0,1,Staten Island
+3779.0,1,Staten Island
+4415.0,1,Staten Island
+3810.0,1,Staten Island
+3811.0,1,Staten Island
+3813.0,1,Staten Island
+3814.0,1,Staten Island
+3815.0,1,Staten Island
+640.0,1,Staten Island
+1776.0,1,Staten Island
+3873.0,1,Staten Island
+3874.0,1,Staten Island
+1847.0,1,Staten Island
+1848.0,1,Staten Island
+1856.0,1,Staten Island
+3933.0,1,Staten Island
+1955.0,1,
+1956.0,1,
+1957.0,1,Staten Island
+1958.0,1,Staten Island
+1979.0,1,Staten Island
+945.0,2,Brooklyn
+2893.0,3,Staten Island
+2894.0,3,Staten Island
+2895.0,3,Staten Island
+4346.0,4,
+4355.0,5,
+4402.0,6,Manhattan
+4403.0,6,Manhattan
+4404.0,6,Manhattan

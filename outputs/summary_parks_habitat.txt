@@ -1,0 +1,70 @@
+PARK/SHAPE VEGETATION ANALYSIS SUMMARY
+(Each row represents one unique park/shape identified by UNIT_NAME, name311, or Name_2)
+======================================================================
+
+Borough: Bronx
+  Number of Parks/Shapes: 352
+  Mean Vegetation Pixel Count per Park/Shape: 106176.94
+  SE Vegetation Pixel Count: 34732.93
+  Mean Vegetation Area per Park/Shape (m²): 8848.08
+  SE Vegetation Area (m²): 2894.41
+  Min Vegetation Area (m²): 0.00
+  Max Vegetation Area (m²): 951502.25
+
+Borough: Brooklyn
+  Number of Parks/Shapes: 560
+  Mean Vegetation Pixel Count per Park/Shape: 86449.97
+  SE Vegetation Pixel Count: 32663.21
+  Mean Vegetation Area per Park/Shape (m²): 7204.16
+  SE Vegetation Area (m²): 2721.93
+  Min Vegetation Area (m²): 0.00
+  Max Vegetation Area (m²): 1477207.25
+
+Borough: Manhattan
+  Number of Parks/Shapes: 380
+  Mean Vegetation Pixel Count per Park/Shape: 61105.84
+  SE Vegetation Pixel Count: 19035.39
+  Mean Vegetation Area per Park/Shape (m²): 5092.15
+  SE Vegetation Area (m²): 1586.28
+  Min Vegetation Area (m²): 0.00
+  Max Vegetation Area (m²): 571583.33
+
+Borough: Queens
+  Number of Parks/Shapes: 429
+  Mean Vegetation Pixel Count per Park/Shape: 145783.35
+  SE Vegetation Pixel Count: 37622.92
+  Mean Vegetation Area per Park/Shape (m²): 12148.61
+  SE Vegetation Area (m²): 3135.24
+  Min Vegetation Area (m²): 0.00
+  Max Vegetation Area (m²): 1054741.58
+
+Borough: Staten Island
+  Number of Parks/Shapes: 147
+  Mean Vegetation Pixel Count per Park/Shape: 581870.56
+  SE Vegetation Pixel Count: 136321.11
+  Mean Vegetation Area per Park/Shape (m²): 48489.21
+  SE Vegetation Area (m²): 11360.09
+  Min Vegetation Area (m²): 0.00
+  Max Vegetation Area (m²): 962105.17
+
+VEGETATION THRESHOLD ANALYSIS
+Percentage of parks/shapes with sufficient vegetation coverage:
+(Based on 11.6% vegetation within circular buffer)
+
+  Radius 100 m (≥3644 m² vegetation): 24.09%
+  Radius 250 m (≥22777 m² vegetation): 6.26%
+  Radius 500 m (≥91106 m² vegetation): 2.25%
+  Radius 1000 m (≥364425 m² vegetation): 0.64%
+
+TOTAL DATASET SUMMARY:
+Original dataset rows: 12402
+Vegetation rows processed: 6201
+Total individual parks/shapes analyzed: 1868
+Total vegetation area across all parks/shapes: 21423543.17 m²
+Average vegetation area per park/shape: 11468.71 m²
+Data reduction ratio: 3.3 rows per park/shape
+
+IDENTIFIER BREAKDOWN:
+  NAME311: 1861 parks/shapes
+  UNIT: 6 parks/shapes
+  NAME2: 1 parks/shapes
