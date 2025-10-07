@@ -1,0 +1,14 @@
+{
+  "creators": [
+    {
+      "name": "Matthew J. Lundquist",
+      "affiliation": "Marymount Manhattan College",
+      "orcid": "0000-0001-8110-6664"
+    }
+  ],
+  "title": "Bug Roads: Source Code for Ecological Applications",
+  "description": "Source code for the Bug Roads analysis published in *Ecological Applications*. Repository maintained by Matthew J. Lundquist.",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open"
+}
